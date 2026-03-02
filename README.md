@@ -6,9 +6,9 @@ Este projeto apresenta uma solução analítica completa para a área de Recurso
 As análises cobrem pilares fundamentais do RH, incluindo controle de absenteísmo, gestão de treinamentos corporativos, avaliações de desempenho e eficiência do funil de recrutamento.
 
 ## 🛠️ Ferramentas Utilizadas
-* **Linguagem de Programação:** Python (processamento de dados e regras de negócio)
+* **Linguagem de Programação:** Python (Pandas)
 * **Visualização de Dados:** Power BI
-* **Estrutura de Dados:** Arquivos CSV divididos em Fatos e Dimensões.
+* **Estrutura de Dados:** Arquivos CSV modelados em tabelas Fato e Dimensão.
 
 ## ⚙️ Arquitetura dos Dados e ETL (Python)
 Todo o processo de limpeza, padronização e consolidação dos dados foi roteirizado no script `main.py`. O fluxo processa as seguintes bases brutas:
