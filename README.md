@@ -32,7 +32,9 @@ O modelo estruturado pelo Python foi conectado ao Power BI para a criação do p
 * Média de horas de treinamento investidas por colaborador e custo total.
 * Total de colaboradores ativos, assim como, número de contratações são alguns insights presentes no dashboard.
 
+> ** [Clique aqui para acessar o Dashboard Interativo no Power BI](https://app.powerbi.com/groups/me/reports/35ee9395-21bd-4953-908b-bc797529192a/6b1108e0fc9cda4c84ad?experience=power-bi))**
+
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+  
