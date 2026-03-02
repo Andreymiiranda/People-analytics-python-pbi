@@ -1,0 +1,201 @@
+﻿ID_Vaga,Departamento,Cargo,Tipo_Vaga,Status_Vaga,Data_Abertura,Data_Fechamento,SLA_Dias,Fonte_Principal,Candidatos_Recebidos,Candidatos_Entrevistados,Contratados,Salario_Ofertado,Responsavel_RH_ID
+1,Logística,Coordenador de Logística,Expansão de Time,Em Andamento,2023-03-07,,,Indicação Interna,53,15,0,10313.94,FUNC-0025
+2,Operações,Supervisor de Operações,Substituição,Em Andamento,2022-06-14,,,Banco de Talentos,53,23,0,8342.15,FUNC-0002
+3,Jurídico,Advogado Sr,Nova Posição,Encerrada,2024-05-25,2024-08-09,76.0,Site de Carreiras,50,25,2,15030.29,FUNC-0029
+4,Financeiro,Analista Financeiro Pl,Substituição,Encerrada,2024-09-21,2024-10-21,30.0,LinkedIn,383,11,0,5787.48,FUNC-0030
+5,Marketing,Gerente de Marketing,Expansão de Time,Encerrada,2022-01-14,2022-02-14,31.0,Indeed,23,6,1,22885.33,FUNC-0027
+6,Tecnologia,Analista de Dados Sr,Nova Posição,Encerrada,2024-05-24,2024-07-17,54.0,Indicação Interna,75,84,2,11427.29,FUNC-0027
+7,RH,Gerente de RH,Expansão de Time,Aberta,2024-04-04,,,Indicação Interna,9,9,0,16061.32,FUNC-0024
+8,Logística,Assistente de Logística,Substituição,Encerrada,2022-05-18,2022-07-16,59.0,Consultoria de RH,15,3,0,,FUNC-0029
+9,Marketing,Designer Sr,Substituição,Cancelada,2022-06-04,2022-07-20,46.0,Banco de Talentos,28,5,0,10401.89,FUNC-0028
+10,Operações,Técnico de Operações Pl,Substituição,Encerrada,2024-01-25,2024-02-27,33.0,LinkedIn,67,6,1,4066.11,FUNC-0023
+11,Marketing,Assistente de Marketing,Nova Posição,Encerrada,2022-02-15,2022-04-08,52.0,LinkedIn,46,2,1,3164.84,FUNC-0005
+12,Financeiro,Analista Financeiro Sr,Substituição,Cancelada,2024-02-16,2024-04-26,70.0,LinkedIn,84,25,0,10635.14,FUNC-0012
+13,Financeiro,Analista Financeiro Sr,Nova Posição,Encerrada,2024-09-25,2024-10-11,16.0,LinkedIn,18,4,1,12187.09,FUNC-0015
+14,Tecnologia,Desenvolvedor Backend Pl,Expansão de Time,Encerrada,2023-09-02,2023-09-24,22.0,Consultoria de RH,91,22,1,7779.09,FUNC-0001
+15,RH,Analista de RH Sr,Expansão de Time,Cancelada,2024-10-22,2024-12-20,59.0,LinkedIn,123,12,0,10890.56,FUNC-0002
+16,RH,Gerente de RH,Substituição,Aberta,2024-01-21,,,Indicação Interna,26,1,0,15649.86,FUNC-0009
+17,Tecnologia,Tech Lead,Expansão de Time,Encerrada,2024-02-13,2024-04-19,66.0,Site de Carreiras,20,13,0,18781.79,FUNC-0020
+18,Financeiro,Analista Financeiro Sr,Expansão de Time,Em Andamento,2024-02-25,,,Site de Carreiras,45,15,0,8476.1,FUNC-0012
+19,Operações,Operador de Produção,Expansão de Time,Encerrada,2023-07-04,2023-08-19,46.0,Indeed,173,24,0,3000.0,FUNC-0024
+20,Comercial,Gerente Comercial,Substituição,Aberta,2023-12-20,,,Consultoria de RH,19,16,0,13476.75,FUNC-0028
+21,Comercial,Coordenador Comercial,Expansão de Time,Em Andamento,2023-04-04,,,Site de Carreiras,28,22,0,10548.3,FUNC-0013
+22,Operações,Técnico de Operações Pl,Substituição,Em Andamento,2023-02-01,,,LinkedIn,81,15,0,,FUNC-0009
+23,Logística,Assistente de Logística,Substituição,Encerrada,2022-10-20,2022-12-10,51.0,Site de Carreiras,27,2,0,1841.67,FUNC-0021
+24,Tecnologia,Desenvolvedor Frontend Sr,Nova Posição,Em Andamento,2023-07-23,,,Indeed,45,5,0,16844.41,FUNC-0022
+25,Tecnologia,Desenvolvedor Backend Jr,Expansão de Time,Em Andamento,2024-04-01,,,Indicação Interna,25,28,0,4640.3,FUNC-0017
+26,Logística,Assistente de Logística,Expansão de Time,Aberta,2024-02-12,,,LinkedIn,36,3,0,2384.98,FUNC-0020
+27,Jurídico,Advogado Jr,Substituição,Encerrada,2024-12-10,2024-12-31,72.0,Site de Carreiras,14,2,1,6249.12,FUNC-0026
+28,RH,Coordenador de RH,Substituição,Em Andamento,2022-02-02,,,Indeed,11,1,0,13429.34,FUNC-0002
+29,RH,Analista de RH Pl,Substituição,Encerrada,2023-08-25,2023-11-03,70.0,Banco de Talentos,16,5,2,5325.72,FUNC-0029
+30,Tecnologia,Desenvolvedor Frontend Pl,Nova Posição,Encerrada,2024-10-16,2024-12-31,77.0,Site de Carreiras,18,17,0,,FUNC-0008
+31,Operações,Técnico de Operações Pl,Nova Posição,Encerrada,2024-07-09,2024-08-31,53.0,Consultoria de RH,27,4,0,4821.47,FUNC-0027
+32,Comercial,Assistente Comercial,Nova Posição,Encerrada,2024-05-16,2024-08-11,87.0,Consultoria de RH,18,18,1,1858.84,FUNC-0026
+33,Operações,Supervisor de Operações,Substituição,Encerrada,2024-03-05,2024-03-22,17.0,LinkedIn,25,12,0,7975.06,FUNC-0012
+34,Tecnologia,Desenvolvedor Frontend Sr,Expansão de Time,Em Andamento,2022-06-04,,,Site de Carreiras,10,6,0,13375.75,FUNC-0030
+35,Financeiro,Assistente Financeiro,Nova Posição,Em Andamento,2024-01-09,,,LinkedIn,9,6,0,2816.98,FUNC-0008
+36,RH,Gerente de RH,Substituição,Encerrada,2022-01-21,2022-02-21,31.0,LinkedIn,24,4,0,19821.19,FUNC-0028
+37,RH,Analista de RH Pl,Expansão de Time,Encerrada,2022-04-02,2022-05-30,58.0,Indeed,194,8,1,5063.18,FUNC-0010
+38,Operações,Técnico de Operações Pl,Substituição,Aberta,2023-07-11,,,Indicação Interna,40,4,0,4888.9,FUNC-0025
+39,Marketing,Assistente de Marketing,Substituição,Encerrada,2023-04-24,2023-05-09,15.0,LinkedIn,28,21,1,2533.89,FUNC-0011
+40,Financeiro,Coordenador Financeiro,Substituição,Cancelada,2023-06-08,2023-06-29,21.0,Banco de Talentos,58,22,0,15000.83,FUNC-0004
+41,RH,Assistente de RH,Nova Posição,Em Andamento,2024-01-25,,,LinkedIn,4,1,0,2412.59,FUNC-0028
+42,RH,Analista de RH Sr,Nova Posição,Aberta,2024-11-25,,,LinkedIn,24,3,0,7721.85,FUNC-0001
+43,Marketing,Assistente de Marketing,Expansão de Time,Encerrada,2024-01-14,2024-02-16,33.0,Indicação Interna,74,9,1,2554.85,FUNC-0026
+44,Operações,Operador de Produção,Nova Posição,Aberta,2023-07-10,,,LinkedIn,57,22,0,2004.7,FUNC-0011
+45,Comercial,Assistente Comercial,Expansão de Time,Encerrada,2023-05-19,2023-06-30,42.0,LinkedIn,23,8,2,2646.3,FUNC-0007
+46,Operações,Coordenador de Operações,Substituição,Em Andamento,2023-06-21,,,LinkedIn,18,12,0,,FUNC-0006
+47,Comercial,Analista Comercial Pl,Expansão de Time,Encerrada,2023-07-16,2023-08-03,18.0,Site de Carreiras,14,11,1,4327.46,FUNC-0026
+48,Financeiro,Analista Financeiro Pl,Expansão de Time,Encerrada,2023-03-17,2023-04-12,26.0,LinkedIn,51,24,2,7013.24,FUNC-0012
+49,Financeiro,Analista Financeiro Pl,Substituição,Em Andamento,2024-11-01,,,LinkedIn,14,11,0,5379.05,FUNC-0021
+50,Tecnologia,Desenvolvedor Backend Jr,Nova Posição,Encerrada,2023-06-12,2023-07-30,48.0,Site de Carreiras,186,23,2,4038.43,FUNC-0008
+51,Tecnologia,Desenvolvedor Frontend Sr,Expansão de Time,Encerrada,2023-07-19,2023-10-08,81.0,Consultoria de RH,17,7,0,16006.39,FUNC-0002
+52,Comercial,Consultor de Vendas Sr,Expansão de Time,Aberta,2023-01-02,,,LinkedIn,18,14,0,7483.93,FUNC-0006
+53,Comercial,Consultor de Vendas Sr,Nova Posição,Aberta,2022-09-06,,,Indeed,58,7,0,9181.54,FUNC-0010
+54,Comercial,Consultor de Vendas Sr,Substituição,Em Andamento,2022-09-01,,,Indicação Interna,27,17,0,9666.61,FUNC-0015
+55,Financeiro,Analista Financeiro Sr,Expansão de Time,Encerrada,2022-04-15,2022-06-20,66.0,Banco de Talentos,28,9,1,10484.72,FUNC-0010
+56,Financeiro,Analista Financeiro Pl,Expansão de Time,Encerrada,2024-09-14,2024-10-05,21.0,Banco de Talentos,31,13,1,6133.48,FUNC-0014
+57,Marketing,Designer Sr,Nova Posição,Encerrada,2024-01-04,2024-03-04,60.0,Banco de Talentos,45,1,1,9277.27,FUNC-0026
+58,Financeiro,Assistente Financeiro,Substituição,Em Andamento,2023-02-22,,,Indicação Interna,18,15,0,2842.26,FUNC-0030
+59,Financeiro,Analista Financeiro Pl,Substituição,Em Andamento,2023-08-11,,,Indicação Interna,21,5,0,5889.37,FUNC-0020
+60,Comercial,Coordenador Comercial,Expansão de Time,Cancelada,2024-03-14,2024-05-15,62.0,Indicação Interna,28,5,0,11510.67,FUNC-0013
+61,Comercial,Gerente Comercial,Substituição,Encerrada,2024-05-20,2024-08-08,80.0,Banco de Talentos,37,5,0,21509.65,FUNC-0020
+62,Tecnologia,Desenvolvedor Backend Pl,Nova Posição,Encerrada,2022-02-14,2022-03-28,42.0,LinkedIn,93,11,0,8355.56,FUNC-0004
+63,Comercial,Consultor de Vendas Sr,Expansão de Time,Encerrada,2024-09-22,2024-10-17,25.0,Indicação Interna,20,15,2,7024.04,FUNC-0010
+64,Tecnologia,Desenvolvedor Backend Jr,Nova Posição,Em Andamento,2022-12-18,,,LinkedIn,38,24,0,5062.8,FUNC-0006
+65,Comercial,Analista Comercial Pl,Substituição,Encerrada,2023-04-12,2023-06-24,73.0,Consultoria de RH,94,102,0,4061.01,FUNC-0003
+66,Operações,Técnico de Operações Pl,Nova Posição,Encerrada,2022-04-23,2022-06-19,57.0,LinkedIn,59,2,0,5221.79,FUNC-0003
+67,Comercial,Assistente Comercial,Expansão de Time,Em Andamento,2023-11-20,,,Consultoria de RH,172,11,0,2439.8,FUNC-0020
+68,Financeiro,Coordenador Financeiro,Nova Posição,Encerrada,2024-03-08,2024-04-19,42.0,LinkedIn,30,9,0,10233.58,FUNC-0014
+69,Operações,Técnico de Operações Pl,Nova Posição,Encerrada,2022-09-07,2022-11-04,58.0,LinkedIn,18,2,1,3770.51,FUNC-0019
+70,Financeiro,Assistente Financeiro,Substituição,Em Andamento,2022-08-21,,,Banco de Talentos,15,7,0,2419.54,FUNC-0004
+71,RH,Gerente de RH,Substituição,Encerrada,2024-07-24,2024-10-15,83.0,Banco de Talentos,10,3,2,19508.71,FUNC-0020
+72,Jurídico,Advogado Sr,Substituição,Em Andamento,2023-05-01,,,Consultoria de RH,41,21,0,18851.37,FUNC-0018
+73,RH,Analista de RH Sr,Nova Posição,Em Andamento,2023-03-13,,,Consultoria de RH,29,20,0,9854.03,FUNC-0014
+74,Marketing,Assistente de Marketing,Nova Posição,Em Andamento,2024-11-22,,,Banco de Talentos,66,16,0,2206.8,FUNC-0021
+75,Marketing,Analista de Marketing Pl,Substituição,Em Andamento,2023-08-04,,,Site de Carreiras,26,21,0,4759.76,FUNC-0028
+76,Operações,Técnico de Operações Pl,Substituição,Cancelada,2024-12-10,2024-12-31,68.0,Indicação Interna,15,13,0,4579.04,FUNC-0023
+77,Financeiro,Analista Financeiro Pl,Substituição,Encerrada,2022-09-01,2022-10-14,43.0,Site de Carreiras,28,3,2,8014.54,FUNC-0006
+78,Comercial,Gerente Comercial,Substituição,Em Andamento,2024-02-25,,,Indicação Interna,132,12,0,18981.86,FUNC-0026
+79,Comercial,Assistente Comercial,Substituição,Aberta,2024-01-07,,,Indeed,27,11,0,2325.41,FUNC-0020
+80,RH,Coordenador de RH,Substituição,Encerrada,2023-09-14,2023-10-16,32.0,Consultoria de RH,31,41,0,11872.64,FUNC-0028
+81,Logística,Coordenador de Logística,Nova Posição,Encerrada,2023-10-24,2023-12-04,41.0,Indicação Interna,18,7,0,10813.1,FUNC-0013
+82,RH,Analista de RH Pl,Nova Posição,Encerrada,2022-09-25,2022-12-02,68.0,Glassdoor,26,8,0,5806.29,FUNC-0012
+83,Marketing,Analista de Marketing Pl,Expansão de Time,Encerrada,2024-04-07,2024-05-11,34.0,Site de Carreiras,82,2,1,7459.06,FUNC-0016
+84,Marketing,Designer Sr,Nova Posição,Encerrada,2022-06-21,2022-08-21,61.0,LinkedIn,28,20,0,7285.62,FUNC-0016
+85,Comercial,Consultor de Vendas Sr,Expansão de Time,Encerrada,2024-01-02,2024-02-29,58.0,Banco de Talentos,9,4,0,7590.74,FUNC-0012
+86,Comercial,Diretor Comercial,Nova Posição,Encerrada,2023-05-12,2023-07-27,76.0,Indicação Interna,11,5,1,27109.62,FUNC-0023
+87,Jurídico,Advogado Pl,Nova Posição,Em Andamento,2022-08-13,,,Indicação Interna,24,13,0,8554.62,FUNC-0010
+88,Tecnologia,Desenvolvedor Backend Pl,Substituição,Encerrada,2024-05-23,2024-07-08,46.0,LinkedIn,51,6,1,11275.17,FUNC-0018
+89,Financeiro,Analista Financeiro Pl,Substituição,Em Andamento,2023-08-13,,,Indicação Interna,27,15,0,,FUNC-0007
+90,Comercial,Gerente Comercial,Expansão de Time,Encerrada,2024-09-18,2024-11-06,49.0,Consultoria de RH,10,5,0,18354.2,FUNC-0024
+91,Logística,Coordenador de Logística,Nova Posição,Encerrada,2022-06-03,2022-07-30,57.0,Indicação Interna,19,3,0,8416.36,FUNC-0024
+92,Marketing,Designer Sr,Substituição,Encerrada,2022-11-22,2022-12-09,17.0,Indicação Interna,8,3,1,,FUNC-0025
+93,Financeiro,Analista Financeiro Sr,Nova Posição,Cancelada,2022-01-06,2022-02-12,37.0,LinkedIn,10,8,0,9109.44,FUNC-0006
+94,Logística,Analista de Logística Pl,Substituição,Cancelada,2024-10-01,2024-10-31,30.0,Indicação Interna,32,1,0,5184.25,FUNC-0008
+95,Tecnologia,Desenvolvedor Frontend Pl,Expansão de Time,Em Andamento,2024-07-04,,,Consultoria de RH,39,4,0,8075.28,FUNC-0019
+96,Operações,Coordenador de Operações,Nova Posição,Aberta,2023-03-18,,,LinkedIn,17,8,0,12259.97,FUNC-0025
+97,Financeiro,Analista Financeiro Sr,Substituição,Aberta,2023-05-16,,,Indicação Interna,36,3,0,8790.12,FUNC-0004
+98,Tecnologia,Desenvolvedor Frontend Sr,Substituição,Encerrada,2023-05-20,2023-08-14,86.0,Indeed,98,3,1,14159.86,FUNC-0009
+99,Marketing,Analista de Marketing Pl,Substituição,Em Andamento,2024-12-08,,,Indeed,62,9,0,4634.05,FUNC-0003
+100,Logística,Analista de Logística Pl,Nova Posição,Cancelada,2024-11-02,2024-12-31,85.0,LinkedIn,13,13,0,4560.28,FUNC-0008
+101,Marketing,Analista de Marketing Pl,Substituição,Aberta,2022-11-20,,,Consultoria de RH,19,20,0,6711.85,FUNC-0015
+102,Jurídico,Advogado Sr,Substituição,Em Andamento,2024-08-22,,,Site de Carreiras,10,5,0,17324.75,FUNC-0019
+103,RH,Analista de RH Sr,Expansão de Time,Cancelada,2023-02-20,2023-04-21,60.0,LinkedIn,15,13,0,9133.48,FUNC-0001
+104,Marketing,Analista de Marketing Pl,Expansão de Time,Encerrada,2024-10-23,2024-11-11,19.0,LinkedIn,37,4,0,5310.44,FUNC-0030
+105,Tecnologia,Desenvolvedor Backend Jr,Substituição,Aberta,2023-11-25,,,Consultoria de RH,153,22,0,4445.4,FUNC-0001
+106,Operações,Supervisor de Operações,Expansão de Time,Cancelada,2024-07-14,2024-10-07,85.0,Site de Carreiras,69,78,0,6928.19,FUNC-0027
+107,RH,Coordenador de RH,Expansão de Time,Encerrada,2024-06-19,2024-08-21,63.0,Site de Carreiras,29,5,1,11089.97,FUNC-0016
+108,RH,Assistente de RH,Nova Posição,Encerrada,2024-11-03,2024-12-29,56.0,Banco de Talentos,35,3,0,2362.25,FUNC-0015
+109,Comercial,Assistente Comercial,Nova Posição,Encerrada,2023-07-05,2023-08-08,34.0,Indicação Interna,18,14,2,1800.0,FUNC-0023
+110,Tecnologia,Desenvolvedor Backend Jr,Substituição,Encerrada,2024-01-08,2024-02-10,33.0,LinkedIn,21,11,2,3902.75,FUNC-0029
+111,Tecnologia,Desenvolvedor Backend Pl,Expansão de Time,Aberta,2024-01-17,,,LinkedIn,27,9,0,9624.72,FUNC-0019
+112,Comercial,Consultor de Vendas Sr,Expansão de Time,Aberta,2023-03-09,,,Indicação Interna,153,17,0,8626.68,FUNC-0024
+113,Financeiro,Assistente Financeiro,Expansão de Time,Encerrada,2024-01-18,2024-04-15,88.0,Consultoria de RH,66,1,1,3064.74,FUNC-0029
+114,Tecnologia,Desenvolvedor Frontend Pl,Substituição,Encerrada,2023-10-09,2023-11-16,38.0,Banco de Talentos,54,24,1,8707.22,FUNC-0005
+115,Operações,Técnico de Operações Pl,Nova Posição,Cancelada,2022-12-14,2023-01-26,43.0,LinkedIn,27,4,0,4270.93,FUNC-0028
+116,Tecnologia,Desenvolvedor Frontend Pl,Nova Posição,Em Andamento,2022-10-14,,,LinkedIn,41,16,0,10445.72,FUNC-0028
+117,Comercial,Consultor de Vendas Sr,Nova Posição,Aberta,2024-12-03,,,Consultoria de RH,56,23,0,10157.33,FUNC-0001
+118,Operações,Técnico de Operações Pl,Nova Posição,Aberta,2023-09-12,,,Site de Carreiras,13,9,0,4671.5,FUNC-0017
+119,Operações,Operador de Produção,Nova Posição,Cancelada,2024-09-07,2024-12-04,88.0,Consultoria de RH,43,6,0,2373.89,FUNC-0012
+120,Operações,Técnico de Operações Pl,Nova Posição,Encerrada,2024-07-23,2024-08-26,34.0,LinkedIn,12,12,0,3406.01,FUNC-0017
+121,Comercial,Consultor de Vendas Sr,Nova Posição,Em Andamento,2023-01-23,,,Banco de Talentos,7,7,0,,FUNC-0024
+122,Comercial,Analista Comercial Pl,Substituição,Em Andamento,2024-01-05,,,Site de Carreiras,169,5,0,5157.95,FUNC-0029
+123,Logística,Analista de Logística Pl,Expansão de Time,Em Andamento,2024-07-07,,,LinkedIn,14,13,0,5253.65,FUNC-0021
+124,Comercial,Analista Comercial Pl,Expansão de Time,Cancelada,2024-01-10,2024-03-09,59.0,Consultoria de RH,26,12,0,5123.61,FUNC-0024
+125,Operações,Operador de Produção,Expansão de Time,Encerrada,2023-08-02,2023-08-27,25.0,LinkedIn,24,14,2,1809.72,FUNC-0011
+126,Jurídico,Advogado Pl,Substituição,Aberta,2023-02-24,,,Indicação Interna,22,5,0,11121.88,FUNC-0002
+127,RH,Assistente de RH,Nova Posição,Cancelada,2022-10-25,2023-01-06,73.0,Banco de Talentos,40,6,0,3001.47,FUNC-0029
+128,Tecnologia,Desenvolvedor Frontend Pl,Nova Posição,Em Andamento,2022-09-13,,,LinkedIn,15,9,0,9363.05,FUNC-0009
+129,Marketing,Analista de Marketing Pl,Nova Posição,Em Andamento,2023-03-03,,,Consultoria de RH,34,8,0,5974.3,FUNC-0003
+130,Tecnologia,Analista de Dados Sr,Substituição,Aberta,2022-03-02,,,LinkedIn,79,16,0,12763.37,FUNC-0013
+131,Tecnologia,Analista de Dados Sr,Nova Posição,Encerrada,2023-09-13,2023-10-10,27.0,Indeed,39,10,1,14335.62,FUNC-0027
+132,Jurídico,Advogado Pl,Nova Posição,Encerrada,2023-10-11,2023-11-06,26.0,Banco de Talentos,52,3,1,11325.55,FUNC-0029
+133,Marketing,Analista de Marketing Pl,Expansão de Time,Em Andamento,2022-07-09,,,Indicação Interna,82,84,0,6298.77,FUNC-0001
+134,RH,Gerente de RH,Nova Posição,Encerrada,2024-11-07,2024-12-23,46.0,Indicação Interna,24,23,2,28979.39,FUNC-0009
+135,Comercial,Analista Comercial Pl,Expansão de Time,Encerrada,2024-07-02,2024-08-17,46.0,LinkedIn,33,13,1,5313.72,FUNC-0006
+136,Comercial,Consultor de Vendas Sr,Substituição,Aberta,2024-08-11,,,Banco de Talentos,20,8,0,,FUNC-0016
+137,Tecnologia,Desenvolvedor Frontend Pl,Substituição,Em Andamento,2024-03-15,,,LinkedIn,19,4,0,8117.95,FUNC-0013
+138,Financeiro,Gerente Financeiro,Expansão de Time,Aberta,2024-01-06,,,LinkedIn,49,20,0,22205.62,FUNC-0010
+139,Tecnologia,Desenvolvedor Backend Pl,Substituição,Aberta,2023-01-10,,,Indeed,59,18,0,9914.25,FUNC-0022
+140,Financeiro,Analista Financeiro Pl,Expansão de Time,Encerrada,2024-11-18,2024-12-31,86.0,LinkedIn,67,25,2,6539.64,FUNC-0005
+141,RH,HRBP Sr,Substituição,Encerrada,2022-07-03,2022-09-09,68.0,Indeed,36,24,0,11685.51,FUNC-0015
+142,Financeiro,Assistente Financeiro,Expansão de Time,Cancelada,2023-07-11,2023-10-05,86.0,Consultoria de RH,18,9,0,3488.07,FUNC-0008
+143,Tecnologia,Desenvolvedor Backend Pl,Expansão de Time,Aberta,2023-03-22,,,Consultoria de RH,14,1,0,8458.39,FUNC-0011
+144,Tecnologia,Desenvolvedor Frontend Jr,Substituição,Em Andamento,2023-08-07,,,LinkedIn,39,4,0,3200.0,FUNC-0018
+145,Operações,Supervisor de Operações,Expansão de Time,Aberta,2023-08-08,,,Consultoria de RH,57,9,0,8113.76,FUNC-0029
+146,RH,Analista de RH Pl,Substituição,Aberta,2023-05-20,,,Consultoria de RH,39,15,0,4786.83,FUNC-0026
+147,Financeiro,Analista Financeiro Pl,Substituição,Em Andamento,2023-03-22,,,LinkedIn,11,1,0,6735.66,FUNC-0030
+148,Comercial,Assistente Comercial,Substituição,Encerrada,2023-03-12,2023-05-26,75.0,Indicação Interna,36,4,0,2804.59,FUNC-0014
+149,Tecnologia,Desenvolvedor Backend Sr,Substituição,Encerrada,2023-02-20,2023-04-28,67.0,Site de Carreiras,47,21,0,12508.37,FUNC-0013
+150,Operações,Operador de Produção,Substituição,Encerrada,2022-04-10,2022-06-20,71.0,LinkedIn,73,12,2,2494.74,FUNC-0008
+151,Comercial,Assistente Comercial,Substituição,Encerrada,2022-10-05,2022-11-12,38.0,LinkedIn,58,18,2,2597.82,FUNC-0022
+152,Jurídico,Advogado Sr,Expansão de Time,Encerrada,2024-03-18,2024-04-03,16.0,Consultoria de RH,20,4,1,18533.06,FUNC-0002
+153,Marketing,Coordenador de Marketing,Substituição,Encerrada,2024-11-12,2024-12-30,48.0,Indicação Interna,26,22,1,15000.0,FUNC-0003
+154,Logística,Assistente de Logística,Substituição,Encerrada,2023-06-06,2023-08-07,62.0,LinkedIn,28,19,1,2130.48,FUNC-0011
+155,Marketing,Coordenador de Marketing,Substituição,Encerrada,2022-09-07,2022-10-21,44.0,Indicação Interna,26,4,2,13740.67,FUNC-0003
+156,Tecnologia,Desenvolvedor Frontend Jr,Substituição,Encerrada,2022-02-24,2022-05-21,86.0,Consultoria de RH,22,12,2,3200.0,FUNC-0020
+157,Financeiro,Analista Financeiro Sr,Nova Posição,Encerrada,2024-03-25,2024-06-12,79.0,Site de Carreiras,95,16,1,11629.02,FUNC-0002
+158,Tecnologia,Desenvolvedor Backend Sr,Substituição,Encerrada,2023-07-15,2023-10-12,89.0,Indicação Interna,24,8,2,,FUNC-0023
+159,Financeiro,Assistente Financeiro,Expansão de Time,Encerrada,2023-11-06,2024-01-06,61.0,LinkedIn,17,8,0,2363.53,FUNC-0015
+160,Operações,Técnico de Operações Pl,Expansão de Time,Encerrada,2023-10-14,2023-11-25,42.0,Indeed,66,12,1,4192.19,FUNC-0005
+161,Operações,Gerente de Operações,Nova Posição,Encerrada,2023-09-10,2023-11-05,56.0,Indicação Interna,49,22,0,20167.56,FUNC-0022
+162,Operações,Supervisor de Operações,Expansão de Time,Em Andamento,2022-04-05,,,Indicação Interna,61,16,0,8695.95,FUNC-0011
+163,Operações,Supervisor de Operações,Nova Posição,Em Andamento,2022-10-02,,,Site de Carreiras,8,3,0,9475.73,FUNC-0020
+164,Operações,Coordenador de Operações,Expansão de Time,Encerrada,2024-09-11,2024-10-15,34.0,LinkedIn,24,10,0,12638.87,FUNC-0015
+165,RH,Analista de RH Pl,Expansão de Time,Encerrada,2023-02-20,2023-03-15,23.0,Banco de Talentos,36,19,0,6230.53,FUNC-0020
+166,Operações,Supervisor de Operações,Expansão de Time,Encerrada,2024-03-16,2024-05-24,69.0,Banco de Talentos,27,16,2,6283.45,FUNC-0013
+167,Marketing,Coordenador de Marketing,Substituição,Encerrada,2024-06-18,2024-09-03,77.0,LinkedIn,27,4,2,11958.51,FUNC-0006
+168,RH,Analista de RH Pl,Substituição,Cancelada,2023-06-21,2023-09-02,73.0,Site de Carreiras,26,22,0,4690.78,FUNC-0009
+169,Comercial,Assistente Comercial,Substituição,Encerrada,2022-03-23,2022-06-13,82.0,Indicação Interna,95,1,1,2360.72,FUNC-0019
+170,Comercial,Coordenador Comercial,Substituição,Em Andamento,2023-05-25,,,Site de Carreiras,71,12,0,10289.27,FUNC-0018
+171,Operações,Coordenador de Operações,Expansão de Time,Encerrada,2023-08-05,2023-08-30,25.0,Banco de Talentos,12,9,0,9611.48,FUNC-0015
+172,Jurídico,Advogado Pl,Nova Posição,Encerrada,2024-12-14,2024-12-31,66.0,Consultoria de RH,27,18,2,10536.83,FUNC-0002
+173,Comercial,Coordenador Comercial,Substituição,Encerrada,2023-08-01,2023-10-24,84.0,Site de Carreiras,19,5,1,8138.14,FUNC-0003
+174,Financeiro,Analista Financeiro Sr,Nova Posição,Encerrada,2023-03-17,2023-05-29,73.0,LinkedIn,16,14,2,10232.74,FUNC-0013
+175,Comercial,Assistente Comercial,Nova Posição,Encerrada,2024-05-16,2024-08-13,89.0,LinkedIn,18,7,2,2212.03,FUNC-0007
+176,Financeiro,Analista Financeiro Sr,Expansão de Time,Em Andamento,2024-07-16,,,Indicação Interna,125,18,0,,FUNC-0021
+177,Logística,Assistente de Logística,Substituição,Encerrada,2023-07-21,2023-10-15,86.0,LinkedIn,19,4,0,2510.71,FUNC-0011
+178,Marketing,Coordenador de Marketing,Substituição,Aberta,2023-12-14,,,Site de Carreiras,102,5,0,12191.98,FUNC-0005
+179,RH,Coordenador de RH,Expansão de Time,Aberta,2024-12-19,,,Indicação Interna,31,1,0,9026.87,FUNC-0028
+180,RH,Assistente de RH,Substituição,Aberta,2023-09-24,,,Banco de Talentos,10,2,0,2388.48,FUNC-0023
+181,Tecnologia,Desenvolvedor Backend Sr,Substituição,Encerrada,2023-03-20,2023-05-14,55.0,Indeed,31,6,2,12608.79,FUNC-0006
+182,Marketing,Coordenador de Marketing,Expansão de Time,Encerrada,2023-07-18,2023-08-11,24.0,Glassdoor,13,11,2,10990.28,FUNC-0002
+183,Operações,Técnico de Operações Pl,Nova Posição,Encerrada,2024-02-03,2024-03-07,33.0,Consultoria de RH,7,1,0,3492.94,FUNC-0026
+184,Operações,Técnico de Operações Pl,Nova Posição,Aberta,2024-08-16,,,LinkedIn,32,8,0,4920.88,FUNC-0009
+185,Operações,Operador de Produção,Expansão de Time,Encerrada,2022-01-25,2022-04-19,84.0,Site de Carreiras,42,17,0,2568.95,FUNC-0004
+186,RH,Coordenador de RH,Substituição,Encerrada,2023-07-03,2023-09-29,88.0,Consultoria de RH,102,20,0,12652.59,FUNC-0011
+187,Tecnologia,Desenvolvedor Frontend Jr,Nova Posição,Encerrada,2024-10-02,2024-12-11,70.0,LinkedIn,28,1,1,5800.0,FUNC-0024
+188,Tecnologia,Desenvolvedor Backend Pl,Nova Posição,Em Andamento,2022-12-06,,,Banco de Talentos,110,113,0,9843.62,FUNC-0004
+189,Tecnologia,Desenvolvedor Frontend Pl,Nova Posição,Em Andamento,2022-05-08,,,Site de Carreiras,19,7,0,8548.19,FUNC-0027
+190,Financeiro,Coordenador Financeiro,Substituição,Encerrada,2024-07-13,2024-09-30,79.0,LinkedIn,7,7,2,12444.05,FUNC-0007
+191,Tecnologia,Desenvolvedor Frontend Pl,Expansão de Time,Encerrada,2024-08-02,2024-10-07,66.0,Indicação Interna,5,4,1,7558.87,FUNC-0002
+192,Marketing,Assistente de Marketing,Substituição,Encerrada,2022-06-19,2022-09-07,80.0,LinkedIn,70,20,1,2826.46,FUNC-0017
+193,RH,Gerente de RH,Nova Posição,Encerrada,2023-03-13,2023-05-19,67.0,Indicação Interna,105,11,1,20135.79,FUNC-0018
+194,Operações,Operador de Produção,Expansão de Time,Encerrada,2022-07-17,2022-08-08,22.0,Indeed,36,2,0,2117.46,FUNC-0005
+195,Financeiro,Coordenador Financeiro,Expansão de Time,Em Andamento,2023-05-17,,,Indeed,49,2,0,13029.99,FUNC-0024
+196,Tecnologia,Desenvolvedor Backend Sr,Nova Posição,Em Andamento,2024-07-01,,,Site de Carreiras,79,4,0,20537.13,FUNC-0004
+197,Marketing,Assistente de Marketing,Expansão de Time,Em Andamento,2024-12-04,,,Indicação Interna,44,1,0,2383.93,FUNC-0026
+198,Logística,Analista de Logística Pl,Expansão de Time,Encerrada,2024-08-18,2024-09-07,20.0,LinkedIn,50,1,1,6177.75,FUNC-0029
+199,Comercial,Analista Comercial Pl,Nova Posição,Encerrada,2023-08-13,2023-08-31,18.0,Indeed,54,21,1,5267.83,FUNC-0016
+200,Comercial,Assistente Comercial,Nova Posição,Em Andamento,2023-04-23,,,LinkedIn,66,5,0,2949.91,FUNC-0008

@@ -1,0 +1,1366 @@
+﻿ID_Treinamento;ID_Funcionario;Nome_Treinamento;Categoria;Carga_Horaria_h;Data_Inicio;Data_Fim;Status;Nota_Final;Modalidade;Duracao_Dias;flag_data_invalida
+TR-000001;FUNC-0001;Finanças para Não Financeiros;Técnico;12;2021-08-06;2021-08-07;Concluído;8,3;EAD;1;False
+TR-000002;FUNC-0003;Inglês Corporativo;Idioma;60;2024-06-14;2024-06-21;Concluído;7,4;EAD;7;False
+TR-000003;FUNC-0003;Comunicação Não-Violenta;Comportamental;8;2021-07-20;2021-07-21;Em Andamento;;Presencial;1;False
+TR-000004;FUNC-0003;Design Thinking;Técnico;16;2023-07-04;2023-07-06;Concluído;5,8;Híbrido;2;False
+TR-000005;FUNC-0004;Liderança Situacional;Comportamental;16;2023-11-28;2023-11-30;Concluído;6,3;Presencial;2;False
+TR-000006;FUNC-0004;Python para Análise de Dados;Técnico;40;2024-11-05;2024-11-10;Concluído;7,3;EAD;5;False
+TR-000007;FUNC-0005;Inglês Corporativo;Idioma;60;2024-11-28;2024-12-05;Concluído;8,9;EAD;7;False
+TR-000008;FUNC-0005;Design Thinking;Técnico;16;2024-10-06;2024-10-08;Concluído;9,8;Híbrido;2;False
+TR-000009;FUNC-0007;Power BI do Zero ao Avançado;Técnico;20;2017-10-14;2017-10-16;Concluído;7,3;EAD;2;False
+TR-000010;FUNC-0007;Design Thinking;Técnico;16;2019-08-23;2019-08-25;Não Concluído;;Híbrido;2;False
+TR-000011;FUNC-0008;Comunicação Não-Violenta;Comportamental;8;2023-04-05;2023-04-06;Concluído;6,1;Presencial;1;False
+TR-000012;FUNC-0008;Python para Análise de Dados;Técnico;40;2022-12-20;2022-12-25;Concluído;7,7;EAD;5;False
+TR-000013;FUNC-0008;Segurança do Trabalho NR-35;Obrigatório;4;2022-09-19;2022-09-20;Concluído;7,2;Presencial;1;False
+TR-000014;FUNC-0010;Power BI do Zero ao Avançado;Técnico;20;2024-11-10;2024-11-12;Concluído;9,5;EAD;2;False
+TR-000015;FUNC-0010;Onboarding Corporativo;Institucional;8;2024-08-02;2024-08-03;Concluído;7,2;Híbrido;1;False
+TR-000016;FUNC-0010;Comunicação Não-Violenta;Comportamental;8;2024-11-12;2024-11-13;Concluído;6,2;Presencial;1;False
+TR-000017;FUNC-0011;Comunicação Não-Violenta;Comportamental;8;2024-01-02;2024-01-03;Não Concluído;;Presencial;1;False
+TR-000018;FUNC-0011;Python para Análise de Dados;Técnico;40;2024-01-30;2024-02-04;Concluído;7,3;EAD;5;False
+TR-000019;FUNC-0012;LGPD na Prática;Compliance;4;2024-10-08;2024-10-09;Concluído;5,6;EAD;1;False
+TR-000020;FUNC-0012;LGPD na Prática;Compliance;4;2023-10-03;2023-10-04;Concluído;7,3;EAD;1;False
+TR-000021;FUNC-0012;Finanças para Não Financeiros;Técnico;12;2024-04-05;2024-04-06;Concluído;9,8;EAD;1;False
+TR-000022;FUNC-0012;Power BI do Zero ao Avançado;Técnico;20;2023-04-24;2023-04-26;Não Concluído;;EAD;2;False
+TR-000023;FUNC-0013;Vendas Consultivas B2B;Técnico;16;2021-11-23;2021-11-25;Concluído;8,4;Presencial;2;False
+TR-000024;FUNC-0013;Python para Análise de Dados;Técnico;40;2019-07-07;2019-07-12;Concluído;9,2;EAD;5;False
+TR-000025;FUNC-0013;Python para Análise de Dados;Técnico;40;2019-07-25;2019-07-30;Concluído;8,3;EAD;5;False
+TR-000026;FUNC-0013;LGPD na Prática;Compliance;4;2021-10-29;2021-10-30;Concluído;8,4;EAD;1;False
+TR-000027;FUNC-0014;Liderança Situacional;Comportamental;16;2024-08-24;2024-08-26;Concluído;5,9;Presencial;2;False
+TR-000028;FUNC-0014;Finanças para Não Financeiros;Técnico;12;2024-05-16;2024-05-17;Concluído;6,5;EAD;1;False
+TR-000029;FUNC-0014;Excel Avançado;Técnico;8;2024-06-12;2024-06-13;Concluído;6,5;EAD;1;False
+TR-000030;FUNC-0014;Segurança do Trabalho NR-35;Obrigatório;4;2024-08-20;2024-08-21;Concluído;7,2;Presencial;1;False
+TR-000031;FUNC-0015;Onboarding Corporativo;Institucional;8;2023-05-02;2023-05-03;Concluído;5,5;Híbrido;1;False
+TR-000032;FUNC-0015;Python para Análise de Dados;Técnico;40;2023-09-05;2023-09-10;Não Concluído;;EAD;5;False
+TR-000033;FUNC-0015;Gestão Ágil de Projetos;Técnico;24;2023-10-13;2023-10-16;Não Concluído;;Híbrido;3;False
+TR-000034;FUNC-0018;Segurança do Trabalho NR-35;Obrigatório;4;2024-09-16;2024-09-17;Concluído;6,6;Presencial;1;False
+TR-000035;FUNC-0018;LGPD na Prática;Compliance;4;2024-09-25;2024-09-26;Não Concluído;;EAD;1;False
+TR-000036;FUNC-0018;Onboarding Corporativo;Institucional;8;2024-02-13;2024-02-14;Concluído;7,4;Híbrido;1;False
+TR-000037;FUNC-0018;Finanças para Não Financeiros;Técnico;12;2024-07-03;2024-07-04;Concluído;5,5;EAD;1;False
+TR-000038;FUNC-0018;Vendas Consultivas B2B;Técnico;16;2024-04-06;2024-04-08;Concluído;5,8;Presencial;2;False
+TR-000039;FUNC-0019;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-10-01;2024-10-06;Concluído;6,8;Presencial;5;False
+TR-000040;FUNC-0020;Excel Avançado;Técnico;8;2024-02-20;2024-02-21;Concluído;6,0;EAD;1;False
+TR-000041;FUNC-0020;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-09-19;2022-09-24;Concluído;5,7;Presencial;5;False
+TR-000042;FUNC-0021;Finanças para Não Financeiros;Técnico;12;2017-12-16;2017-12-17;Não Concluído;;EAD;1;False
+TR-000043;FUNC-0021;Inglês Corporativo;Idioma;60;2018-04-18;2018-04-25;Concluído;5,8;EAD;7;False
+TR-000044;FUNC-0021;Programa de Desenvolvimento de Líderes;Comportamental;40;2020-07-30;2020-08-04;Em Andamento;;Presencial;5;False
+TR-000045;FUNC-0022;Excel Avançado;Técnico;8;2024-09-20;2024-09-21;Concluído;9,8;EAD;1;False
+TR-000046;FUNC-0022;Python para Análise de Dados;Técnico;40;2023-03-27;2023-04-01;Concluído;8,2;EAD;5;False
+TR-000047;FUNC-0022;Onboarding Corporativo;Institucional;8;2022-06-12;2022-06-13;Não Concluído;;Híbrido;1;False
+TR-000048;FUNC-0023;Gestão Ágil de Projetos;Técnico;24;2024-11-11;2024-11-14;Não Concluído;;Híbrido;3;False
+TR-000049;FUNC-0026;Excel Avançado;Técnico;8;2023-04-03;2023-04-04;Concluído;7,7;EAD;1;False
+TR-000050;FUNC-0028;Gestão Ágil de Projetos;Técnico;24;2024-02-09;2024-02-12;Em Andamento;;Híbrido;3;False
+TR-000051;FUNC-0028;Python para Análise de Dados;Técnico;40;2020-07-25;2020-07-30;Concluído;8,3;EAD;5;False
+TR-000052;FUNC-0028;Excel Avançado;Técnico;8;2020-02-02;2020-02-03;Em Andamento;;EAD;1;False
+TR-000053;FUNC-0029;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-08-25;2023-08-30;Concluído;9,9;Presencial;5;False
+TR-000054;FUNC-0029;Inglês Corporativo;Idioma;60;2024-06-20;2024-06-27;Em Andamento;;EAD;7;False
+TR-000055;FUNC-0030;Power BI do Zero ao Avançado;Técnico;20;2024-11-15;2024-11-17;Concluído;8,0;EAD;2;False
+TR-000056;FUNC-0030;Vendas Consultivas B2B;Técnico;16;2024-11-02;2024-11-04;Concluído;7,8;Presencial;2;False
+TR-000057;FUNC-0030;Gestão de Conflitos;Comportamental;8;2024-09-05;2024-09-06;Concluído;7,5;Presencial;1;False
+TR-000058;FUNC-0030;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-01;2024-10-02;Concluído;9,8;Presencial;1;False
+TR-000059;FUNC-0032;Segurança do Trabalho NR-35;Obrigatório;4;2024-07-07;2024-07-08;Concluído;8,0;Presencial;1;False
+TR-000060;FUNC-0032;Onboarding Corporativo;Institucional;8;2023-09-14;2023-09-15;Não Concluído;;Híbrido;1;False
+TR-000061;FUNC-0033;Python para Análise de Dados;Técnico;40;2019-10-06;2019-10-11;Não Concluído;;EAD;5;False
+TR-000062;FUNC-0033;Power BI do Zero ao Avançado;Técnico;20;2020-05-26;2020-05-28;Concluído;6,6;EAD;2;False
+TR-000063;FUNC-0034;Inglês Corporativo;Idioma;60;2019-12-02;2019-12-09;Concluído;6,0;EAD;7;False
+TR-000064;FUNC-0034;Finanças para Não Financeiros;Técnico;12;2022-10-05;2022-10-06;Concluído;8,2;EAD;1;False
+TR-000065;FUNC-0034;Comunicação Não-Violenta;Comportamental;8;2020-12-13;2020-12-14;Concluído;7,5;Presencial;1;False
+TR-000066;FUNC-0035;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-05-26;2023-05-31;Concluído;8,9;Presencial;5;False
+TR-000067;FUNC-0036;LGPD na Prática;Compliance;4;2024-06-22;2024-06-23;Concluído;9,4;EAD;1;False
+TR-000068;FUNC-0036;Python para Análise de Dados;Técnico;40;2024-09-12;2024-09-17;Concluído;6,9;EAD;5;False
+TR-000069;FUNC-0036;Finanças para Não Financeiros;Técnico;12;2024-10-02;2024-10-03;Concluído;7,4;EAD;1;False
+TR-000070;FUNC-0037;Inglês Corporativo;Idioma;60;2022-04-20;2022-04-27;Não Concluído;;EAD;7;False
+TR-000071;FUNC-0038;Gestão de Conflitos;Comportamental;8;2024-07-27;2024-07-28;Concluído;7,7;Presencial;1;False
+TR-000072;FUNC-0038;Python para Análise de Dados;Técnico;40;2024-11-17;2024-11-22;Concluído;5,6;EAD;5;False
+TR-000073;FUNC-0038;LGPD na Prática;Compliance;4;2024-09-01;2024-09-02;Em Andamento;;EAD;1;False
+TR-000074;FUNC-0040;Comunicação Não-Violenta;Comportamental;8;2023-01-28;2023-01-29;Concluído;6,6;Presencial;1;False
+TR-000075;FUNC-0040;Design Thinking;Técnico;16;2024-11-14;2024-11-16;Concluído;8,1;Híbrido;2;False
+TR-000076;FUNC-0040;Power BI do Zero ao Avançado;Técnico;20;2023-09-01;2023-09-03;Concluído;6,8;EAD;2;False
+TR-000077;FUNC-0041;Power BI do Zero ao Avançado;Técnico;20;2024-08-01;2024-08-03;Concluído;6,7;EAD;2;False
+TR-000078;FUNC-0041;Vendas Consultivas B2B;Técnico;16;2024-04-09;2024-04-11;Concluído;6,4;Presencial;2;False
+TR-000079;FUNC-0041;Power BI do Zero ao Avançado;Técnico;20;2024-01-17;2024-01-19;Concluído;6,1;EAD;2;False
+TR-000080;FUNC-0041;Onboarding Corporativo;Institucional;8;2024-06-11;2024-06-12;Concluído;5,6;Híbrido;1;False
+TR-000081;FUNC-0042;Inglês Corporativo;Idioma;60;2024-10-01;2024-10-08;Em Andamento;;EAD;7;False
+TR-000082;FUNC-0042;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-01;2024-10-02;Concluído;9,0;Presencial;1;False
+TR-000083;FUNC-0042;Inglês Corporativo;Idioma;60;2024-10-01;2024-10-08;Concluído;6,5;EAD;7;False
+TR-000084;FUNC-0042;Power BI do Zero ao Avançado;Técnico;20;2024-10-01;2024-10-03;Concluído;6,2;EAD;2;False
+TR-000085;FUNC-0044;Python para Análise de Dados;Técnico;40;2023-06-14;2023-06-19;Concluído;8,4;EAD;5;False
+TR-000086;FUNC-0044;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-11-29;2022-12-04;Concluído;8,1;Presencial;5;False
+TR-000087;FUNC-0044;Gestão de Conflitos;Comportamental;8;2022-11-05;2022-11-06;Não Concluído;;Presencial;1;False
+TR-000088;FUNC-0045;Excel Avançado;Técnico;8;2019-11-26;2019-11-27;Concluído;7,7;EAD;1;False
+TR-000089;FUNC-0045;Power BI do Zero ao Avançado;Técnico;20;2020-10-14;2020-10-16;Concluído;5,7;EAD;2;False
+TR-000090;FUNC-0046;Gestão Ágil de Projetos;Técnico;24;2019-12-27;2019-12-30;Não Concluído;;Híbrido;3;False
+TR-000091;FUNC-0046;Liderança Situacional;Comportamental;16;2020-02-14;2020-02-16;Concluído;9,7;Presencial;2;False
+TR-000092;FUNC-0046;Finanças para Não Financeiros;Técnico;12;2024-06-28;2024-06-29;Concluído;9,7;EAD;1;False
+TR-000093;FUNC-0046;Segurança do Trabalho NR-35;Obrigatório;4;2024-09-18;2024-09-19;Concluído;7,7;Presencial;1;False
+TR-000094;FUNC-0046;Comunicação Não-Violenta;Comportamental;8;2021-07-14;2021-07-15;Concluído;5,9;Presencial;1;False
+TR-000095;FUNC-0047;Inglês Corporativo;Idioma;60;2023-03-11;2023-03-18;Em Andamento;;EAD;7;False
+TR-000096;FUNC-0049;Design Thinking;Técnico;16;2024-03-15;2024-03-17;Concluído;7,9;Híbrido;2;False
+TR-000097;FUNC-0049;Gestão de Conflitos;Comportamental;8;2024-06-02;2024-06-03;Concluído;7,1;Presencial;1;False
+TR-000098;FUNC-0049;LGPD na Prática;Compliance;4;2022-04-15;2022-04-16;Em Andamento;;EAD;1;False
+TR-000099;FUNC-0050;Comunicação Não-Violenta;Comportamental;8;2022-06-24;2022-06-25;Concluído;8,0;Presencial;1;False
+TR-000100;FUNC-0050;Segurança do Trabalho NR-35;Obrigatório;4;2023-12-26;2023-12-27;Concluído;9,5;Presencial;1;False
+TR-000101;FUNC-0051;Power BI do Zero ao Avançado;Técnico;20;2024-09-15;2024-09-17;Não Concluído;;EAD;2;False
+TR-000102;FUNC-0052;Excel Avançado;Técnico;8;2021-01-20;2021-01-21;Em Andamento;;EAD;1;False
+TR-000103;FUNC-0053;Gestão de Conflitos;Comportamental;8;2022-04-07;2022-04-08;Não Concluído;;Presencial;1;False
+TR-000104;FUNC-0053;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-05-21;2022-05-26;Não Concluído;;Presencial;5;False
+TR-000105;FUNC-0054;Inglês Corporativo;Idioma;60;2023-12-30;2024-01-06;Concluído;9,0;EAD;7;False
+TR-000106;FUNC-0054;LGPD na Prática;Compliance;4;2022-04-27;2022-04-28;Não Concluído;;EAD;1;False
+TR-000107;FUNC-0054;Comunicação Não-Violenta;Comportamental;8;2021-05-23;2021-05-24;Não Concluído;;Presencial;1;False
+TR-000108;FUNC-0055;Liderança Situacional;Comportamental;16;2024-05-21;2024-05-23;Concluído;9,7;Presencial;2;False
+TR-000109;FUNC-0055;Python para Análise de Dados;Técnico;40;2019-11-01;2019-11-06;Concluído;7,0;EAD;5;False
+TR-000110;FUNC-0057;Inglês Corporativo;Idioma;60;2020-07-08;2020-07-15;Concluído;6,2;EAD;7;False
+TR-000111;FUNC-0057;Finanças para Não Financeiros;Técnico;12;2020-01-22;2020-01-23;Concluído;9,5;EAD;1;False
+TR-000112;FUNC-0059;Segurança do Trabalho NR-35;Obrigatório;4;2021-10-18;2021-10-19;Não Concluído;;Presencial;1;False
+TR-000113;FUNC-0059;Comunicação Não-Violenta;Comportamental;8;2021-07-25;2021-07-26;Não Concluído;;Presencial;1;False
+TR-000114;FUNC-0059;Inglês Corporativo;Idioma;60;2021-07-14;2021-07-21;Concluído;9,2;EAD;7;False
+TR-000115;FUNC-0060;Excel Avançado;Técnico;8;2024-10-28;2024-10-29;Concluído;8,7;EAD;1;False
+TR-000116;FUNC-0060;Onboarding Corporativo;Institucional;8;2023-11-25;2023-11-26;Concluído;7,9;Híbrido;1;False
+TR-000117;FUNC-0060;Python para Análise de Dados;Técnico;40;2024-04-29;2024-05-04;Concluído;6,0;EAD;5;False
+TR-000118;FUNC-0061;Inglês Corporativo;Idioma;60;2024-10-10;2024-10-17;Em Andamento;;EAD;7;False
+TR-000119;FUNC-0062;Vendas Consultivas B2B;Técnico;16;2024-10-30;2024-11-01;Em Andamento;;Presencial;2;False
+TR-000120;FUNC-0062;Design Thinking;Técnico;16;2024-10-09;2024-10-11;Concluído;7,8;Híbrido;2;False
+TR-000121;FUNC-0062;Python para Análise de Dados;Técnico;40;2024-11-18;2024-11-23;Concluído;9,9;EAD;5;False
+TR-000122;FUNC-0063;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-11-14;2022-11-19;Concluído;7,6;Presencial;5;False
+TR-000123;FUNC-0063;Gestão de Conflitos;Comportamental;8;2023-01-23;2023-01-24;Concluído;8,6;Presencial;1;False
+TR-000124;FUNC-0063;Design Thinking;Técnico;16;2023-07-10;2023-07-12;Concluído;7,3;Híbrido;2;False
+TR-000125;FUNC-0063;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-07-02;2023-07-07;Concluído;6,3;Presencial;5;False
+TR-000126;FUNC-0065;Onboarding Corporativo;Institucional;8;2022-10-25;2022-10-26;Concluído;9,5;Híbrido;1;False
+TR-000127;FUNC-0065;Python para Análise de Dados;Técnico;40;2020-03-20;2020-03-25;Não Concluído;;EAD;5;False
+TR-000128;FUNC-0065;Onboarding Corporativo;Institucional;8;2023-06-25;2023-06-26;Concluído;10,0;Híbrido;1;False
+TR-000129;FUNC-0066;Inglês Corporativo;Idioma;60;2022-04-19;2022-04-26;Concluído;9,8;EAD;7;False
+TR-000130;FUNC-0066;Finanças para Não Financeiros;Técnico;12;2024-10-21;2024-10-22;Concluído;8,4;EAD;1;False
+TR-000131;FUNC-0066;Design Thinking;Técnico;16;2023-11-17;2023-11-19;Concluído;8,0;Híbrido;2;False
+TR-000132;FUNC-0067;Liderança Situacional;Comportamental;16;2023-04-12;2023-04-14;Concluído;7,8;Presencial;2;False
+TR-000133;FUNC-0067;Inglês Corporativo;Idioma;60;2023-07-01;2023-07-08;Concluído;6,8;EAD;7;False
+TR-000134;FUNC-0067;Power BI do Zero ao Avançado;Técnico;20;2023-03-20;2023-03-22;Concluído;9,9;EAD;2;False
+TR-000135;FUNC-0068;Liderança Situacional;Comportamental;16;2020-06-17;2020-06-19;Concluído;6,3;Presencial;2;False
+TR-000136;FUNC-0068;Python para Análise de Dados;Técnico;40;2022-02-24;2022-03-01;Concluído;8,8;EAD;5;False
+TR-000137;FUNC-0068;Power BI do Zero ao Avançado;Técnico;20;2020-09-29;2020-10-01;Concluído;6,5;EAD;2;False
+TR-000138;FUNC-0069;Finanças para Não Financeiros;Técnico;12;2019-01-05;2019-01-06;Não Concluído;;EAD;1;False
+TR-000139;FUNC-0069;Segurança do Trabalho NR-35;Obrigatório;4;2018-12-12;2018-12-13;Concluído;9,9;Presencial;1;False
+TR-000140;FUNC-0070;Liderança Situacional;Comportamental;16;2022-09-21;2022-09-23;Não Concluído;;Presencial;2;False
+TR-000141;FUNC-0070;Inglês Corporativo;Idioma;60;2023-10-16;2023-10-23;Concluído;7,1;EAD;7;False
+TR-000142;FUNC-0070;Gestão Ágil de Projetos;Técnico;24;2024-09-22;2024-09-25;Em Andamento;;Híbrido;3;False
+TR-000143;FUNC-0070;Finanças para Não Financeiros;Técnico;12;2021-03-15;2021-03-16;Concluído;9,2;EAD;1;False
+TR-000144;FUNC-0070;Gestão de Conflitos;Comportamental;8;2024-01-04;2024-01-05;Concluído;6,2;Presencial;1;False
+TR-000145;FUNC-0071;Design Thinking;Técnico;16;2024-11-22;2024-11-24;Em Andamento;;Híbrido;2;False
+TR-000146;FUNC-0071;Design Thinking;Técnico;16;2024-11-08;2024-11-10;Concluído;6,3;Híbrido;2;False
+TR-000147;FUNC-0071;Power BI do Zero ao Avançado;Técnico;20;2024-10-09;2024-10-11;Concluído;5,8;EAD;2;False
+TR-000148;FUNC-0073;Vendas Consultivas B2B;Técnico;16;2023-04-02;2023-04-04;Concluído;8,2;Presencial;2;False
+TR-000149;FUNC-0073;Gestão Ágil de Projetos;Técnico;24;2023-04-08;2023-04-11;Concluído;6,2;Híbrido;3;False
+TR-000150;FUNC-0074;Gestão de Conflitos;Comportamental;8;2020-12-02;2020-12-03;Concluído;5,5;Presencial;1;False
+TR-000151;FUNC-0074;LGPD na Prática;Compliance;4;2021-06-16;2021-06-17;Não Concluído;;EAD;1;False
+TR-000152;FUNC-0074;Inglês Corporativo;Idioma;60;2019-06-03;2019-06-10;Concluído;8,4;EAD;7;False
+TR-000153;FUNC-0075;Finanças para Não Financeiros;Técnico;12;2024-09-25;2024-09-26;Em Andamento;;EAD;1;False
+TR-000154;FUNC-0075;Onboarding Corporativo;Institucional;8;2024-10-29;2024-10-30;Em Andamento;;Híbrido;1;False
+TR-000155;FUNC-0075;Vendas Consultivas B2B;Técnico;16;2024-11-24;2024-11-26;Concluído;6,8;Presencial;2;False
+TR-000156;FUNC-0075;Excel Avançado;Técnico;8;2024-09-19;2024-09-20;Em Andamento;;EAD;1;False
+TR-000157;FUNC-0076;Gestão Ágil de Projetos;Técnico;24;2017-07-21;2017-07-24;Concluído;9,8;Híbrido;3;False
+TR-000158;FUNC-0076;Gestão Ágil de Projetos;Técnico;24;2021-06-10;2021-06-13;Concluído;6,5;Híbrido;3;False
+TR-000159;FUNC-0076;Liderança Situacional;Comportamental;16;2017-03-15;2017-03-17;Concluído;7,7;Presencial;2;False
+TR-000160;FUNC-0077;Python para Análise de Dados;Técnico;40;2024-10-01;2024-10-06;Concluído;9,5;EAD;5;False
+TR-000161;FUNC-0077;Inglês Corporativo;Idioma;60;2024-10-01;2024-10-08;Não Concluído;;EAD;7;False
+TR-000162;FUNC-0077;Inglês Corporativo;Idioma;60;2024-10-01;2024-10-08;Concluído;6,4;EAD;7;False
+TR-000163;FUNC-0077;Finanças para Não Financeiros;Técnico;12;2024-10-01;2024-10-02;Concluído;8,2;EAD;1;False
+TR-000164;FUNC-0078;Gestão de Conflitos;Comportamental;8;2024-01-24;2024-01-25;Não Concluído;;Presencial;1;False
+TR-000165;FUNC-0078;Segurança do Trabalho NR-35;Obrigatório;4;2024-03-23;2024-03-24;Concluído;8,0;Presencial;1;False
+TR-000166;FUNC-0079;Excel Avançado;Técnico;8;2024-10-27;2024-10-28;Concluído;8,8;EAD;1;False
+TR-000167;FUNC-0079;Liderança Situacional;Comportamental;16;2024-11-30;2024-12-02;Concluído;9,5;Presencial;2;False
+TR-000168;FUNC-0079;LGPD na Prática;Compliance;4;2024-10-10;2024-10-11;Em Andamento;;EAD;1;False
+TR-000169;FUNC-0080;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-07-19;2024-07-24;Concluído;7,7;Presencial;5;False
+TR-000170;FUNC-0081;Design Thinking;Técnico;16;2024-10-01;2024-10-03;Concluído;8,1;Híbrido;2;False
+TR-000171;FUNC-0082;Onboarding Corporativo;Institucional;8;2020-06-05;2020-06-06;Concluído;8,5;Híbrido;1;False
+TR-000172;FUNC-0082;Inglês Corporativo;Idioma;60;2021-06-02;2021-06-09;Concluído;6,2;EAD;7;False
+TR-000173;FUNC-0082;Python para Análise de Dados;Técnico;40;2022-06-18;2022-06-23;Não Concluído;;EAD;5;False
+TR-000174;FUNC-0082;Gestão Ágil de Projetos;Técnico;24;2019-08-29;2019-09-01;Concluído;8,6;Híbrido;3;False
+TR-000175;FUNC-0082;Gestão de Conflitos;Comportamental;8;2020-01-13;2020-01-14;Concluído;9,2;Presencial;1;False
+TR-000176;FUNC-0083;Gestão de Conflitos;Comportamental;8;2019-02-05;2019-02-06;Concluído;9,5;Presencial;1;False
+TR-000177;FUNC-0083;Segurança do Trabalho NR-35;Obrigatório;4;2021-10-28;2021-10-29;Concluído;7,8;Presencial;1;False
+TR-000178;FUNC-0083;Gestão de Conflitos;Comportamental;8;2021-02-15;2021-02-16;Concluído;6,9;Presencial;1;False
+TR-000179;FUNC-0083;Onboarding Corporativo;Institucional;8;2018-12-15;2018-12-16;Não Concluído;;Híbrido;1;False
+TR-000180;FUNC-0084;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-06-29;2024-07-04;Concluído;7,2;Presencial;5;False
+TR-000181;FUNC-0084;Excel Avançado;Técnico;8;2024-11-26;2024-11-27;Não Concluído;;EAD;1;False
+TR-000182;FUNC-0084;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-11-10;2024-11-15;Concluído;9,8;Presencial;5;False
+TR-000183;FUNC-0085;Segurança do Trabalho NR-35;Obrigatório;4;2022-04-28;2022-04-29;Não Concluído;;Presencial;1;False
+TR-000184;FUNC-0085;Comunicação Não-Violenta;Comportamental;8;2021-12-22;2021-12-23;Concluído;5,8;Presencial;1;False
+TR-000185;FUNC-0085;Finanças para Não Financeiros;Técnico;12;2019-09-25;2019-09-26;Concluído;9,6;EAD;1;False
+TR-000186;FUNC-0085;Onboarding Corporativo;Institucional;8;2022-01-05;2022-01-06;Concluído;7,6;Híbrido;1;False
+TR-000187;FUNC-0085;Inglês Corporativo;Idioma;60;2024-01-05;2024-01-12;Não Concluído;;EAD;7;False
+TR-000188;FUNC-0086;Programa de Desenvolvimento de Líderes;Comportamental;40;2020-09-19;2020-09-24;Concluído;7,7;Presencial;5;False
+TR-000189;FUNC-0086;Design Thinking;Técnico;16;2019-10-16;2019-10-18;Em Andamento;;Híbrido;2;False
+TR-000190;FUNC-0086;Python para Análise de Dados;Técnico;40;2020-05-20;2020-05-25;Concluído;8,2;EAD;5;False
+TR-000191;FUNC-0087;Python para Análise de Dados;Técnico;40;2023-04-01;2023-04-06;Concluído;7,9;EAD;5;False
+TR-000192;FUNC-0088;Gestão de Conflitos;Comportamental;8;2024-04-28;2024-04-29;Em Andamento;;Presencial;1;False
+TR-000193;FUNC-0088;Onboarding Corporativo;Institucional;8;2021-11-19;2021-11-20;Concluído;8,2;Híbrido;1;False
+TR-000194;FUNC-0088;Comunicação Não-Violenta;Comportamental;8;2023-11-01;2023-11-02;Concluído;7,6;Presencial;1;False
+TR-000195;FUNC-0089;Excel Avançado;Técnico;8;2024-08-27;2024-08-28;Em Andamento;;EAD;1;False
+TR-000196;FUNC-0090;Design Thinking;Técnico;16;2024-11-02;2024-11-04;Concluído;8,8;Híbrido;2;False
+TR-000197;FUNC-0091;Excel Avançado;Técnico;8;2024-05-15;2024-05-16;Concluído;8,5;EAD;1;False
+TR-000198;FUNC-0091;Vendas Consultivas B2B;Técnico;16;2023-06-09;2023-06-11;Concluído;5,6;Presencial;2;False
+TR-000199;FUNC-0092;Design Thinking;Técnico;16;2022-08-18;2022-08-20;Concluído;10,0;Híbrido;2;False
+TR-000200;FUNC-0092;Python para Análise de Dados;Técnico;40;2023-01-16;2023-01-21;Concluído;8,4;EAD;5;False
+TR-000201;FUNC-0092;Liderança Situacional;Comportamental;16;2024-05-28;2024-05-30;Não Concluído;;Presencial;2;False
+TR-000202;FUNC-0092;LGPD na Prática;Compliance;4;2022-07-08;2022-07-09;Não Concluído;;EAD;1;False
+TR-000203;FUNC-0092;Liderança Situacional;Comportamental;16;2020-12-30;2021-01-01;Concluído;8,2;Presencial;2;False
+TR-000204;FUNC-0093;Comunicação Não-Violenta;Comportamental;8;2017-09-14;2017-09-15;Concluído;9,6;Presencial;1;False
+TR-000205;FUNC-0093;Excel Avançado;Técnico;8;2021-01-27;2021-01-28;Não Concluído;;EAD;1;False
+TR-000206;FUNC-0094;Vendas Consultivas B2B;Técnico;16;2024-08-09;2024-08-11;Concluído;9,4;Presencial;2;False
+TR-000207;FUNC-0094;Liderança Situacional;Comportamental;16;2024-09-07;2024-09-09;Concluído;7,9;Presencial;2;False
+TR-000208;FUNC-0096;Segurança do Trabalho NR-35;Obrigatório;4;2023-08-24;2023-08-25;Concluído;7,8;Presencial;1;False
+TR-000209;FUNC-0096;Design Thinking;Técnico;16;2024-05-27;2024-05-29;Concluído;9,7;Híbrido;2;False
+TR-000210;FUNC-0096;Onboarding Corporativo;Institucional;8;2023-11-19;2023-11-20;Não Concluído;;Híbrido;1;False
+TR-000211;FUNC-0097;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-11-07;2022-11-12;Concluído;9,3;Presencial;5;False
+TR-000212;FUNC-0097;LGPD na Prática;Compliance;4;2024-11-19;2024-11-20;Concluído;9,6;EAD;1;False
+TR-000213;FUNC-0097;Programa de Desenvolvimento de Líderes;Comportamental;40;2016-10-13;2016-10-18;Concluído;8,7;Presencial;5;False
+TR-000214;FUNC-0099;Inglês Corporativo;Idioma;60;2023-03-05;2023-03-12;Concluído;8,6;EAD;7;False
+TR-000215;FUNC-0099;Finanças para Não Financeiros;Técnico;12;2024-02-11;2024-02-12;Concluído;9,3;EAD;1;False
+TR-000216;FUNC-0101;Excel Avançado;Técnico;8;2024-03-21;2024-03-22;Concluído;7,1;EAD;1;False
+TR-000217;FUNC-0101;Vendas Consultivas B2B;Técnico;16;2021-12-31;2022-01-02;Não Concluído;;Presencial;2;False
+TR-000218;FUNC-0101;Comunicação Não-Violenta;Comportamental;8;2021-11-09;2021-11-10;Concluído;8,9;Presencial;1;False
+TR-000219;FUNC-0101;Vendas Consultivas B2B;Técnico;16;2023-05-02;2023-05-04;Concluído;8,3;Presencial;2;False
+TR-000220;FUNC-0102;Power BI do Zero ao Avançado;Técnico;20;2024-11-12;2024-11-14;Concluído;9,2;EAD;2;False
+TR-000221;FUNC-0102;Excel Avançado;Técnico;8;2024-10-27;2024-10-28;Não Concluído;;EAD;1;False
+TR-000222;FUNC-0102;Segurança do Trabalho NR-35;Obrigatório;4;2024-11-18;2024-11-19;Concluído;8,9;Presencial;1;False
+TR-000223;FUNC-0102;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-11-23;2024-11-28;Não Concluído;;Presencial;5;False
+TR-000224;FUNC-0102;Finanças para Não Financeiros;Técnico;12;2024-11-10;2024-11-11;Não Concluído;;EAD;1;False
+TR-000225;FUNC-0103;Design Thinking;Técnico;16;2020-11-22;2020-11-24;Concluído;5,9;Híbrido;2;False
+TR-000226;FUNC-0103;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-04-17;2022-04-22;Concluído;7,0;Presencial;5;False
+TR-000227;FUNC-0103;Gestão de Conflitos;Comportamental;8;2024-02-01;2024-02-02;Concluído;7,4;Presencial;1;False
+TR-000228;FUNC-0103;Inglês Corporativo;Idioma;60;2023-12-02;2023-12-09;Não Concluído;;EAD;7;False
+TR-000229;FUNC-0103;Python para Análise de Dados;Técnico;40;2021-04-07;2021-04-12;Concluído;8,6;EAD;5;False
+TR-000230;FUNC-0104;Finanças para Não Financeiros;Técnico;12;2021-09-07;2021-09-08;Concluído;5,9;EAD;1;False
+TR-000231;FUNC-0105;Onboarding Corporativo;Institucional;8;2024-09-27;2024-09-28;Concluído;5,7;Híbrido;1;False
+TR-000232;FUNC-0106;Segurança do Trabalho NR-35;Obrigatório;4;2022-08-03;2022-08-04;Não Concluído;;Presencial;1;False
+TR-000233;FUNC-0107;Segurança do Trabalho NR-35;Obrigatório;4;2023-02-05;2023-02-06;Não Concluído;;Presencial;1;False
+TR-000234;FUNC-0108;LGPD na Prática;Compliance;4;2024-11-21;2024-11-22;Em Andamento;;EAD;1;False
+TR-000235;FUNC-0108;Inglês Corporativo;Idioma;60;2024-12-01;2024-12-08;Concluído;9,1;EAD;7;False
+TR-000236;FUNC-0108;Liderança Situacional;Comportamental;16;2024-11-28;2024-11-30;Concluído;5,7;Presencial;2;False
+TR-000237;FUNC-0108;Design Thinking;Técnico;16;2024-11-26;2024-11-28;Concluído;6,5;Híbrido;2;False
+TR-000238;FUNC-0109;LGPD na Prática;Compliance;4;2023-11-07;2023-11-08;Concluído;7,0;EAD;1;False
+TR-000239;FUNC-0110;Comunicação Não-Violenta;Comportamental;8;2023-09-13;2023-09-14;Concluído;6,5;Presencial;1;False
+TR-000240;FUNC-0111;Vendas Consultivas B2B;Técnico;16;2020-07-20;2020-07-22;Concluído;7,8;Presencial;2;False
+TR-000241;FUNC-0111;Inglês Corporativo;Idioma;60;2020-02-13;2020-02-20;Concluído;5,8;EAD;7;False
+TR-000242;FUNC-0111;Finanças para Não Financeiros;Técnico;12;2022-03-20;2022-03-21;Não Concluído;;EAD;1;False
+TR-000243;FUNC-0111;Finanças para Não Financeiros;Técnico;12;2018-11-30;2018-12-01;Concluído;5,8;EAD;1;False
+TR-000244;FUNC-0111;Segurança do Trabalho NR-35;Obrigatório;4;2022-06-02;2022-06-03;Não Concluído;;Presencial;1;False
+TR-000245;FUNC-0112;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-10-01;2024-10-06;Concluído;9,6;Presencial;5;False
+TR-000246;FUNC-0114;Comunicação Não-Violenta;Comportamental;8;2024-05-09;2024-05-10;Não Concluído;;Presencial;1;False
+TR-000247;FUNC-0114;Vendas Consultivas B2B;Técnico;16;2024-04-08;2024-04-10;Concluído;9,9;Presencial;2;False
+TR-000248;FUNC-0114;Gestão Ágil de Projetos;Técnico;24;2024-11-11;2024-11-14;Concluído;8,4;Híbrido;3;False
+TR-000249;FUNC-0115;Onboarding Corporativo;Institucional;8;2023-07-18;2023-07-19;Em Andamento;;Híbrido;1;False
+TR-000250;FUNC-0116;LGPD na Prática;Compliance;4;2022-01-12;2022-01-13;Concluído;8,6;EAD;1;False
+TR-000251;FUNC-0116;Power BI do Zero ao Avançado;Técnico;20;2023-05-19;2023-05-21;Concluído;8,1;EAD;2;False
+TR-000252;FUNC-0116;Design Thinking;Técnico;16;2023-03-28;2023-03-30;Não Concluído;;Híbrido;2;False
+TR-000253;FUNC-0116;Onboarding Corporativo;Institucional;8;2020-12-16;2020-12-17;Não Concluído;;Híbrido;1;False
+TR-000254;FUNC-0116;Gestão de Conflitos;Comportamental;8;2022-01-31;2022-02-01;Concluído;7,2;Presencial;1;False
+TR-000255;FUNC-0118;Vendas Consultivas B2B;Técnico;16;2023-06-26;2023-06-28;Não Concluído;;Presencial;2;False
+TR-000256;FUNC-0118;Power BI do Zero ao Avançado;Técnico;20;2020-01-19;2020-01-21;Concluído;9,3;EAD;2;False
+TR-000257;FUNC-0118;Liderança Situacional;Comportamental;16;2023-06-23;2023-06-25;Concluído;9,4;Presencial;2;False
+TR-000258;FUNC-0119;Liderança Situacional;Comportamental;16;2024-03-21;2024-03-23;Concluído;7,2;Presencial;2;False
+TR-000259;FUNC-0119;LGPD na Prática;Compliance;4;2024-07-23;2024-07-24;Concluído;9,6;EAD;1;False
+TR-000260;FUNC-0119;Vendas Consultivas B2B;Técnico;16;2024-08-31;2024-09-02;Não Concluído;;Presencial;2;False
+TR-000261;FUNC-0120;Power BI do Zero ao Avançado;Técnico;20;2022-02-11;2022-02-13;Concluído;7,5;EAD;2;False
+TR-000262;FUNC-0120;Onboarding Corporativo;Institucional;8;2024-06-02;2024-06-03;Não Concluído;;Híbrido;1;False
+TR-000263;FUNC-0120;Power BI do Zero ao Avançado;Técnico;20;2020-03-22;2020-03-24;Não Concluído;;EAD;2;False
+TR-000264;FUNC-0121;Excel Avançado;Técnico;8;2018-10-30;2018-10-31;Concluído;6,4;EAD;1;False
+TR-000265;FUNC-0122;Inglês Corporativo;Idioma;60;2018-05-28;2018-06-04;Concluído;9,2;EAD;7;False
+TR-000266;FUNC-0122;Segurança do Trabalho NR-35;Obrigatório;4;2016-08-31;2016-09-01;Não Concluído;;Presencial;1;False
+TR-000267;FUNC-0122;Inglês Corporativo;Idioma;60;2024-02-20;2024-02-27;Concluído;8,2;EAD;7;False
+TR-000268;FUNC-0123;Power BI do Zero ao Avançado;Técnico;20;2024-02-11;2024-02-13;Concluído;5,8;EAD;2;False
+TR-000269;FUNC-0123;Gestão Ágil de Projetos;Técnico;24;2024-09-08;2024-09-11;Concluído;7,3;Híbrido;3;False
+TR-000270;FUNC-0124;Comunicação Não-Violenta;Comportamental;8;2021-02-23;2021-02-24;Não Concluído;;Presencial;1;False
+TR-000271;FUNC-0124;Programa de Desenvolvimento de Líderes;Comportamental;40;2018-03-22;2018-03-27;Não Concluído;;Presencial;5;False
+TR-000272;FUNC-0124;Gestão Ágil de Projetos;Técnico;24;2022-06-10;2022-06-13;Concluído;8,9;Híbrido;3;False
+TR-000273;FUNC-0125;Gestão Ágil de Projetos;Técnico;24;2024-10-11;2024-10-14;Concluído;6,9;Híbrido;3;False
+TR-000274;FUNC-0126;Comunicação Não-Violenta;Comportamental;8;2023-03-31;2023-04-01;Concluído;7,2;Presencial;1;False
+TR-000275;FUNC-0126;Excel Avançado;Técnico;8;2022-02-20;2022-02-21;Concluído;7,9;EAD;1;False
+TR-000276;FUNC-0126;Finanças para Não Financeiros;Técnico;12;2024-05-07;2024-05-08;Em Andamento;;EAD;1;False
+TR-000277;FUNC-0126;Excel Avançado;Técnico;8;2023-02-07;2023-02-08;Concluído;5,8;EAD;1;False
+TR-000278;FUNC-0126;Segurança do Trabalho NR-35;Obrigatório;4;2024-08-31;2024-09-01;Concluído;8,1;Presencial;1;False
+TR-000279;FUNC-0127;Comunicação Não-Violenta;Comportamental;8;2023-04-02;2023-04-03;Concluído;7,5;Presencial;1;False
+TR-000280;FUNC-0127;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-11-15;2023-11-20;Em Andamento;;Presencial;5;False
+TR-000281;FUNC-0127;Comunicação Não-Violenta;Comportamental;8;2024-07-08;2024-07-09;Concluído;5,7;Presencial;1;False
+TR-000282;FUNC-0127;Liderança Situacional;Comportamental;16;2023-06-16;2023-06-18;Não Concluído;;Presencial;2;False
+TR-000283;FUNC-0129;Excel Avançado;Técnico;8;2023-02-06;2023-02-07;Concluído;5,9;EAD;1;False
+TR-000284;FUNC-0129;Onboarding Corporativo;Institucional;8;2024-07-15;2024-07-16;Concluído;6,1;Híbrido;1;False
+TR-000285;FUNC-0129;Design Thinking;Técnico;16;2023-02-11;2023-02-13;Não Concluído;;Híbrido;2;False
+TR-000286;FUNC-0130;Finanças para Não Financeiros;Técnico;12;2024-01-12;2024-01-13;Concluído;5,7;EAD;1;False
+TR-000287;FUNC-0131;Python para Análise de Dados;Técnico;40;2024-06-08;2024-06-13;Concluído;6,9;EAD;5;False
+TR-000288;FUNC-0131;Gestão Ágil de Projetos;Técnico;24;2024-06-07;2024-06-10;Não Concluído;;Híbrido;3;False
+TR-000289;FUNC-0131;Python para Análise de Dados;Técnico;40;2023-12-21;2023-12-26;Concluído;7,4;EAD;5;False
+TR-000290;FUNC-0131;Segurança do Trabalho NR-35;Obrigatório;4;2024-04-05;2024-04-06;Concluído;9,3;Presencial;1;False
+TR-000291;FUNC-0131;Design Thinking;Técnico;16;2023-10-13;2023-10-15;Concluído;7,9;Híbrido;2;False
+TR-000292;FUNC-0132;Comunicação Não-Violenta;Comportamental;8;2023-12-29;2023-12-30;Concluído;6,3;Presencial;1;False
+TR-000293;FUNC-0132;Gestão de Conflitos;Comportamental;8;2021-09-14;2021-09-15;Não Concluído;;Presencial;1;False
+TR-000294;FUNC-0132;Finanças para Não Financeiros;Técnico;12;2023-07-10;2023-07-11;Concluído;8,2;EAD;1;False
+TR-000295;FUNC-0133;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-07-11;2024-07-16;Concluído;8,8;Presencial;5;False
+TR-000296;FUNC-0133;Finanças para Não Financeiros;Técnico;12;2024-09-18;2024-09-19;Concluído;9,4;EAD;1;False
+TR-000297;FUNC-0134;Vendas Consultivas B2B;Técnico;16;2022-07-28;2022-07-30;Concluído;5,9;Presencial;2;False
+TR-000298;FUNC-0134;Gestão de Conflitos;Comportamental;8;2022-04-14;2022-04-15;Concluído;6,8;Presencial;1;False
+TR-000299;FUNC-0134;Gestão Ágil de Projetos;Técnico;24;2024-04-14;2024-04-17;Concluído;9,5;Híbrido;3;False
+TR-000300;FUNC-0134;LGPD na Prática;Compliance;4;2022-04-08;2022-04-09;Concluído;6,1;EAD;1;False
+TR-000301;FUNC-0134;Inglês Corporativo;Idioma;60;2021-02-27;2021-03-06;Concluído;6,1;EAD;7;False
+TR-000302;FUNC-0137;Gestão de Conflitos;Comportamental;8;2024-11-08;2024-11-09;Concluído;7,9;Presencial;1;False
+TR-000303;FUNC-0137;Finanças para Não Financeiros;Técnico;12;2024-11-13;2024-11-14;Em Andamento;;EAD;1;False
+TR-000304;FUNC-0138;Vendas Consultivas B2B;Técnico;16;2024-10-01;2024-10-03;Concluído;8,0;Presencial;2;False
+TR-000305;FUNC-0138;Gestão Ágil de Projetos;Técnico;24;2024-10-01;2024-10-04;Não Concluído;;Híbrido;3;False
+TR-000306;FUNC-0138;Onboarding Corporativo;Institucional;8;2024-10-01;2024-10-02;Concluído;7,8;Híbrido;1;False
+TR-000307;FUNC-0138;Gestão de Conflitos;Comportamental;8;2024-10-01;2024-10-02;Não Concluído;;Presencial;1;False
+TR-000308;FUNC-0138;Design Thinking;Técnico;16;2024-10-01;2024-10-03;Concluído;7,7;Híbrido;2;False
+TR-000309;FUNC-0140;LGPD na Prática;Compliance;4;2015-12-15;2015-12-16;Concluído;8,3;EAD;1;False
+TR-000310;FUNC-0140;Vendas Consultivas B2B;Técnico;16;2023-03-19;2023-03-21;Concluído;5,7;Presencial;2;False
+TR-000311;FUNC-0140;Comunicação Não-Violenta;Comportamental;8;2022-05-03;2022-05-04;Em Andamento;;Presencial;1;False
+TR-000312;FUNC-0140;Power BI do Zero ao Avançado;Técnico;20;2021-11-02;2021-11-04;Concluído;9,5;EAD;2;False
+TR-000313;FUNC-0140;Segurança do Trabalho NR-35;Obrigatório;4;2016-12-31;2017-01-01;Não Concluído;;Presencial;1;False
+TR-000314;FUNC-0141;Excel Avançado;Técnico;8;2023-12-31;2024-01-01;Não Concluído;;EAD;1;False
+TR-000315;FUNC-0141;Power BI do Zero ao Avançado;Técnico;20;2022-06-08;2022-06-10;Concluído;6,2;EAD;2;False
+TR-000316;FUNC-0141;Vendas Consultivas B2B;Técnico;16;2024-03-07;2024-03-09;Concluído;7,9;Presencial;2;False
+TR-000317;FUNC-0141;Programa de Desenvolvimento de Líderes;Comportamental;40;2019-06-21;2019-06-26;Concluído;7,8;Presencial;5;False
+TR-000318;FUNC-0141;Finanças para Não Financeiros;Técnico;12;2024-05-07;2024-05-08;Não Concluído;;EAD;1;False
+TR-000319;FUNC-0143;Excel Avançado;Técnico;8;2023-09-30;2023-10-01;Concluído;7,4;EAD;1;False
+TR-000320;FUNC-0143;Finanças para Não Financeiros;Técnico;12;2021-12-09;2021-12-10;Não Concluído;;EAD;1;False
+TR-000321;FUNC-0143;Segurança do Trabalho NR-35;Obrigatório;4;2021-04-10;2021-04-11;Concluído;5,5;Presencial;1;False
+TR-000322;FUNC-0144;Onboarding Corporativo;Institucional;8;2020-06-26;2020-06-27;Concluído;8,8;Híbrido;1;False
+TR-000323;FUNC-0144;Finanças para Não Financeiros;Técnico;12;2023-03-15;2023-03-16;Concluído;8,0;EAD;1;False
+TR-000324;FUNC-0144;Power BI do Zero ao Avançado;Técnico;20;2022-09-10;2022-09-12;Concluído;9,2;EAD;2;False
+TR-000325;FUNC-0145;Finanças para Não Financeiros;Técnico;12;2022-08-31;2022-09-01;Concluído;5,7;EAD;1;False
+TR-000326;FUNC-0146;LGPD na Prática;Compliance;4;2023-01-10;2023-01-11;Não Concluído;;EAD;1;False
+TR-000327;FUNC-0147;Vendas Consultivas B2B;Técnico;16;2019-01-09;2019-01-11;Concluído;10,0;Presencial;2;False
+TR-000328;FUNC-0148;LGPD na Prática;Compliance;4;2024-06-16;2024-06-17;Em Andamento;;EAD;1;False
+TR-000329;FUNC-0148;Comunicação Não-Violenta;Comportamental;8;2023-11-10;2023-11-11;Concluído;6,6;Presencial;1;False
+TR-000330;FUNC-0148;Liderança Situacional;Comportamental;16;2022-03-16;2022-03-18;Concluído;5,5;Presencial;2;False
+TR-000331;FUNC-0148;Comunicação Não-Violenta;Comportamental;8;2022-06-18;2022-06-19;Concluído;6,9;Presencial;1;False
+TR-000332;FUNC-0149;Finanças para Não Financeiros;Técnico;12;2024-08-17;2024-08-18;Concluído;9,1;EAD;1;False
+TR-000333;FUNC-0149;Gestão Ágil de Projetos;Técnico;24;2024-11-30;2024-12-03;Concluído;5,9;Híbrido;3;False
+TR-000334;FUNC-0149;LGPD na Prática;Compliance;4;2024-11-28;2024-11-29;Não Concluído;;EAD;1;False
+TR-000335;FUNC-0149;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-10-15;2024-10-20;Concluído;6,2;Presencial;5;False
+TR-000336;FUNC-0150;Excel Avançado;Técnico;8;2020-09-06;2020-09-07;Concluído;7,4;EAD;1;False
+TR-000337;FUNC-0151;Inglês Corporativo;Idioma;60;2020-06-05;2020-06-12;Concluído;9,7;EAD;7;False
+TR-000338;FUNC-0151;Onboarding Corporativo;Institucional;8;2022-08-23;2022-08-24;Concluído;5,5;Híbrido;1;False
+TR-000339;FUNC-0151;Finanças para Não Financeiros;Técnico;12;2023-11-21;2023-11-22;Concluído;6,9;EAD;1;False
+TR-000340;FUNC-0152;Python para Análise de Dados;Técnico;40;2022-09-17;2022-09-22;Concluído;6,0;EAD;5;False
+TR-000341;FUNC-0153;Vendas Consultivas B2B;Técnico;16;2024-09-21;2024-09-23;Concluído;6,4;Presencial;2;False
+TR-000342;FUNC-0154;Segurança do Trabalho NR-35;Obrigatório;4;2024-06-03;2024-06-04;Não Concluído;;Presencial;1;False
+TR-000343;FUNC-0154;Gestão de Conflitos;Comportamental;8;2024-11-02;2024-11-03;Concluído;5,9;Presencial;1;False
+TR-000344;FUNC-0154;Finanças para Não Financeiros;Técnico;12;2024-06-24;2024-06-25;Concluído;8,4;EAD;1;False
+TR-000345;FUNC-0155;Gestão de Conflitos;Comportamental;8;2022-05-11;2022-05-12;Concluído;7,2;Presencial;1;False
+TR-000346;FUNC-0155;Comunicação Não-Violenta;Comportamental;8;2023-07-05;2023-07-06;Em Andamento;;Presencial;1;False
+TR-000347;FUNC-0155;Comunicação Não-Violenta;Comportamental;8;2024-06-08;2024-06-09;Concluído;9,4;Presencial;1;False
+TR-000348;FUNC-0155;Gestão Ágil de Projetos;Técnico;24;2022-10-23;2022-10-26;Em Andamento;;Híbrido;3;False
+TR-000349;FUNC-0155;LGPD na Prática;Compliance;4;2024-03-02;2024-03-03;Em Andamento;;EAD;1;False
+TR-000350;FUNC-0156;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-02;2024-10-03;Concluído;5,8;Presencial;1;False
+TR-000351;FUNC-0157;Python para Análise de Dados;Técnico;40;2022-11-06;2022-11-11;Não Concluído;;EAD;5;False
+TR-000352;FUNC-0157;Python para Análise de Dados;Técnico;40;2020-08-09;2020-08-14;Concluído;6,4;EAD;5;False
+TR-000353;FUNC-0158;Vendas Consultivas B2B;Técnico;16;2022-01-08;2022-01-10;Concluído;6,5;Presencial;2;False
+TR-000354;FUNC-0158;Power BI do Zero ao Avançado;Técnico;20;2022-04-04;2022-04-06;Concluído;8,0;EAD;2;False
+TR-000355;FUNC-0158;Comunicação Não-Violenta;Comportamental;8;2023-11-06;2023-11-07;Concluído;9,7;Presencial;1;False
+TR-000356;FUNC-0159;Liderança Situacional;Comportamental;16;2024-09-13;2024-09-15;Concluído;5,9;Presencial;2;False
+TR-000357;FUNC-0159;Vendas Consultivas B2B;Técnico;16;2024-08-24;2024-08-26;Não Concluído;;Presencial;2;False
+TR-000358;FUNC-0159;Finanças para Não Financeiros;Técnico;12;2024-11-21;2024-11-22;Concluído;9,5;EAD;1;False
+TR-000359;FUNC-0160;Python para Análise de Dados;Técnico;40;2017-02-07;2017-02-12;Concluído;9,4;EAD;5;False
+TR-000360;FUNC-0160;Excel Avançado;Técnico;8;2019-10-14;2019-10-15;Em Andamento;;EAD;1;False
+TR-000361;FUNC-0160;Comunicação Não-Violenta;Comportamental;8;2021-01-15;2021-01-16;Concluído;5,6;Presencial;1;False
+TR-000362;FUNC-0161;Gestão Ágil de Projetos;Técnico;24;2021-02-08;2021-02-11;Em Andamento;;Híbrido;3;False
+TR-000363;FUNC-0161;Finanças para Não Financeiros;Técnico;12;2018-03-26;2018-03-27;Concluído;5,6;EAD;1;False
+TR-000364;FUNC-0162;Inglês Corporativo;Idioma;60;2023-11-14;2023-11-21;Concluído;9,6;EAD;7;False
+TR-000365;FUNC-0162;Comunicação Não-Violenta;Comportamental;8;2023-01-04;2023-01-05;Concluído;6,7;Presencial;1;False
+TR-000366;FUNC-0162;Onboarding Corporativo;Institucional;8;2022-09-02;2022-09-03;Não Concluído;;Híbrido;1;False
+TR-000367;FUNC-0163;Onboarding Corporativo;Institucional;8;2023-04-04;2023-04-05;Concluído;6,2;Híbrido;1;False
+TR-000368;FUNC-0163;Liderança Situacional;Comportamental;16;2022-12-18;2022-12-20;Concluído;8,0;Presencial;2;False
+TR-000369;FUNC-0163;LGPD na Prática;Compliance;4;2021-12-05;2021-12-06;Concluído;6,1;EAD;1;False
+TR-000370;FUNC-0164;Comunicação Não-Violenta;Comportamental;8;2022-02-19;2022-02-20;Concluído;9,5;Presencial;1;False
+TR-000371;FUNC-0164;Gestão Ágil de Projetos;Técnico;24;2022-10-30;2022-11-02;Concluído;5,7;Híbrido;3;False
+TR-000372;FUNC-0164;Liderança Situacional;Comportamental;16;2024-06-21;2024-06-23;Concluído;9,7;Presencial;2;False
+TR-000373;FUNC-0165;Python para Análise de Dados;Técnico;40;2023-02-01;2023-02-06;Concluído;7,6;EAD;5;False
+TR-000374;FUNC-0165;Vendas Consultivas B2B;Técnico;16;2018-10-13;2018-10-15;Concluído;9,0;Presencial;2;False
+TR-000375;FUNC-0167;Liderança Situacional;Comportamental;16;2017-12-23;2017-12-25;Concluído;6,8;Presencial;2;False
+TR-000376;FUNC-0167;Inglês Corporativo;Idioma;60;2023-08-02;2023-08-09;Concluído;8,1;EAD;7;False
+TR-000377;FUNC-0167;Comunicação Não-Violenta;Comportamental;8;2019-04-24;2019-04-25;Concluído;7,2;Presencial;1;False
+TR-000378;FUNC-0169;Design Thinking;Técnico;16;2023-09-14;2023-09-16;Concluído;8,7;Híbrido;2;False
+TR-000379;FUNC-0169;Comunicação Não-Violenta;Comportamental;8;2024-11-21;2024-11-22;Concluído;6,7;Presencial;1;False
+TR-000380;FUNC-0170;Onboarding Corporativo;Institucional;8;2024-11-20;2024-11-21;Não Concluído;;Híbrido;1;False
+TR-000381;FUNC-0172;Design Thinking;Técnico;16;2019-06-11;2019-06-13;Concluído;6,1;Híbrido;2;False
+TR-000382;FUNC-0174;Comunicação Não-Violenta;Comportamental;8;2024-10-30;2024-10-31;Concluído;9,7;Presencial;1;False
+TR-000383;FUNC-0174;LGPD na Prática;Compliance;4;2023-08-02;2023-08-03;Não Concluído;;EAD;1;False
+TR-000384;FUNC-0174;Comunicação Não-Violenta;Comportamental;8;2023-10-13;2023-10-14;Não Concluído;;Presencial;1;False
+TR-000385;FUNC-0174;Gestão de Conflitos;Comportamental;8;2024-10-17;2024-10-18;Concluído;7,2;Presencial;1;False
+TR-000386;FUNC-0175;Finanças para Não Financeiros;Técnico;12;2022-10-22;2022-10-23;Em Andamento;;EAD;1;False
+TR-000387;FUNC-0175;Vendas Consultivas B2B;Técnico;16;2020-11-08;2020-11-10;Concluído;6,2;Presencial;2;False
+TR-000388;FUNC-0175;Power BI do Zero ao Avançado;Técnico;20;2024-03-07;2024-03-09;Concluído;9,5;EAD;2;False
+TR-000389;FUNC-0175;Finanças para Não Financeiros;Técnico;12;2021-08-07;2021-08-08;Concluído;9,9;EAD;1;False
+TR-000390;FUNC-0176;LGPD na Prática;Compliance;4;2023-10-29;2023-10-30;Concluído;9,3;EAD;1;False
+TR-000391;FUNC-0176;Gestão de Conflitos;Comportamental;8;2024-03-22;2024-03-23;Não Concluído;;Presencial;1;False
+TR-000392;FUNC-0176;Gestão de Conflitos;Comportamental;8;2023-09-14;2023-09-15;Em Andamento;;Presencial;1;False
+TR-000393;FUNC-0176;Finanças para Não Financeiros;Técnico;12;2024-08-06;2024-08-07;Concluído;8,5;EAD;1;False
+TR-000394;FUNC-0176;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-12;2024-10-13;Concluído;7,2;Presencial;1;False
+TR-000395;FUNC-0177;Comunicação Não-Violenta;Comportamental;8;2022-02-04;2022-02-05;Em Andamento;;Presencial;1;False
+TR-000396;FUNC-0177;Design Thinking;Técnico;16;2019-05-02;2019-05-04;Em Andamento;;Híbrido;2;False
+TR-000397;FUNC-0177;Design Thinking;Técnico;16;2024-01-17;2024-01-19;Concluído;8,1;Híbrido;2;False
+TR-000398;FUNC-0177;Power BI do Zero ao Avançado;Técnico;20;2022-01-23;2022-01-25;Não Concluído;;EAD;2;False
+TR-000399;FUNC-0177;Comunicação Não-Violenta;Comportamental;8;2018-11-29;2018-11-30;Concluído;6,0;Presencial;1;False
+TR-000400;FUNC-0178;Liderança Situacional;Comportamental;16;2020-05-31;2020-06-02;Concluído;8,4;Presencial;2;False
+TR-000401;FUNC-0178;Liderança Situacional;Comportamental;16;2022-10-29;2022-10-31;Em Andamento;;Presencial;2;False
+TR-000402;FUNC-0178;Programa de Desenvolvimento de Líderes;Comportamental;40;2018-09-08;2018-09-13;Em Andamento;;Presencial;5;False
+TR-000403;FUNC-0178;Comunicação Não-Violenta;Comportamental;8;2016-07-02;2016-07-03;Concluído;7,4;Presencial;1;False
+TR-000404;FUNC-0179;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-01-18;2023-01-23;Concluído;7,3;Presencial;5;False
+TR-000405;FUNC-0179;Excel Avançado;Técnico;8;2024-01-06;2024-01-07;Concluído;7,9;EAD;1;False
+TR-000406;FUNC-0180;Gestão de Conflitos;Comportamental;8;2024-09-15;2024-09-16;Concluído;8,3;Presencial;1;False
+TR-000407;FUNC-0180;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-06-29;2022-07-04;Em Andamento;;Presencial;5;False
+TR-000408;FUNC-0181;Finanças para Não Financeiros;Técnico;12;2024-08-20;2024-08-21;Concluído;7,7;EAD;1;False
+TR-000409;FUNC-0181;Power BI do Zero ao Avançado;Técnico;20;2019-05-27;2019-05-29;Concluído;7,1;EAD;2;False
+TR-000410;FUNC-0181;Segurança do Trabalho NR-35;Obrigatório;4;2021-10-12;2021-10-13;Concluído;7,4;Presencial;1;False
+TR-000411;FUNC-0181;Segurança do Trabalho NR-35;Obrigatório;4;2024-06-10;2024-06-11;Concluído;8,6;Presencial;1;False
+TR-000412;FUNC-0181;Onboarding Corporativo;Institucional;8;2024-03-23;2024-03-24;Não Concluído;;Híbrido;1;False
+TR-000413;FUNC-0182;Onboarding Corporativo;Institucional;8;2023-06-16;2023-06-17;Concluído;7,0;Híbrido;1;False
+TR-000414;FUNC-0182;Excel Avançado;Técnico;8;2024-07-26;2024-07-27;Concluído;9,7;EAD;1;False
+TR-000415;FUNC-0182;Gestão Ágil de Projetos;Técnico;24;2024-05-26;2024-05-29;Não Concluído;;Híbrido;3;False
+TR-000416;FUNC-0182;Gestão Ágil de Projetos;Técnico;24;2023-07-17;2023-07-20;Concluído;9,5;Híbrido;3;False
+TR-000417;FUNC-0182;Power BI do Zero ao Avançado;Técnico;20;2024-06-23;2024-06-25;Não Concluído;;EAD;2;False
+TR-000418;FUNC-0183;Vendas Consultivas B2B;Técnico;16;2018-01-01;2018-01-03;Em Andamento;;Presencial;2;False
+TR-000419;FUNC-0183;Power BI do Zero ao Avançado;Técnico;20;2020-12-18;2020-12-20;Concluído;7,4;EAD;2;False
+TR-000420;FUNC-0185;Gestão de Conflitos;Comportamental;8;2024-08-29;2024-08-30;Em Andamento;;Presencial;1;False
+TR-000421;FUNC-0186;Gestão de Conflitos;Comportamental;8;2023-10-08;2023-10-09;Não Concluído;;Presencial;1;False
+TR-000422;FUNC-0186;Power BI do Zero ao Avançado;Técnico;20;2023-09-25;2023-09-27;Concluído;6,0;EAD;2;False
+TR-000423;FUNC-0186;Python para Análise de Dados;Técnico;40;2023-09-09;2023-09-14;Concluído;7,3;EAD;5;False
+TR-000424;FUNC-0186;Vendas Consultivas B2B;Técnico;16;2023-08-06;2023-08-08;Concluído;7,7;Presencial;2;False
+TR-000425;FUNC-0189;Onboarding Corporativo;Institucional;8;2023-02-28;2023-03-01;Em Andamento;;Híbrido;1;False
+TR-000426;FUNC-0189;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-05-14;2023-05-19;Não Concluído;;Presencial;5;False
+TR-000427;FUNC-0189;Python para Análise de Dados;Técnico;40;2024-09-28;2024-10-03;Em Andamento;;EAD;5;False
+TR-000428;FUNC-0190;Liderança Situacional;Comportamental;16;2023-12-19;2023-12-21;Não Concluído;;Presencial;2;False
+TR-000429;FUNC-0190;Gestão de Conflitos;Comportamental;8;2020-09-05;2020-09-06;Concluído;8,1;Presencial;1;False
+TR-000430;FUNC-0191;Design Thinking;Técnico;16;2024-11-21;2024-11-23;Em Andamento;;Híbrido;2;False
+TR-000431;FUNC-0191;Gestão de Conflitos;Comportamental;8;2024-11-20;2024-11-21;Concluído;5,7;Presencial;1;False
+TR-000432;FUNC-0192;Vendas Consultivas B2B;Técnico;16;2024-09-15;2024-09-17;Não Concluído;;Presencial;2;False
+TR-000433;FUNC-0193;Design Thinking;Técnico;16;2019-11-18;2019-11-20;Concluído;7,8;Híbrido;2;False
+TR-000434;FUNC-0193;Gestão Ágil de Projetos;Técnico;24;2023-12-15;2023-12-18;Não Concluído;;Híbrido;3;False
+TR-000435;FUNC-0194;Gestão Ágil de Projetos;Técnico;24;2022-07-29;2022-08-01;Concluído;9,8;Híbrido;3;False
+TR-000436;FUNC-0194;Gestão Ágil de Projetos;Técnico;24;2022-06-17;2022-06-20;Concluído;9,5;Híbrido;3;False
+TR-000437;FUNC-0195;Finanças para Não Financeiros;Técnico;12;2021-09-17;2021-09-18;Concluído;8,5;EAD;1;False
+TR-000438;FUNC-0195;Power BI do Zero ao Avançado;Técnico;20;2021-05-19;2021-05-21;Concluído;7,0;EAD;2;False
+TR-000439;FUNC-0195;Liderança Situacional;Comportamental;16;2024-03-17;2024-03-19;Concluído;8,7;Presencial;2;False
+TR-000440;FUNC-0195;Onboarding Corporativo;Institucional;8;2023-07-05;2023-07-06;Concluído;9,3;Híbrido;1;False
+TR-000441;FUNC-0195;Segurança do Trabalho NR-35;Obrigatório;4;2021-05-24;2021-05-25;Concluído;9,1;Presencial;1;False
+TR-000442;FUNC-0196;Programa de Desenvolvimento de Líderes;Comportamental;40;2019-02-27;2019-03-04;Concluído;5,9;Presencial;5;False
+TR-000443;FUNC-0198;Python para Análise de Dados;Técnico;40;2024-05-29;2024-06-03;Concluído;9,8;EAD;5;False
+TR-000444;FUNC-0198;Segurança do Trabalho NR-35;Obrigatório;4;2023-11-06;2023-11-07;Concluído;8,9;Presencial;1;False
+TR-000445;FUNC-0198;Vendas Consultivas B2B;Técnico;16;2024-08-08;2024-08-10;Concluído;6,4;Presencial;2;False
+TR-000446;FUNC-0199;Inglês Corporativo;Idioma;60;2023-08-08;2023-08-15;Concluído;8,3;EAD;7;False
+TR-000447;FUNC-0199;LGPD na Prática;Compliance;4;2024-09-14;2024-09-15;Concluído;5,7;EAD;1;False
+TR-000448;FUNC-0199;LGPD na Prática;Compliance;4;2023-05-21;2023-05-22;Concluído;9,6;EAD;1;False
+TR-000449;FUNC-0200;Finanças para Não Financeiros;Técnico;12;2019-06-26;2019-06-27;Em Andamento;;EAD;1;False
+TR-000450;FUNC-0200;Comunicação Não-Violenta;Comportamental;8;2018-12-20;2018-12-21;Concluído;6,1;Presencial;1;False
+TR-000451;FUNC-0200;Power BI do Zero ao Avançado;Técnico;20;2018-11-30;2018-12-02;Concluído;7,3;EAD;2;False
+TR-000452;FUNC-0201;Comunicação Não-Violenta;Comportamental;8;2024-10-15;2024-10-16;Concluído;7,2;Presencial;1;False
+TR-000453;FUNC-0202;Vendas Consultivas B2B;Técnico;16;2022-04-26;2022-04-28;Não Concluído;;Presencial;2;False
+TR-000454;FUNC-0202;Onboarding Corporativo;Institucional;8;2024-01-23;2024-01-24;Concluído;9,1;Híbrido;1;False
+TR-000455;FUNC-0203;Gestão Ágil de Projetos;Técnico;24;2017-04-25;2017-04-28;Concluído;8,3;Híbrido;3;False
+TR-000456;FUNC-0203;Gestão Ágil de Projetos;Técnico;24;2022-10-09;2022-10-12;Concluído;6,8;Híbrido;3;False
+TR-000457;FUNC-0203;Finanças para Não Financeiros;Técnico;12;2023-12-01;2023-12-02;Concluído;7,0;EAD;1;False
+TR-000458;FUNC-0204;Power BI do Zero ao Avançado;Técnico;20;2020-09-04;2020-09-06;Concluído;8,0;EAD;2;False
+TR-000459;FUNC-0204;Python para Análise de Dados;Técnico;40;2020-04-20;2020-04-25;Concluído;6,2;EAD;5;False
+TR-000460;FUNC-0204;Design Thinking;Técnico;16;2022-12-23;2022-12-25;Concluído;9,4;Híbrido;2;False
+TR-000461;FUNC-0205;Onboarding Corporativo;Institucional;8;2024-11-02;2024-11-03;Concluído;7,0;Híbrido;1;False
+TR-000462;FUNC-0205;Vendas Consultivas B2B;Técnico;16;2024-10-15;2024-10-17;Concluído;9,8;Presencial;2;False
+TR-000463;FUNC-0205;Gestão Ágil de Projetos;Técnico;24;2024-11-07;2024-11-10;Concluído;9,3;Híbrido;3;False
+TR-000464;FUNC-0206;Python para Análise de Dados;Técnico;40;2021-03-06;2021-03-11;Não Concluído;;EAD;5;False
+TR-000465;FUNC-0206;Gestão de Conflitos;Comportamental;8;2023-08-02;2023-08-03;Concluído;7,0;Presencial;1;False
+TR-000466;FUNC-0206;Excel Avançado;Técnico;8;2023-06-20;2023-06-21;Não Concluído;;EAD;1;False
+TR-000467;FUNC-0206;Gestão de Conflitos;Comportamental;8;2020-05-21;2020-05-22;Concluído;9,4;Presencial;1;False
+TR-000468;FUNC-0207;Finanças para Não Financeiros;Técnico;12;2020-08-14;2020-08-15;Em Andamento;;EAD;1;False
+TR-000469;FUNC-0207;LGPD na Prática;Compliance;4;2020-09-27;2020-09-28;Em Andamento;;EAD;1;False
+TR-000470;FUNC-0207;Onboarding Corporativo;Institucional;8;2022-01-21;2022-01-22;Concluído;9,3;Híbrido;1;False
+TR-000471;FUNC-0208;Liderança Situacional;Comportamental;16;2022-07-21;2022-07-23;Não Concluído;;Presencial;2;False
+TR-000472;FUNC-0208;Comunicação Não-Violenta;Comportamental;8;2023-08-13;2023-08-14;Não Concluído;;Presencial;1;False
+TR-000473;FUNC-0208;Finanças para Não Financeiros;Técnico;12;2024-05-17;2024-05-18;Concluído;6,1;EAD;1;False
+TR-000474;FUNC-0209;Gestão Ágil de Projetos;Técnico;24;2018-09-08;2018-09-11;Concluído;9,6;Híbrido;3;False
+TR-000475;FUNC-0209;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-01-01;2024-01-06;Concluído;8,7;Presencial;5;False
+TR-000476;FUNC-0210;Inglês Corporativo;Idioma;60;2022-10-11;2022-10-18;Concluído;8,1;EAD;7;False
+TR-000477;FUNC-0211;LGPD na Prática;Compliance;4;2021-09-09;2021-09-10;Em Andamento;;EAD;1;False
+TR-000478;FUNC-0211;Python para Análise de Dados;Técnico;40;2024-07-02;2024-07-07;Não Concluído;;EAD;5;False
+TR-000479;FUNC-0211;Excel Avançado;Técnico;8;2020-01-08;2020-01-09;Concluído;5,9;EAD;1;False
+TR-000480;FUNC-0212;Gestão de Conflitos;Comportamental;8;2023-01-15;2023-01-16;Não Concluído;;Presencial;1;False
+TR-000481;FUNC-0212;Segurança do Trabalho NR-35;Obrigatório;4;2020-04-30;2020-05-01;Concluído;7,0;Presencial;1;False
+TR-000482;FUNC-0212;Excel Avançado;Técnico;8;2023-10-31;2023-11-01;Concluído;8,8;EAD;1;False
+TR-000483;FUNC-0213;Inglês Corporativo;Idioma;60;2024-10-08;2024-10-15;Não Concluído;;EAD;7;False
+TR-000484;FUNC-0213;LGPD na Prática;Compliance;4;2024-07-03;2024-07-04;Concluído;9,2;EAD;1;False
+TR-000485;FUNC-0213;Finanças para Não Financeiros;Técnico;12;2024-05-23;2024-05-24;Concluído;7,5;EAD;1;False
+TR-000486;FUNC-0214;Python para Análise de Dados;Técnico;40;2019-04-28;2019-05-03;Concluído;9,3;EAD;5;False
+TR-000487;FUNC-0214;Programa de Desenvolvimento de Líderes;Comportamental;40;2018-09-04;2018-09-09;Concluído;5,6;Presencial;5;False
+TR-000488;FUNC-0214;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-02-01;2021-02-06;Concluído;8,4;Presencial;5;False
+TR-000489;FUNC-0215;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-11-17;2024-11-22;Não Concluído;;Presencial;5;False
+TR-000490;FUNC-0216;Vendas Consultivas B2B;Técnico;16;2017-11-06;2017-11-08;Concluído;5,7;Presencial;2;False
+TR-000491;FUNC-0217;Inglês Corporativo;Idioma;60;2024-08-28;2024-09-04;Concluído;5,6;EAD;7;False
+TR-000492;FUNC-0217;Comunicação Não-Violenta;Comportamental;8;2023-12-06;2023-12-07;Concluído;9,1;Presencial;1;False
+TR-000493;FUNC-0217;Liderança Situacional;Comportamental;16;2024-09-19;2024-09-21;Concluído;8,5;Presencial;2;False
+TR-000494;FUNC-0218;Gestão de Conflitos;Comportamental;8;2023-11-28;2023-11-29;Concluído;6,4;Presencial;1;False
+TR-000495;FUNC-0219;LGPD na Prática;Compliance;4;2024-03-13;2024-03-14;Em Andamento;;EAD;1;False
+TR-000496;FUNC-0219;Comunicação Não-Violenta;Comportamental;8;2023-12-07;2023-12-08;Concluído;9,4;Presencial;1;False
+TR-000497;FUNC-0220;Inglês Corporativo;Idioma;60;2023-11-05;2023-11-12;Não Concluído;;EAD;7;False
+TR-000498;FUNC-0221;Python para Análise de Dados;Técnico;40;2023-08-25;2023-08-30;Concluído;6,9;EAD;5;False
+TR-000499;FUNC-0221;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-03-30;2022-04-04;Concluído;5,9;Presencial;5;False
+TR-000500;FUNC-0221;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-06-01;2023-06-06;Não Concluído;;Presencial;5;False
+TR-000501;FUNC-0223;Design Thinking;Técnico;16;2018-04-04;2018-04-06;Concluído;9,1;Híbrido;2;False
+TR-000502;FUNC-0224;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-03-15;2021-03-20;Concluído;9,0;Presencial;5;False
+TR-000503;FUNC-0225;Excel Avançado;Técnico;8;2024-07-15;2024-07-16;Não Concluído;;EAD;1;False
+TR-000504;FUNC-0225;Finanças para Não Financeiros;Técnico;12;2022-10-10;2022-10-11;Concluído;8,5;EAD;1;False
+TR-000505;FUNC-0226;Power BI do Zero ao Avançado;Técnico;20;2024-07-11;2024-07-13;Concluído;8,1;EAD;2;False
+TR-000506;FUNC-0226;Power BI do Zero ao Avançado;Técnico;20;2024-06-23;2024-06-25;Não Concluído;;EAD;2;False
+TR-000507;FUNC-0226;Segurança do Trabalho NR-35;Obrigatório;4;2023-03-07;2023-03-08;Não Concluído;;Presencial;1;False
+TR-000508;FUNC-0228;Inglês Corporativo;Idioma;60;2024-11-01;2024-11-08;Concluído;6,3;EAD;7;False
+TR-000509;FUNC-0229;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-06-28;2023-07-03;Não Concluído;;Presencial;5;False
+TR-000510;FUNC-0229;Liderança Situacional;Comportamental;16;2024-10-31;2024-11-02;Concluído;6,9;Presencial;2;False
+TR-000511;FUNC-0229;LGPD na Prática;Compliance;4;2023-07-28;2023-07-29;Não Concluído;;EAD;1;False
+TR-000512;FUNC-0229;Vendas Consultivas B2B;Técnico;16;2024-07-07;2024-07-09;Concluído;8,9;Presencial;2;False
+TR-000513;FUNC-0229;Finanças para Não Financeiros;Técnico;12;2023-03-24;2023-03-25;Concluído;9,5;EAD;1;False
+TR-000514;FUNC-0230;Onboarding Corporativo;Institucional;8;2023-01-18;2023-01-19;Concluído;6,7;Híbrido;1;False
+TR-000515;FUNC-0230;Power BI do Zero ao Avançado;Técnico;20;2023-02-11;2023-02-13;Concluído;8,7;EAD;2;False
+TR-000516;FUNC-0230;Liderança Situacional;Comportamental;16;2021-08-10;2021-08-12;Não Concluído;;Presencial;2;False
+TR-000517;FUNC-0231;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-08-16;2024-08-21;Em Andamento;;Presencial;5;False
+TR-000518;FUNC-0231;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-11;2024-10-12;Concluído;6,1;Presencial;1;False
+TR-000519;FUNC-0232;Finanças para Não Financeiros;Técnico;12;2023-04-19;2023-04-20;Concluído;7,5;EAD;1;False
+TR-000520;FUNC-0232;Gestão Ágil de Projetos;Técnico;24;2022-03-14;2022-03-17;Concluído;6,7;Híbrido;3;False
+TR-000521;FUNC-0232;Power BI do Zero ao Avançado;Técnico;20;2021-04-19;2021-04-21;Em Andamento;;EAD;2;False
+TR-000522;FUNC-0232;Finanças para Não Financeiros;Técnico;12;2020-01-19;2020-01-20;Concluído;9,5;EAD;1;False
+TR-000523;FUNC-0234;Inglês Corporativo;Idioma;60;2021-10-12;2021-10-19;Não Concluído;;EAD;7;False
+TR-000524;FUNC-0234;Finanças para Não Financeiros;Técnico;12;2019-03-29;2019-03-30;Em Andamento;;EAD;1;False
+TR-000525;FUNC-0234;Segurança do Trabalho NR-35;Obrigatório;4;2022-09-10;2022-09-11;Concluído;7,1;Presencial;1;False
+TR-000526;FUNC-0235;Gestão Ágil de Projetos;Técnico;24;2024-06-18;2024-06-21;Concluído;7,5;Híbrido;3;False
+TR-000527;FUNC-0236;Excel Avançado;Técnico;8;2021-08-09;2021-08-10;Concluído;9,9;EAD;1;False
+TR-000528;FUNC-0236;Inglês Corporativo;Idioma;60;2021-08-07;2021-08-14;Concluído;8,4;EAD;7;False
+TR-000529;FUNC-0237;Vendas Consultivas B2B;Técnico;16;2024-11-28;2024-11-30;Concluído;7,0;Presencial;2;False
+TR-000530;FUNC-0237;Liderança Situacional;Comportamental;16;2024-10-02;2024-10-04;Não Concluído;;Presencial;2;False
+TR-000531;FUNC-0238;Excel Avançado;Técnico;8;2024-10-01;2024-10-02;Concluído;9,7;EAD;1;False
+TR-000532;FUNC-0238;LGPD na Prática;Compliance;4;2024-10-01;2024-10-02;Concluído;8,2;EAD;1;False
+TR-000533;FUNC-0238;LGPD na Prática;Compliance;4;2024-10-01;2024-10-02;Concluído;9,3;EAD;1;False
+TR-000534;FUNC-0239;Finanças para Não Financeiros;Técnico;12;2024-08-04;2024-08-05;Concluído;5,8;EAD;1;False
+TR-000535;FUNC-0242;Power BI do Zero ao Avançado;Técnico;20;2020-08-24;2020-08-26;Concluído;5,7;EAD;2;False
+TR-000536;FUNC-0243;Power BI do Zero ao Avançado;Técnico;20;2024-05-26;2024-05-28;Concluído;8,3;EAD;2;False
+TR-000537;FUNC-0243;Vendas Consultivas B2B;Técnico;16;2024-11-30;2024-12-02;Concluído;8,4;Presencial;2;False
+TR-000538;FUNC-0244;LGPD na Prática;Compliance;4;2024-08-27;2024-08-28;Concluído;9,3;EAD;1;False
+TR-000539;FUNC-0244;Segurança do Trabalho NR-35;Obrigatório;4;2024-09-12;2024-09-13;Concluído;8,0;Presencial;1;False
+TR-000540;FUNC-0245;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-06-07;2023-06-12;Concluído;6,6;Presencial;5;False
+TR-000541;FUNC-0245;Comunicação Não-Violenta;Comportamental;8;2023-12-19;2023-12-20;Concluído;7,1;Presencial;1;False
+TR-000542;FUNC-0245;LGPD na Prática;Compliance;4;2022-11-22;2022-11-23;Concluído;9,3;EAD;1;False
+TR-000543;FUNC-0246;Gestão de Conflitos;Comportamental;8;2024-04-06;2024-04-07;Concluído;5,6;Presencial;1;False
+TR-000544;FUNC-0246;Design Thinking;Técnico;16;2017-04-20;2017-04-22;Concluído;9,7;Híbrido;2;False
+TR-000545;FUNC-0246;LGPD na Prática;Compliance;4;2022-05-04;2022-05-05;Concluído;5,6;EAD;1;False
+TR-000546;FUNC-0246;Inglês Corporativo;Idioma;60;2018-04-11;2018-04-18;Em Andamento;;EAD;7;False
+TR-000547;FUNC-0247;Vendas Consultivas B2B;Técnico;16;2020-06-02;2020-06-04;Concluído;6,1;Presencial;2;False
+TR-000548;FUNC-0248;Vendas Consultivas B2B;Técnico;16;2024-02-17;2024-02-19;Em Andamento;;Presencial;2;False
+TR-000549;FUNC-0248;Excel Avançado;Técnico;8;2023-03-06;2023-03-07;Não Concluído;;EAD;1;False
+TR-000550;FUNC-0248;LGPD na Prática;Compliance;4;2024-04-18;2024-04-19;Concluído;7,0;EAD;1;False
+TR-000551;FUNC-0249;Power BI do Zero ao Avançado;Técnico;20;2024-10-01;2024-10-03;Concluído;8,8;EAD;2;False
+TR-000552;FUNC-0249;Gestão de Conflitos;Comportamental;8;2024-03-21;2024-03-22;Concluído;6,2;Presencial;1;False
+TR-000553;FUNC-0249;Gestão Ágil de Projetos;Técnico;24;2024-08-03;2024-08-06;Concluído;6,9;Híbrido;3;False
+TR-000554;FUNC-0249;Segurança do Trabalho NR-35;Obrigatório;4;2017-11-01;2017-11-02;Concluído;9,3;Presencial;1;False
+TR-000555;FUNC-0249;Liderança Situacional;Comportamental;16;2018-02-25;2018-02-27;Concluído;6,0;Presencial;2;False
+TR-000556;FUNC-0250;Gestão Ágil de Projetos;Técnico;24;2023-11-15;2023-11-18;Concluído;6,8;Híbrido;3;False
+TR-000557;FUNC-0251;Excel Avançado;Técnico;8;2022-07-27;2022-07-28;Concluído;5,8;EAD;1;False
+TR-000558;FUNC-0251;Excel Avançado;Técnico;8;2024-04-04;2024-04-05;Concluído;6,7;EAD;1;False
+TR-000559;FUNC-0251;Finanças para Não Financeiros;Técnico;12;2023-04-21;2023-04-22;Concluído;5,8;EAD;1;False
+TR-000560;FUNC-0251;Onboarding Corporativo;Institucional;8;2022-09-05;2022-09-06;Concluído;6,2;Híbrido;1;False
+TR-000561;FUNC-0252;Power BI do Zero ao Avançado;Técnico;20;2024-05-29;2024-05-31;Concluído;8,9;EAD;2;False
+TR-000562;FUNC-0252;Finanças para Não Financeiros;Técnico;12;2024-03-11;2024-03-12;Concluído;7,3;EAD;1;False
+TR-000563;FUNC-0252;Power BI do Zero ao Avançado;Técnico;20;2024-04-26;2024-04-28;Concluído;7,5;EAD;2;False
+TR-000564;FUNC-0252;Python para Análise de Dados;Técnico;40;2023-10-24;2023-10-29;Não Concluído;;EAD;5;False
+TR-000565;FUNC-0253;Comunicação Não-Violenta;Comportamental;8;2024-07-27;2024-07-28;Concluído;8,0;Presencial;1;False
+TR-000566;FUNC-0254;Finanças para Não Financeiros;Técnico;12;2024-10-06;2024-10-07;Concluído;7,4;EAD;1;False
+TR-000567;FUNC-0254;LGPD na Prática;Compliance;4;2024-05-20;2024-05-21;Concluído;9,6;EAD;1;False
+TR-000568;FUNC-0255;Inglês Corporativo;Idioma;60;2024-10-23;2024-10-30;Não Concluído;;EAD;7;False
+TR-000569;FUNC-0256;Finanças para Não Financeiros;Técnico;12;2023-03-25;2023-03-26;Não Concluído;;EAD;1;False
+TR-000570;FUNC-0256;Comunicação Não-Violenta;Comportamental;8;2022-11-23;2022-11-24;Concluído;6,8;Presencial;1;False
+TR-000571;FUNC-0256;Liderança Situacional;Comportamental;16;2024-05-06;2024-05-08;Em Andamento;;Presencial;2;False
+TR-000572;FUNC-0256;Gestão Ágil de Projetos;Técnico;24;2023-05-11;2023-05-14;Concluído;6,3;Híbrido;3;False
+TR-000573;FUNC-0257;Excel Avançado;Técnico;8;2024-04-02;2024-04-03;Concluído;8,9;EAD;1;False
+TR-000574;FUNC-0257;Gestão Ágil de Projetos;Técnico;24;2024-10-08;2024-10-11;Em Andamento;;Híbrido;3;False
+TR-000575;FUNC-0257;Vendas Consultivas B2B;Técnico;16;2024-06-30;2024-07-02;Concluído;10,0;Presencial;2;False
+TR-000576;FUNC-0257;Finanças para Não Financeiros;Técnico;12;2024-09-18;2024-09-19;Concluído;6,4;EAD;1;False
+TR-000577;FUNC-0258;Gestão Ágil de Projetos;Técnico;24;2020-01-22;2020-01-25;Concluído;7,4;Híbrido;3;False
+TR-000578;FUNC-0260;Design Thinking;Técnico;16;2024-11-29;2024-12-01;Concluído;9,0;Híbrido;2;False
+TR-000579;FUNC-0260;Onboarding Corporativo;Institucional;8;2024-11-12;2024-11-13;Concluído;6,7;Híbrido;1;False
+TR-000580;FUNC-0260;Excel Avançado;Técnico;8;2024-11-05;2024-11-06;Concluído;8,3;EAD;1;False
+TR-000581;FUNC-0260;Power BI do Zero ao Avançado;Técnico;20;2024-11-21;2024-11-23;Concluído;5,5;EAD;2;False
+TR-000582;FUNC-0261;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-11-13;2021-11-18;Concluído;9,1;Presencial;5;False
+TR-000583;FUNC-0261;LGPD na Prática;Compliance;4;2019-10-28;2019-10-29;Concluído;8,5;EAD;1;False
+TR-000584;FUNC-0261;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-10-03;2021-10-08;Concluído;8,0;Presencial;5;False
+TR-000585;FUNC-0263;Gestão de Conflitos;Comportamental;8;2024-06-04;2024-06-05;Concluído;10,0;Presencial;1;False
+TR-000586;FUNC-0263;Gestão Ágil de Projetos;Técnico;24;2024-02-03;2024-02-06;Concluído;9,0;Híbrido;3;False
+TR-000587;FUNC-0265;Python para Análise de Dados;Técnico;40;2024-08-01;2024-08-06;Concluído;6,2;EAD;5;False
+TR-000588;FUNC-0265;Vendas Consultivas B2B;Técnico;16;2022-06-14;2022-06-16;Concluído;6,2;Presencial;2;False
+TR-000589;FUNC-0265;Gestão de Conflitos;Comportamental;8;2021-04-16;2021-04-17;Concluído;9,4;Presencial;1;False
+TR-000590;FUNC-0266;Inglês Corporativo;Idioma;60;2020-04-27;2020-05-04;Concluído;9,9;EAD;7;False
+TR-000591;FUNC-0267;Finanças para Não Financeiros;Técnico;12;2022-07-24;2022-07-25;Concluído;6,9;EAD;1;False
+TR-000592;FUNC-0268;LGPD na Prática;Compliance;4;2023-05-29;2023-05-30;Concluído;7,2;EAD;1;False
+TR-000593;FUNC-0268;Onboarding Corporativo;Institucional;8;2024-09-08;2024-09-09;Concluído;6,7;Híbrido;1;False
+TR-000594;FUNC-0268;LGPD na Prática;Compliance;4;2023-06-10;2023-06-11;Concluído;9,6;EAD;1;False
+TR-000595;FUNC-0269;Segurança do Trabalho NR-35;Obrigatório;4;2021-08-06;2021-08-07;Concluído;7,1;Presencial;1;False
+TR-000596;FUNC-0269;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-07-06;2023-07-11;Não Concluído;;Presencial;5;False
+TR-000597;FUNC-0269;Segurança do Trabalho NR-35;Obrigatório;4;2021-06-10;2021-06-11;Concluído;8,5;Presencial;1;False
+TR-000598;FUNC-0271;Liderança Situacional;Comportamental;16;2024-10-01;2024-10-03;Concluído;7,3;Presencial;2;False
+TR-000599;FUNC-0272;Liderança Situacional;Comportamental;16;2020-10-22;2020-10-24;Concluído;8,0;Presencial;2;False
+TR-000600;FUNC-0274;Excel Avançado;Técnico;8;2020-08-06;2020-08-07;Concluído;5,7;EAD;1;False
+TR-000601;FUNC-0274;Gestão de Conflitos;Comportamental;8;2018-07-31;2018-08-01;Concluído;9,1;Presencial;1;False
+TR-000602;FUNC-0274;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-12-15;2022-12-20;Em Andamento;;Presencial;5;False
+TR-000603;FUNC-0274;Design Thinking;Técnico;16;2023-09-09;2023-09-11;Concluído;7,3;Híbrido;2;False
+TR-000604;FUNC-0275;Gestão de Conflitos;Comportamental;8;2016-12-23;2016-12-24;Concluído;9,0;Presencial;1;False
+TR-000605;FUNC-0277;Segurança do Trabalho NR-35;Obrigatório;4;2024-08-08;2024-08-09;Concluído;9,9;Presencial;1;False
+TR-000606;FUNC-0277;Design Thinking;Técnico;16;2024-11-18;2024-11-20;Concluído;9,1;Híbrido;2;False
+TR-000607;FUNC-0277;Comunicação Não-Violenta;Comportamental;8;2024-10-07;2024-10-08;Não Concluído;;Presencial;1;False
+TR-000608;FUNC-0278;Design Thinking;Técnico;16;2020-08-17;2020-08-19;Concluído;6,9;Híbrido;2;False
+TR-000609;FUNC-0278;Power BI do Zero ao Avançado;Técnico;20;2024-08-12;2024-08-14;Não Concluído;;EAD;2;False
+TR-000610;FUNC-0279;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-03-06;2023-03-11;Em Andamento;;Presencial;5;False
+TR-000611;FUNC-0279;Vendas Consultivas B2B;Técnico;16;2019-09-15;2019-09-17;Concluído;6,7;Presencial;2;False
+TR-000612;FUNC-0279;Finanças para Não Financeiros;Técnico;12;2021-12-11;2021-12-12;Em Andamento;;EAD;1;False
+TR-000613;FUNC-0280;Power BI do Zero ao Avançado;Técnico;20;2024-04-10;2024-04-12;Em Andamento;;EAD;2;False
+TR-000614;FUNC-0280;Power BI do Zero ao Avançado;Técnico;20;2024-04-12;2024-04-14;Concluído;9,4;EAD;2;False
+TR-000615;FUNC-0281;Onboarding Corporativo;Institucional;8;2020-01-21;2020-01-22;Concluído;6,9;Híbrido;1;False
+TR-000616;FUNC-0281;Vendas Consultivas B2B;Técnico;16;2021-06-02;2021-06-04;Concluído;7,0;Presencial;2;False
+TR-000617;FUNC-0281;Segurança do Trabalho NR-35;Obrigatório;4;2017-11-23;2017-11-24;Concluído;7,5;Presencial;1;False
+TR-000618;FUNC-0281;Excel Avançado;Técnico;8;2020-07-28;2020-07-29;Em Andamento;;EAD;1;False
+TR-000619;FUNC-0282;Vendas Consultivas B2B;Técnico;16;2024-02-04;2024-02-06;Concluído;8,7;Presencial;2;False
+TR-000620;FUNC-0282;Comunicação Não-Violenta;Comportamental;8;2023-08-25;2023-08-26;Concluído;8,6;Presencial;1;False
+TR-000621;FUNC-0282;Segurança do Trabalho NR-35;Obrigatório;4;2024-06-10;2024-06-11;Concluído;6,3;Presencial;1;False
+TR-000622;FUNC-0282;Finanças para Não Financeiros;Técnico;12;2024-08-06;2024-08-07;Concluído;9,7;EAD;1;False
+TR-000623;FUNC-0283;Vendas Consultivas B2B;Técnico;16;2024-07-24;2024-07-26;Concluído;6,6;Presencial;2;False
+TR-000624;FUNC-0283;Liderança Situacional;Comportamental;16;2023-11-28;2023-11-30;Concluído;9,3;Presencial;2;False
+TR-000625;FUNC-0284;Programa de Desenvolvimento de Líderes;Comportamental;40;2020-08-27;2020-09-01;Concluído;6,2;Presencial;5;False
+TR-000626;FUNC-0285;LGPD na Prática;Compliance;4;2024-10-31;2024-11-01;Não Concluído;;EAD;1;False
+TR-000627;FUNC-0285;Design Thinking;Técnico;16;2024-11-08;2024-11-10;Concluído;9,2;Híbrido;2;False
+TR-000628;FUNC-0285;Inglês Corporativo;Idioma;60;2024-08-05;2024-08-12;Concluído;7,7;EAD;7;False
+TR-000629;FUNC-0286;Liderança Situacional;Comportamental;16;2016-12-03;2016-12-05;Concluído;9,1;Presencial;2;False
+TR-000630;FUNC-0287;Vendas Consultivas B2B;Técnico;16;2023-08-04;2023-08-06;Concluído;9,4;Presencial;2;False
+TR-000631;FUNC-0287;LGPD na Prática;Compliance;4;2021-11-23;2021-11-24;Em Andamento;;EAD;1;False
+TR-000632;FUNC-0288;Design Thinking;Técnico;16;2024-08-14;2024-08-16;Não Concluído;;Híbrido;2;False
+TR-000633;FUNC-0288;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-01-13;2024-01-18;Não Concluído;;Presencial;5;False
+TR-000634;FUNC-0288;Comunicação Não-Violenta;Comportamental;8;2024-05-29;2024-05-30;Concluído;9,0;Presencial;1;False
+TR-000635;FUNC-0288;Design Thinking;Técnico;16;2024-10-10;2024-10-12;Concluído;6,0;Híbrido;2;False
+TR-000636;FUNC-0289;Power BI do Zero ao Avançado;Técnico;20;2018-12-07;2018-12-09;Concluído;7,4;EAD;2;False
+TR-000637;FUNC-0289;Liderança Situacional;Comportamental;16;2023-03-29;2023-03-31;Em Andamento;;Presencial;2;False
+TR-000638;FUNC-0289;Power BI do Zero ao Avançado;Técnico;20;2018-12-31;2019-01-02;Concluído;10,0;EAD;2;False
+TR-000639;FUNC-0289;Onboarding Corporativo;Institucional;8;2021-12-02;2021-12-03;Não Concluído;;Híbrido;1;False
+TR-000640;FUNC-0289;Finanças para Não Financeiros;Técnico;12;2019-10-25;2019-10-26;Concluído;9,2;EAD;1;False
+TR-000641;FUNC-0290;Power BI do Zero ao Avançado;Técnico;20;2024-05-30;2024-06-01;Concluído;5,6;EAD;2;False
+TR-000642;FUNC-0290;Gestão de Conflitos;Comportamental;8;2024-02-25;2024-02-26;Concluído;6,7;Presencial;1;False
+TR-000643;FUNC-0292;Finanças para Não Financeiros;Técnico;12;2024-02-25;2024-02-26;Concluído;6,2;EAD;1;False
+TR-000644;FUNC-0293;LGPD na Prática;Compliance;4;2016-04-22;2016-04-23;Não Concluído;;EAD;1;False
+TR-000645;FUNC-0293;Vendas Consultivas B2B;Técnico;16;2015-08-14;2015-08-16;Não Concluído;;Presencial;2;False
+TR-000646;FUNC-0293;Onboarding Corporativo;Institucional;8;2019-01-30;2019-01-31;Não Concluído;;Híbrido;1;False
+TR-000647;FUNC-0293;Finanças para Não Financeiros;Técnico;12;2017-02-10;2017-02-11;Concluído;5,9;EAD;1;False
+TR-000648;FUNC-0293;Design Thinking;Técnico;16;2017-09-14;2017-09-16;Concluído;7,9;Híbrido;2;False
+TR-000649;FUNC-0294;Onboarding Corporativo;Institucional;8;2024-01-14;2024-01-15;Concluído;7,3;Híbrido;1;False
+TR-000650;FUNC-0295;Inglês Corporativo;Idioma;60;2024-06-05;2024-06-12;Concluído;7,3;EAD;7;False
+TR-000651;FUNC-0295;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-07-30;2023-08-04;Não Concluído;;Presencial;5;False
+TR-000652;FUNC-0296;Vendas Consultivas B2B;Técnico;16;2023-03-15;2023-03-17;Concluído;8,1;Presencial;2;False
+TR-000653;FUNC-0297;Segurança do Trabalho NR-35;Obrigatório;4;2024-11-26;2024-11-27;Concluído;5,6;Presencial;1;False
+TR-000654;FUNC-0297;LGPD na Prática;Compliance;4;2023-05-13;2023-05-14;Concluído;8,1;EAD;1;False
+TR-000655;FUNC-0297;Comunicação Não-Violenta;Comportamental;8;2023-12-15;2023-12-16;Concluído;6,5;Presencial;1;False
+TR-000656;FUNC-0297;Liderança Situacional;Comportamental;16;2023-08-18;2023-08-20;Concluído;5,6;Presencial;2;False
+TR-000657;FUNC-0298;Inglês Corporativo;Idioma;60;2017-02-16;2017-02-23;Não Concluído;;EAD;7;False
+TR-000658;FUNC-0298;Vendas Consultivas B2B;Técnico;16;2016-11-21;2016-11-23;Concluído;9,4;Presencial;2;False
+TR-000659;FUNC-0299;Finanças para Não Financeiros;Técnico;12;2021-01-29;2021-01-30;Concluído;5,6;EAD;1;False
+TR-000660;FUNC-0299;Power BI do Zero ao Avançado;Técnico;20;2021-10-24;2021-10-26;Concluído;8,6;EAD;2;False
+TR-000661;FUNC-0300;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-02-09;2022-02-14;Não Concluído;;Presencial;5;False
+TR-000662;FUNC-0301;Design Thinking;Técnico;16;2023-05-19;2023-05-21;Concluído;9,3;Híbrido;2;False
+TR-000663;FUNC-0301;Liderança Situacional;Comportamental;16;2024-01-17;2024-01-19;Concluído;9,8;Presencial;2;False
+TR-000664;FUNC-0301;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-10-09;2024-10-14;Não Concluído;;Presencial;5;False
+TR-000665;FUNC-0302;Python para Análise de Dados;Técnico;40;2023-06-13;2023-06-18;Concluído;9,2;EAD;5;False
+TR-000666;FUNC-0302;Onboarding Corporativo;Institucional;8;2021-09-17;2021-09-18;Concluído;9,3;Híbrido;1;False
+TR-000667;FUNC-0302;Design Thinking;Técnico;16;2023-10-27;2023-10-29;Não Concluído;;Híbrido;2;False
+TR-000668;FUNC-0302;Segurança do Trabalho NR-35;Obrigatório;4;2020-10-19;2020-10-20;Não Concluído;;Presencial;1;False
+TR-000669;FUNC-0304;Onboarding Corporativo;Institucional;8;2019-07-24;2019-07-25;Não Concluído;;Híbrido;1;False
+TR-000670;FUNC-0304;Excel Avançado;Técnico;8;2017-08-03;2017-08-04;Não Concluído;;EAD;1;False
+TR-000671;FUNC-0305;Excel Avançado;Técnico;8;2024-06-03;2024-06-04;Concluído;9,3;EAD;1;False
+TR-000672;FUNC-0305;Power BI do Zero ao Avançado;Técnico;20;2023-05-02;2023-05-04;Não Concluído;;EAD;2;False
+TR-000673;FUNC-0306;Vendas Consultivas B2B;Técnico;16;2024-04-14;2024-04-16;Concluído;8,9;Presencial;2;False
+TR-000674;FUNC-0306;Power BI do Zero ao Avançado;Técnico;20;2019-05-31;2019-06-02;Concluído;8,5;EAD;2;False
+TR-000675;FUNC-0306;Vendas Consultivas B2B;Técnico;16;2020-08-01;2020-08-03;Concluído;6,3;Presencial;2;False
+TR-000676;FUNC-0307;Gestão de Conflitos;Comportamental;8;2024-05-19;2024-05-20;Em Andamento;;Presencial;1;False
+TR-000677;FUNC-0309;Python para Análise de Dados;Técnico;40;2024-02-02;2024-02-07;Concluído;5,7;EAD;5;False
+TR-000678;FUNC-0309;Excel Avançado;Técnico;8;2021-03-01;2021-03-02;Concluído;8,5;EAD;1;False
+TR-000679;FUNC-0309;Design Thinking;Técnico;16;2023-12-03;2023-12-05;Concluído;9,8;Híbrido;2;False
+TR-000680;FUNC-0309;Gestão Ágil de Projetos;Técnico;24;2024-03-05;2024-03-08;Não Concluído;;Híbrido;3;False
+TR-000681;FUNC-0309;Segurança do Trabalho NR-35;Obrigatório;4;2023-05-01;2023-05-02;Em Andamento;;Presencial;1;False
+TR-000682;FUNC-0311;Python para Análise de Dados;Técnico;40;2024-09-09;2024-09-14;Concluído;9,5;EAD;5;False
+TR-000683;FUNC-0311;Finanças para Não Financeiros;Técnico;12;2024-08-14;2024-08-15;Em Andamento;;EAD;1;False
+TR-000684;FUNC-0311;Inglês Corporativo;Idioma;60;2024-09-13;2024-09-20;Não Concluído;;EAD;7;False
+TR-000685;FUNC-0311;Finanças para Não Financeiros;Técnico;12;2024-10-30;2024-10-31;Não Concluído;;EAD;1;False
+TR-000686;FUNC-0313;Gestão de Conflitos;Comportamental;8;2023-01-25;2023-01-26;Concluído;5,9;Presencial;1;False
+TR-000687;FUNC-0313;Gestão Ágil de Projetos;Técnico;24;2022-09-29;2022-10-02;Concluído;6,4;Híbrido;3;False
+TR-000688;FUNC-0313;Finanças para Não Financeiros;Técnico;12;2023-03-13;2023-03-14;Concluído;8,2;EAD;1;False
+TR-000689;FUNC-0313;Gestão Ágil de Projetos;Técnico;24;2022-03-08;2022-03-11;Concluído;8,0;Híbrido;3;False
+TR-000690;FUNC-0313;Comunicação Não-Violenta;Comportamental;8;2022-07-03;2022-07-04;Concluído;9,0;Presencial;1;False
+TR-000691;FUNC-0314;Inglês Corporativo;Idioma;60;2017-06-29;2017-07-06;Concluído;7,7;EAD;7;False
+TR-000692;FUNC-0314;Liderança Situacional;Comportamental;16;2017-05-27;2017-05-29;Concluído;8,8;Presencial;2;False
+TR-000693;FUNC-0314;Onboarding Corporativo;Institucional;8;2016-11-10;2016-11-11;Concluído;7,9;Híbrido;1;False
+TR-000694;FUNC-0315;Liderança Situacional;Comportamental;16;2020-09-19;2020-09-21;Em Andamento;;Presencial;2;False
+TR-000695;FUNC-0315;Gestão de Conflitos;Comportamental;8;2019-04-22;2019-04-23;Não Concluído;;Presencial;1;False
+TR-000696;FUNC-0316;Vendas Consultivas B2B;Técnico;16;2020-12-27;2020-12-29;Em Andamento;;Presencial;2;False
+TR-000697;FUNC-0316;Excel Avançado;Técnico;8;2022-09-28;2022-09-29;Não Concluído;;EAD;1;False
+TR-000698;FUNC-0316;LGPD na Prática;Compliance;4;2022-05-06;2022-05-07;Em Andamento;;EAD;1;False
+TR-000699;FUNC-0316;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-11-22;2023-11-27;Concluído;9,1;Presencial;5;False
+TR-000700;FUNC-0317;Python para Análise de Dados;Técnico;40;2018-07-18;2018-07-23;Concluído;6,8;EAD;5;False
+TR-000701;FUNC-0317;Python para Análise de Dados;Técnico;40;2018-05-26;2018-05-31;Concluído;9,6;EAD;5;False
+TR-000702;FUNC-0318;Python para Análise de Dados;Técnico;40;2024-07-25;2024-07-30;Concluído;7,2;EAD;5;False
+TR-000703;FUNC-0318;Vendas Consultivas B2B;Técnico;16;2023-08-08;2023-08-10;Em Andamento;;Presencial;2;False
+TR-000704;FUNC-0319;Finanças para Não Financeiros;Técnico;12;2022-12-01;2022-12-02;Não Concluído;;EAD;1;False
+TR-000705;FUNC-0319;Gestão de Conflitos;Comportamental;8;2023-09-27;2023-09-28;Não Concluído;;Presencial;1;False
+TR-000706;FUNC-0319;Inglês Corporativo;Idioma;60;2023-04-19;2023-04-26;Concluído;6,7;EAD;7;False
+TR-000707;FUNC-0320;Inglês Corporativo;Idioma;60;2024-05-25;2024-06-01;Concluído;6,2;EAD;7;False
+TR-000708;FUNC-0320;Inglês Corporativo;Idioma;60;2024-11-19;2024-11-26;Não Concluído;;EAD;7;False
+TR-000709;FUNC-0322;Onboarding Corporativo;Institucional;8;2024-08-12;2024-08-13;Concluído;6,3;Híbrido;1;False
+TR-000710;FUNC-0322;Gestão Ágil de Projetos;Técnico;24;2024-05-15;2024-05-18;Não Concluído;;Híbrido;3;False
+TR-000711;FUNC-0322;Excel Avançado;Técnico;8;2022-09-03;2022-09-04;Concluído;9,5;EAD;1;False
+TR-000712;FUNC-0323;Excel Avançado;Técnico;8;2024-03-07;2024-03-08;Não Concluído;;EAD;1;False
+TR-000713;FUNC-0323;Gestão Ágil de Projetos;Técnico;24;2024-01-27;2024-01-30;Concluído;8,9;Híbrido;3;False
+TR-000714;FUNC-0324;Finanças para Não Financeiros;Técnico;12;2024-05-31;2024-06-01;Em Andamento;;EAD;1;False
+TR-000715;FUNC-0324;Segurança do Trabalho NR-35;Obrigatório;4;2024-07-30;2024-07-31;Concluído;6,2;Presencial;1;False
+TR-000716;FUNC-0325;Comunicação Não-Violenta;Comportamental;8;2020-11-20;2020-11-21;Concluído;5,7;Presencial;1;False
+TR-000717;FUNC-0326;Onboarding Corporativo;Institucional;8;2024-01-16;2024-01-17;Concluído;7,7;Híbrido;1;False
+TR-000718;FUNC-0326;Design Thinking;Técnico;16;2023-11-13;2023-11-15;Concluído;6,7;Híbrido;2;False
+TR-000719;FUNC-0326;Gestão Ágil de Projetos;Técnico;24;2024-04-09;2024-04-12;Concluído;10,0;Híbrido;3;False
+TR-000720;FUNC-0326;Segurança do Trabalho NR-35;Obrigatório;4;2024-11-15;2024-11-16;Concluído;6,0;Presencial;1;False
+TR-000721;FUNC-0326;Liderança Situacional;Comportamental;16;2024-04-09;2024-04-11;Não Concluído;;Presencial;2;False
+TR-000722;FUNC-0327;Excel Avançado;Técnico;8;2024-05-09;2024-05-10;Não Concluído;;EAD;1;False
+TR-000723;FUNC-0328;Segurança do Trabalho NR-35;Obrigatório;4;2022-09-05;2022-09-06;Concluído;7,8;Presencial;1;False
+TR-000724;FUNC-0328;Vendas Consultivas B2B;Técnico;16;2016-04-30;2016-05-02;Concluído;8,5;Presencial;2;False
+TR-000725;FUNC-0328;Design Thinking;Técnico;16;2021-09-01;2021-09-03;Concluído;7,3;Híbrido;2;False
+TR-000726;FUNC-0328;Vendas Consultivas B2B;Técnico;16;2023-06-08;2023-06-10;Não Concluído;;Presencial;2;False
+TR-000727;FUNC-0328;Power BI do Zero ao Avançado;Técnico;20;2022-01-09;2022-01-11;Em Andamento;;EAD;2;False
+TR-000728;FUNC-0329;Power BI do Zero ao Avançado;Técnico;20;2018-02-28;2018-03-02;Concluído;5,8;EAD;2;False
+TR-000729;FUNC-0330;Excel Avançado;Técnico;8;2024-07-22;2024-07-23;Concluído;7,3;EAD;1;False
+TR-000730;FUNC-0331;Gestão de Conflitos;Comportamental;8;2024-11-12;2024-11-13;Concluído;9,2;Presencial;1;False
+TR-000731;FUNC-0331;Liderança Situacional;Comportamental;16;2024-10-28;2024-10-30;Concluído;9,2;Presencial;2;False
+TR-000732;FUNC-0331;Inglês Corporativo;Idioma;60;2024-11-03;2024-11-10;Concluído;9,0;EAD;7;False
+TR-000733;FUNC-0333;Comunicação Não-Violenta;Comportamental;8;2021-08-05;2021-08-06;Concluído;5,9;Presencial;1;False
+TR-000734;FUNC-0333;Design Thinking;Técnico;16;2024-11-19;2024-11-21;Concluído;8,2;Híbrido;2;False
+TR-000735;FUNC-0333;Liderança Situacional;Comportamental;16;2023-10-03;2023-10-05;Concluído;8,0;Presencial;2;False
+TR-000736;FUNC-0333;Gestão Ágil de Projetos;Técnico;24;2023-02-24;2023-02-27;Não Concluído;;Híbrido;3;False
+TR-000737;FUNC-0335;Segurança do Trabalho NR-35;Obrigatório;4;2023-12-06;2023-12-07;Concluído;7,3;Presencial;1;False
+TR-000738;FUNC-0335;Inglês Corporativo;Idioma;60;2024-01-23;2024-01-30;Concluído;7,0;EAD;7;False
+TR-000739;FUNC-0337;Python para Análise de Dados;Técnico;40;2024-10-01;2024-10-06;Não Concluído;;EAD;5;False
+TR-000740;FUNC-0338;Vendas Consultivas B2B;Técnico;16;2021-10-19;2021-10-21;Concluído;7,8;Presencial;2;False
+TR-000741;FUNC-0338;Segurança do Trabalho NR-35;Obrigatório;4;2021-06-14;2021-06-15;Concluído;6,1;Presencial;1;False
+TR-000742;FUNC-0338;Segurança do Trabalho NR-35;Obrigatório;4;2023-03-16;2023-03-17;Concluído;9,7;Presencial;1;False
+TR-000743;FUNC-0339;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-02-01;2024-02-06;Concluído;6,4;Presencial;5;False
+TR-000744;FUNC-0339;Inglês Corporativo;Idioma;60;2024-01-12;2024-01-19;Concluído;9,9;EAD;7;False
+TR-000745;FUNC-0340;Onboarding Corporativo;Institucional;8;2024-07-06;2024-07-07;Concluído;9,4;Híbrido;1;False
+TR-000746;FUNC-0340;Comunicação Não-Violenta;Comportamental;8;2019-01-15;2019-01-16;Concluído;7,6;Presencial;1;False
+TR-000747;FUNC-0340;Vendas Consultivas B2B;Técnico;16;2024-11-08;2024-11-10;Não Concluído;;Presencial;2;False
+TR-000748;FUNC-0340;Segurança do Trabalho NR-35;Obrigatório;4;2019-07-24;2019-07-25;Concluído;7,3;Presencial;1;False
+TR-000749;FUNC-0341;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-05-02;2021-05-07;Concluído;6,0;Presencial;5;False
+TR-000750;FUNC-0341;Gestão Ágil de Projetos;Técnico;24;2020-10-05;2020-10-08;Concluído;8,0;Híbrido;3;False
+TR-000751;FUNC-0342;Segurança do Trabalho NR-35;Obrigatório;4;2022-11-11;2022-11-12;Não Concluído;;Presencial;1;False
+TR-000752;FUNC-0342;Finanças para Não Financeiros;Técnico;12;2024-06-13;2024-06-14;Concluído;6,9;EAD;1;False
+TR-000753;FUNC-0342;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-01-29;2024-02-03;Concluído;9,2;Presencial;5;False
+TR-000754;FUNC-0343;Gestão de Conflitos;Comportamental;8;2022-08-29;2022-08-30;Concluído;6,4;Presencial;1;False
+TR-000755;FUNC-0343;Python para Análise de Dados;Técnico;40;2023-03-26;2023-03-31;Em Andamento;;EAD;5;False
+TR-000756;FUNC-0344;Segurança do Trabalho NR-35;Obrigatório;4;2024-09-24;2024-09-25;Concluído;9,7;Presencial;1;False
+TR-000757;FUNC-0344;Excel Avançado;Técnico;8;2020-09-01;2020-09-02;Concluído;9,6;EAD;1;False
+TR-000758;FUNC-0344;Inglês Corporativo;Idioma;60;2023-09-21;2023-09-28;Concluído;6,9;EAD;7;False
+TR-000759;FUNC-0345;LGPD na Prática;Compliance;4;2024-09-08;2024-09-09;Não Concluído;;EAD;1;False
+TR-000760;FUNC-0345;Vendas Consultivas B2B;Técnico;16;2023-05-21;2023-05-23;Concluído;6,5;Presencial;2;False
+TR-000761;FUNC-0345;Python para Análise de Dados;Técnico;40;2023-09-24;2023-09-29;Concluído;9,2;EAD;5;False
+TR-000762;FUNC-0345;Vendas Consultivas B2B;Técnico;16;2023-12-23;2023-12-25;Concluído;9,2;Presencial;2;False
+TR-000763;FUNC-0347;Programa de Desenvolvimento de Líderes;Comportamental;40;2018-10-22;2018-10-27;Concluído;7,1;Presencial;5;False
+TR-000764;FUNC-0347;Comunicação Não-Violenta;Comportamental;8;2021-09-17;2021-09-18;Concluído;7,8;Presencial;1;False
+TR-000765;FUNC-0347;Gestão Ágil de Projetos;Técnico;24;2019-09-17;2019-09-20;Concluído;9,7;Híbrido;3;False
+TR-000766;FUNC-0347;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-02-15;2024-02-20;Em Andamento;;Presencial;5;False
+TR-000767;FUNC-0350;LGPD na Prática;Compliance;4;2024-07-07;2024-07-08;Concluído;5,8;EAD;1;False
+TR-000768;FUNC-0351;Gestão Ágil de Projetos;Técnico;24;2022-01-23;2022-01-26;Concluído;7,6;Híbrido;3;False
+TR-000769;FUNC-0351;Inglês Corporativo;Idioma;60;2020-09-27;2020-10-04;Concluído;6,9;EAD;7;False
+TR-000770;FUNC-0351;Segurança do Trabalho NR-35;Obrigatório;4;2022-12-30;2022-12-31;Em Andamento;;Presencial;1;False
+TR-000771;FUNC-0352;Gestão de Conflitos;Comportamental;8;2021-09-07;2021-09-08;Não Concluído;;Presencial;1;False
+TR-000772;FUNC-0352;Power BI do Zero ao Avançado;Técnico;20;2020-09-09;2020-09-11;Em Andamento;;EAD;2;False
+TR-000773;FUNC-0352;Onboarding Corporativo;Institucional;8;2021-08-16;2021-08-17;Concluído;6,9;Híbrido;1;False
+TR-000774;FUNC-0352;Python para Análise de Dados;Técnico;40;2020-05-14;2020-05-19;Concluído;8,6;EAD;5;False
+TR-000775;FUNC-0353;Vendas Consultivas B2B;Técnico;16;2024-10-04;2024-10-06;Concluído;8,1;Presencial;2;False
+TR-000776;FUNC-0353;Design Thinking;Técnico;16;2024-01-19;2024-01-21;Não Concluído;;Híbrido;2;False
+TR-000777;FUNC-0353;Gestão Ágil de Projetos;Técnico;24;2024-05-22;2024-05-25;Não Concluído;;Híbrido;3;False
+TR-000778;FUNC-0353;Vendas Consultivas B2B;Técnico;16;2024-01-11;2024-01-13;Em Andamento;;Presencial;2;False
+TR-000779;FUNC-0353;Finanças para Não Financeiros;Técnico;12;2024-09-14;2024-09-15;Concluído;6,5;EAD;1;False
+TR-000780;FUNC-0354;Inglês Corporativo;Idioma;60;2024-07-19;2024-07-26;Concluído;9,0;EAD;7;False
+TR-000781;FUNC-0354;Python para Análise de Dados;Técnico;40;2024-08-11;2024-08-16;Concluído;8,1;EAD;5;False
+TR-000782;FUNC-0354;Liderança Situacional;Comportamental;16;2023-10-01;2023-10-03;Concluído;8,2;Presencial;2;False
+TR-000783;FUNC-0354;Excel Avançado;Técnico;8;2023-08-21;2023-08-22;Em Andamento;;EAD;1;False
+TR-000784;FUNC-0354;Comunicação Não-Violenta;Comportamental;8;2023-07-16;2023-07-17;Concluído;5,8;Presencial;1;False
+TR-000785;FUNC-0355;Liderança Situacional;Comportamental;16;2023-06-17;2023-06-19;Concluído;9,3;Presencial;2;False
+TR-000786;FUNC-0356;Gestão Ágil de Projetos;Técnico;24;2020-06-20;2020-06-23;Concluído;9,4;Híbrido;3;False
+TR-000787;FUNC-0357;Segurança do Trabalho NR-35;Obrigatório;4;2022-03-05;2022-03-06;Concluído;6,7;Presencial;1;False
+TR-000788;FUNC-0357;Design Thinking;Técnico;16;2019-12-25;2019-12-27;Concluído;9,2;Híbrido;2;False
+TR-000789;FUNC-0358;LGPD na Prática;Compliance;4;2020-02-16;2020-02-17;Concluído;5,6;EAD;1;False
+TR-000790;FUNC-0358;Gestão Ágil de Projetos;Técnico;24;2023-10-12;2023-10-15;Concluído;6,2;Híbrido;3;False
+TR-000791;FUNC-0359;Design Thinking;Técnico;16;2024-04-21;2024-04-23;Em Andamento;;Híbrido;2;False
+TR-000792;FUNC-0359;Excel Avançado;Técnico;8;2023-01-20;2023-01-21;Concluído;6,1;EAD;1;False
+TR-000793;FUNC-0359;Onboarding Corporativo;Institucional;8;2023-02-10;2023-02-11;Concluído;8,6;Híbrido;1;False
+TR-000794;FUNC-0360;Power BI do Zero ao Avançado;Técnico;20;2019-09-03;2019-09-05;Concluído;5,5;EAD;2;False
+TR-000795;FUNC-0360;Excel Avançado;Técnico;8;2023-07-15;2023-07-16;Concluído;9,3;EAD;1;False
+TR-000796;FUNC-0361;Power BI do Zero ao Avançado;Técnico;20;2024-02-26;2024-02-28;Concluído;9,7;EAD;2;False
+TR-000797;FUNC-0361;Liderança Situacional;Comportamental;16;2020-05-13;2020-05-15;Em Andamento;;Presencial;2;False
+TR-000798;FUNC-0361;Inglês Corporativo;Idioma;60;2020-04-15;2020-04-22;Concluído;8,3;EAD;7;False
+TR-000799;FUNC-0361;Excel Avançado;Técnico;8;2020-05-13;2020-05-14;Concluído;7,0;EAD;1;False
+TR-000800;FUNC-0361;Liderança Situacional;Comportamental;16;2022-05-25;2022-05-27;Não Concluído;;Presencial;2;False
+TR-000801;FUNC-0363;Python para Análise de Dados;Técnico;40;2024-09-18;2024-09-23;Concluído;9,4;EAD;5;False
+TR-000802;FUNC-0366;Comunicação Não-Violenta;Comportamental;8;2024-09-09;2024-09-10;Em Andamento;;Presencial;1;False
+TR-000803;FUNC-0366;Gestão Ágil de Projetos;Técnico;24;2024-10-19;2024-10-22;Concluído;6,8;Híbrido;3;False
+TR-000804;FUNC-0366;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-23;2024-10-24;Concluído;7,0;Presencial;1;False
+TR-000805;FUNC-0367;Gestão Ágil de Projetos;Técnico;24;2020-08-04;2020-08-07;Concluído;9,7;Híbrido;3;False
+TR-000806;FUNC-0368;LGPD na Prática;Compliance;4;2021-11-23;2021-11-24;Concluído;9,2;EAD;1;False
+TR-000807;FUNC-0368;Onboarding Corporativo;Institucional;8;2024-10-24;2024-10-25;Em Andamento;;Híbrido;1;False
+TR-000808;FUNC-0368;Onboarding Corporativo;Institucional;8;2024-01-13;2024-01-14;Não Concluído;;Híbrido;1;False
+TR-000809;FUNC-0369;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-08-20;2021-08-25;Concluído;8,7;Presencial;5;False
+TR-000810;FUNC-0369;Segurança do Trabalho NR-35;Obrigatório;4;2024-01-17;2024-01-18;Concluído;8,0;Presencial;1;False
+TR-000811;FUNC-0369;LGPD na Prática;Compliance;4;2017-07-23;2017-07-24;Não Concluído;;EAD;1;False
+TR-000812;FUNC-0369;Python para Análise de Dados;Técnico;40;2017-11-02;2017-11-07;Concluído;6,5;EAD;5;False
+TR-000813;FUNC-0369;Liderança Situacional;Comportamental;16;2018-11-22;2018-11-24;Concluído;7,2;Presencial;2;False
+TR-000814;FUNC-0370;Comunicação Não-Violenta;Comportamental;8;2023-05-30;2023-05-31;Concluído;7,7;Presencial;1;False
+TR-000815;FUNC-0372;Onboarding Corporativo;Institucional;8;2017-12-28;2017-12-29;Não Concluído;;Híbrido;1;False
+TR-000816;FUNC-0372;Vendas Consultivas B2B;Técnico;16;2019-12-21;2019-12-23;Não Concluído;;Presencial;2;False
+TR-000817;FUNC-0373;Design Thinking;Técnico;16;2024-08-17;2024-08-19;Concluído;7,1;Híbrido;2;False
+TR-000818;FUNC-0374;Power BI do Zero ao Avançado;Técnico;20;2021-07-07;2021-07-09;Não Concluído;;EAD;2;False
+TR-000819;FUNC-0374;Inglês Corporativo;Idioma;60;2024-01-18;2024-01-25;Em Andamento;;EAD;7;False
+TR-000820;FUNC-0374;Python para Análise de Dados;Técnico;40;2021-01-20;2021-01-25;Concluído;7,5;EAD;5;False
+TR-000821;FUNC-0375;Comunicação Não-Violenta;Comportamental;8;2021-06-15;2021-06-16;Concluído;8,5;Presencial;1;False
+TR-000822;FUNC-0375;Python para Análise de Dados;Técnico;40;2022-06-22;2022-06-27;Concluído;5,9;EAD;5;False
+TR-000823;FUNC-0375;Gestão Ágil de Projetos;Técnico;24;2019-09-25;2019-09-28;Não Concluído;;Híbrido;3;False
+TR-000824;FUNC-0376;Inglês Corporativo;Idioma;60;2024-09-22;2024-09-29;Concluído;5,8;EAD;7;False
+TR-000825;FUNC-0376;Inglês Corporativo;Idioma;60;2024-11-20;2024-11-27;Concluído;6,6;EAD;7;False
+TR-000826;FUNC-0377;Power BI do Zero ao Avançado;Técnico;20;2024-06-22;2024-06-24;Concluído;6,9;EAD;2;False
+TR-000827;FUNC-0377;Python para Análise de Dados;Técnico;40;2023-12-05;2023-12-10;Concluído;9,0;EAD;5;False
+TR-000828;FUNC-0377;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-09-12;2024-09-17;Concluído;6,0;Presencial;5;False
+TR-000829;FUNC-0377;Inglês Corporativo;Idioma;60;2024-06-13;2024-06-20;Não Concluído;;EAD;7;False
+TR-000830;FUNC-0377;Python para Análise de Dados;Técnico;40;2024-04-18;2024-04-23;Concluído;8,7;EAD;5;False
+TR-000831;FUNC-0378;Excel Avançado;Técnico;8;2024-05-27;2024-05-28;Concluído;9,5;EAD;1;False
+TR-000832;FUNC-0378;Design Thinking;Técnico;16;2022-01-21;2022-01-23;Em Andamento;;Híbrido;2;False
+TR-000833;FUNC-0379;Finanças para Não Financeiros;Técnico;12;2020-05-30;2020-05-31;Não Concluído;;EAD;1;False
+TR-000834;FUNC-0380;Inglês Corporativo;Idioma;60;2023-04-14;2023-04-21;Concluído;6,1;EAD;7;False
+TR-000835;FUNC-0380;Segurança do Trabalho NR-35;Obrigatório;4;2024-03-26;2024-03-27;Não Concluído;;Presencial;1;False
+TR-000836;FUNC-0380;LGPD na Prática;Compliance;4;2021-04-20;2021-04-21;Não Concluído;;EAD;1;False
+TR-000837;FUNC-0381;Gestão Ágil de Projetos;Técnico;24;2024-11-02;2024-11-05;Concluído;9,0;Híbrido;3;False
+TR-000838;FUNC-0381;Gestão Ágil de Projetos;Técnico;24;2024-10-05;2024-10-08;Concluído;6,8;Híbrido;3;False
+TR-000839;FUNC-0382;Liderança Situacional;Comportamental;16;2023-01-15;2023-01-17;Concluído;9,7;Presencial;2;False
+TR-000840;FUNC-0382;Finanças para Não Financeiros;Técnico;12;2023-08-24;2023-08-25;Concluído;6,3;EAD;1;False
+TR-000841;FUNC-0382;Liderança Situacional;Comportamental;16;2024-03-20;2024-03-22;Concluído;6,1;Presencial;2;False
+TR-000842;FUNC-0384;Segurança do Trabalho NR-35;Obrigatório;4;2023-05-10;2023-05-11;Concluído;9,4;Presencial;1;False
+TR-000843;FUNC-0384;Vendas Consultivas B2B;Técnico;16;2022-01-10;2022-01-12;Concluído;8,9;Presencial;2;False
+TR-000844;FUNC-0384;Vendas Consultivas B2B;Técnico;16;2022-01-14;2022-01-16;Não Concluído;;Presencial;2;False
+TR-000845;FUNC-0385;Segurança do Trabalho NR-35;Obrigatório;4;2019-09-22;2019-09-23;Concluído;8,9;Presencial;1;False
+TR-000846;FUNC-0385;Liderança Situacional;Comportamental;16;2020-03-25;2020-03-27;Em Andamento;;Presencial;2;False
+TR-000847;FUNC-0387;Python para Análise de Dados;Técnico;40;2024-06-12;2024-06-17;Concluído;7,4;EAD;5;False
+TR-000848;FUNC-0387;Gestão Ágil de Projetos;Técnico;24;2022-02-16;2022-02-19;Concluído;10,0;Híbrido;3;False
+TR-000849;FUNC-0387;Power BI do Zero ao Avançado;Técnico;20;2021-01-13;2021-01-15;Concluído;8,6;EAD;2;False
+TR-000850;FUNC-0388;Onboarding Corporativo;Institucional;8;2024-05-25;2024-05-26;Concluído;9,9;Híbrido;1;False
+TR-000851;FUNC-0388;Inglês Corporativo;Idioma;60;2024-11-29;2024-12-06;Não Concluído;;EAD;7;False
+TR-000852;FUNC-0388;Liderança Situacional;Comportamental;16;2024-09-15;2024-09-17;Concluído;8,1;Presencial;2;False
+TR-000853;FUNC-0388;Finanças para Não Financeiros;Técnico;12;2024-06-16;2024-06-17;Concluído;9,1;EAD;1;False
+TR-000854;FUNC-0388;Onboarding Corporativo;Institucional;8;2024-11-22;2024-11-23;Concluído;6,9;Híbrido;1;False
+TR-000855;FUNC-0389;Design Thinking;Técnico;16;2023-01-29;2023-01-31;Não Concluído;;Híbrido;2;False
+TR-000856;FUNC-0390;Gestão de Conflitos;Comportamental;8;2023-09-07;2023-09-08;Concluído;7,6;Presencial;1;False
+TR-000857;FUNC-0390;Gestão Ágil de Projetos;Técnico;24;2022-12-21;2022-12-24;Concluído;8,3;Híbrido;3;False
+TR-000858;FUNC-0390;Gestão Ágil de Projetos;Técnico;24;2021-12-11;2021-12-14;Concluído;5,9;Híbrido;3;False
+TR-000859;FUNC-0390;Power BI do Zero ao Avançado;Técnico;20;2020-11-13;2020-11-15;Não Concluído;;EAD;2;False
+TR-000860;FUNC-0391;Comunicação Não-Violenta;Comportamental;8;2024-02-20;2024-02-21;Concluído;8,9;Presencial;1;False
+TR-000861;FUNC-0391;LGPD na Prática;Compliance;4;2024-06-29;2024-06-30;Concluído;9,5;EAD;1;False
+TR-000862;FUNC-0392;Vendas Consultivas B2B;Técnico;16;2024-01-02;2024-01-04;Não Concluído;;Presencial;2;False
+TR-000863;FUNC-0392;Onboarding Corporativo;Institucional;8;2022-02-27;2022-02-28;Concluído;7,4;Híbrido;1;False
+TR-000864;FUNC-0392;Gestão Ágil de Projetos;Técnico;24;2024-10-15;2024-10-18;Em Andamento;;Híbrido;3;False
+TR-000865;FUNC-0393;Finanças para Não Financeiros;Técnico;12;2024-10-24;2024-10-25;Não Concluído;;EAD;1;False
+TR-000866;FUNC-0393;Inglês Corporativo;Idioma;60;2024-08-10;2024-08-17;Em Andamento;;EAD;7;False
+TR-000867;FUNC-0393;Inglês Corporativo;Idioma;60;2024-10-08;2024-10-15;Não Concluído;;EAD;7;False
+TR-000868;FUNC-0394;Python para Análise de Dados;Técnico;40;2022-11-21;2022-11-26;Em Andamento;;EAD;5;False
+TR-000869;FUNC-0394;Power BI do Zero ao Avançado;Técnico;20;2023-02-02;2023-02-04;Concluído;8,8;EAD;2;False
+TR-000870;FUNC-0395;Gestão Ágil de Projetos;Técnico;24;2022-04-26;2022-04-29;Concluído;6,0;Híbrido;3;False
+TR-000871;FUNC-0395;Python para Análise de Dados;Técnico;40;2022-01-08;2022-01-13;Concluído;10,0;EAD;5;False
+TR-000872;FUNC-0396;LGPD na Prática;Compliance;4;2024-11-03;2024-11-04;Concluído;8,3;EAD;1;False
+TR-000873;FUNC-0396;Python para Análise de Dados;Técnico;40;2024-07-12;2024-07-17;Concluído;7,2;EAD;5;False
+TR-000874;FUNC-0396;LGPD na Prática;Compliance;4;2024-08-25;2024-08-26;Concluído;8,6;EAD;1;False
+TR-000875;FUNC-0398;Segurança do Trabalho NR-35;Obrigatório;4;2024-05-14;2024-05-15;Concluído;7,9;Presencial;1;False
+TR-000876;FUNC-0399;Comunicação Não-Violenta;Comportamental;8;2023-12-10;2023-12-11;Concluído;6,5;Presencial;1;False
+TR-000877;FUNC-0400;Liderança Situacional;Comportamental;16;2024-10-05;2024-10-07;Concluído;5,7;Presencial;2;False
+TR-000878;FUNC-0400;Liderança Situacional;Comportamental;16;2024-09-18;2024-09-20;Concluído;9,6;Presencial;2;False
+TR-000879;FUNC-0402;Design Thinking;Técnico;16;2017-07-19;2017-07-21;Concluído;5,9;Híbrido;2;False
+TR-000880;FUNC-0402;Comunicação Não-Violenta;Comportamental;8;2023-02-23;2023-02-24;Em Andamento;;Presencial;1;False
+TR-000881;FUNC-0402;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-10-10;2023-10-15;Em Andamento;;Presencial;5;False
+TR-000882;FUNC-0403;Vendas Consultivas B2B;Técnico;16;2024-10-01;2024-10-03;Concluído;8,0;Presencial;2;False
+TR-000883;FUNC-0404;Python para Análise de Dados;Técnico;40;2020-01-09;2020-01-14;Concluído;5,9;EAD;5;False
+TR-000884;FUNC-0404;Power BI do Zero ao Avançado;Técnico;20;2021-02-13;2021-02-15;Concluído;7,8;EAD;2;False
+TR-000885;FUNC-0404;Excel Avançado;Técnico;8;2021-01-05;2021-01-06;Não Concluído;;EAD;1;False
+TR-000886;FUNC-0404;Excel Avançado;Técnico;8;2021-02-04;2021-02-05;Não Concluído;;EAD;1;False
+TR-000887;FUNC-0405;Segurança do Trabalho NR-35;Obrigatório;4;2024-04-05;2024-04-06;Não Concluído;;Presencial;1;False
+TR-000888;FUNC-0407;Python para Análise de Dados;Técnico;40;2023-02-20;2023-02-25;Não Concluído;;EAD;5;False
+TR-000889;FUNC-0407;Finanças para Não Financeiros;Técnico;12;2019-08-24;2019-08-25;Concluído;9,1;EAD;1;False
+TR-000890;FUNC-0408;Python para Análise de Dados;Técnico;40;2020-08-22;2020-08-27;Não Concluído;;EAD;5;False
+TR-000891;FUNC-0410;Design Thinking;Técnico;16;2023-08-14;2023-08-16;Concluído;8,8;Híbrido;2;False
+TR-000892;FUNC-0410;Finanças para Não Financeiros;Técnico;12;2022-04-24;2022-04-25;Não Concluído;;EAD;1;False
+TR-000893;FUNC-0411;Gestão de Conflitos;Comportamental;8;2024-10-15;2024-10-16;Não Concluído;;Presencial;1;False
+TR-000894;FUNC-0411;Vendas Consultivas B2B;Técnico;16;2024-09-17;2024-09-19;Não Concluído;;Presencial;2;False
+TR-000895;FUNC-0412;Python para Análise de Dados;Técnico;40;2019-06-04;2019-06-09;Concluído;9,9;EAD;5;False
+TR-000896;FUNC-0413;Finanças para Não Financeiros;Técnico;12;2024-09-04;2024-09-05;Em Andamento;;EAD;1;False
+TR-000897;FUNC-0413;Finanças para Não Financeiros;Técnico;12;2024-09-02;2024-09-03;Concluído;6,7;EAD;1;False
+TR-000898;FUNC-0414;Segurança do Trabalho NR-35;Obrigatório;4;2023-12-23;2023-12-24;Não Concluído;;Presencial;1;False
+TR-000899;FUNC-0414;Inglês Corporativo;Idioma;60;2024-11-07;2024-11-14;Concluído;8,0;EAD;7;False
+TR-000900;FUNC-0415;LGPD na Prática;Compliance;4;2022-12-24;2022-12-25;Em Andamento;;EAD;1;False
+TR-000901;FUNC-0415;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-03-25;2021-03-30;Concluído;5,8;Presencial;5;False
+TR-000902;FUNC-0416;Python para Análise de Dados;Técnico;40;2024-03-09;2024-03-14;Concluído;8,3;EAD;5;False
+TR-000903;FUNC-0416;Liderança Situacional;Comportamental;16;2024-08-11;2024-08-13;Não Concluído;;Presencial;2;False
+TR-000904;FUNC-0417;Finanças para Não Financeiros;Técnico;12;2023-08-30;2023-08-31;Não Concluído;;EAD;1;False
+TR-000905;FUNC-0417;Segurança do Trabalho NR-35;Obrigatório;4;2021-03-11;2021-03-12;Concluído;9,7;Presencial;1;False
+TR-000906;FUNC-0417;Onboarding Corporativo;Institucional;8;2023-10-28;2023-10-29;Concluído;7,5;Híbrido;1;False
+TR-000907;FUNC-0418;Power BI do Zero ao Avançado;Técnico;20;2020-05-22;2020-05-24;Concluído;9,6;EAD;2;False
+TR-000908;FUNC-0418;Finanças para Não Financeiros;Técnico;12;2024-09-03;2024-09-04;Concluído;7,9;EAD;1;False
+TR-000909;FUNC-0418;Gestão de Conflitos;Comportamental;8;2021-05-25;2021-05-26;Concluído;9,7;Presencial;1;False
+TR-000910;FUNC-0418;Design Thinking;Técnico;16;2022-07-19;2022-07-21;Concluído;7,1;Híbrido;2;False
+TR-000911;FUNC-0422;Finanças para Não Financeiros;Técnico;12;2024-06-15;2024-06-16;Concluído;5,9;EAD;1;False
+TR-000912;FUNC-0422;Vendas Consultivas B2B;Técnico;16;2024-07-02;2024-07-04;Concluído;9,7;Presencial;2;False
+TR-000913;FUNC-0422;Comunicação Não-Violenta;Comportamental;8;2024-04-29;2024-04-30;Não Concluído;;Presencial;1;False
+TR-000914;FUNC-0422;Onboarding Corporativo;Institucional;8;2024-08-08;2024-08-09;Concluído;9,4;Híbrido;1;False
+TR-000915;FUNC-0423;Power BI do Zero ao Avançado;Técnico;20;2024-11-04;2024-11-06;Concluído;7,0;EAD;2;False
+TR-000916;FUNC-0424;Excel Avançado;Técnico;8;2024-05-22;2024-05-23;Concluído;7,2;EAD;1;False
+TR-000917;FUNC-0424;Liderança Situacional;Comportamental;16;2023-06-30;2023-07-02;Concluído;8,4;Presencial;2;False
+TR-000918;FUNC-0424;Comunicação Não-Violenta;Comportamental;8;2024-06-14;2024-06-15;Não Concluído;;Presencial;1;False
+TR-000919;FUNC-0424;Power BI do Zero ao Avançado;Técnico;20;2024-01-06;2024-01-08;Concluído;7,1;EAD;2;False
+TR-000920;FUNC-0424;Python para Análise de Dados;Técnico;40;2022-11-13;2022-11-18;Concluído;7,5;EAD;5;False
+TR-000921;FUNC-0425;Onboarding Corporativo;Institucional;8;2024-09-01;2024-09-02;Concluído;9,7;Híbrido;1;False
+TR-000922;FUNC-0425;Gestão Ágil de Projetos;Técnico;24;2024-05-16;2024-05-19;Concluído;7,7;Híbrido;3;False
+TR-000923;FUNC-0426;Comunicação Não-Violenta;Comportamental;8;2020-12-21;2020-12-22;Concluído;8,4;Presencial;1;False
+TR-000924;FUNC-0426;LGPD na Prática;Compliance;4;2023-07-19;2023-07-20;Concluído;6,3;EAD;1;False
+TR-000925;FUNC-0426;Inglês Corporativo;Idioma;60;2024-03-07;2024-03-14;Não Concluído;;EAD;7;False
+TR-000926;FUNC-0427;Excel Avançado;Técnico;8;2021-05-17;2021-05-18;Concluído;9,6;EAD;1;False
+TR-000927;FUNC-0427;Segurança do Trabalho NR-35;Obrigatório;4;2023-06-09;2023-06-10;Concluído;10,0;Presencial;1;False
+TR-000928;FUNC-0427;Onboarding Corporativo;Institucional;8;2023-05-07;2023-05-08;Concluído;6,5;Híbrido;1;False
+TR-000929;FUNC-0429;Gestão Ágil de Projetos;Técnico;24;2023-05-31;2023-06-03;Concluído;8,7;Híbrido;3;False
+TR-000930;FUNC-0429;LGPD na Prática;Compliance;4;2020-03-07;2020-03-08;Concluído;7,7;EAD;1;False
+TR-000931;FUNC-0429;Segurança do Trabalho NR-35;Obrigatório;4;2019-07-02;2019-07-03;Concluído;6,4;Presencial;1;False
+TR-000932;FUNC-0433;Comunicação Não-Violenta;Comportamental;8;2023-04-20;2023-04-21;Em Andamento;;Presencial;1;False
+TR-000933;FUNC-0433;Power BI do Zero ao Avançado;Técnico;20;2021-09-12;2021-09-14;Concluído;8,5;EAD;2;False
+TR-000934;FUNC-0433;LGPD na Prática;Compliance;4;2020-01-29;2020-01-30;Concluído;7,9;EAD;1;False
+TR-000935;FUNC-0433;Design Thinking;Técnico;16;2023-03-15;2023-03-17;Concluído;5,9;Híbrido;2;False
+TR-000936;FUNC-0434;Comunicação Não-Violenta;Comportamental;8;2024-09-02;2024-09-03;Concluído;6,3;Presencial;1;False
+TR-000937;FUNC-0434;Design Thinking;Técnico;16;2023-12-07;2023-12-09;Em Andamento;;Híbrido;2;False
+TR-000938;FUNC-0434;Design Thinking;Técnico;16;2024-07-06;2024-07-08;Concluído;7,6;Híbrido;2;False
+TR-000939;FUNC-0435;Liderança Situacional;Comportamental;16;2024-03-17;2024-03-19;Não Concluído;;Presencial;2;False
+TR-000940;FUNC-0435;Design Thinking;Técnico;16;2024-07-16;2024-07-18;Concluído;9,6;Híbrido;2;False
+TR-000941;FUNC-0435;Gestão de Conflitos;Comportamental;8;2024-07-09;2024-07-10;Em Andamento;;Presencial;1;False
+TR-000942;FUNC-0436;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-26;2024-10-27;Concluído;8,4;Presencial;1;False
+TR-000943;FUNC-0436;Finanças para Não Financeiros;Técnico;12;2022-01-13;2022-01-14;Concluído;6,8;EAD;1;False
+TR-000944;FUNC-0437;Inglês Corporativo;Idioma;60;2024-05-23;2024-05-30;Concluído;8,7;EAD;7;False
+TR-000945;FUNC-0437;Vendas Consultivas B2B;Técnico;16;2024-06-26;2024-06-28;Não Concluído;;Presencial;2;False
+TR-000946;FUNC-0438;Excel Avançado;Técnico;8;2024-11-06;2024-11-07;Em Andamento;;EAD;1;False
+TR-000947;FUNC-0439;Vendas Consultivas B2B;Técnico;16;2023-04-01;2023-04-03;Concluído;5,7;Presencial;2;False
+TR-000948;FUNC-0439;Gestão de Conflitos;Comportamental;8;2024-02-21;2024-02-22;Concluído;8,0;Presencial;1;False
+TR-000949;FUNC-0441;Vendas Consultivas B2B;Técnico;16;2022-06-08;2022-06-10;Concluído;7,5;Presencial;2;False
+TR-000950;FUNC-0442;Liderança Situacional;Comportamental;16;2018-12-26;2018-12-28;Concluído;6,3;Presencial;2;False
+TR-000951;FUNC-0443;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-15;2024-10-16;Concluído;5,6;Presencial;1;False
+TR-000952;FUNC-0443;Liderança Situacional;Comportamental;16;2024-09-06;2024-09-08;Em Andamento;;Presencial;2;False
+TR-000953;FUNC-0443;Comunicação Não-Violenta;Comportamental;8;2024-07-27;2024-07-28;Em Andamento;;Presencial;1;False
+TR-000954;FUNC-0443;Liderança Situacional;Comportamental;16;2024-11-28;2024-11-30;Em Andamento;;Presencial;2;False
+TR-000955;FUNC-0446;Gestão Ágil de Projetos;Técnico;24;2020-07-21;2020-07-24;Concluído;8,4;Híbrido;3;False
+TR-000956;FUNC-0446;Python para Análise de Dados;Técnico;40;2022-04-17;2022-04-22;Concluído;5,9;EAD;5;False
+TR-000957;FUNC-0447;Power BI do Zero ao Avançado;Técnico;20;2023-12-08;2023-12-10;Não Concluído;;EAD;2;False
+TR-000958;FUNC-0447;Power BI do Zero ao Avançado;Técnico;20;2021-06-25;2021-06-27;Não Concluído;;EAD;2;False
+TR-000959;FUNC-0447;Vendas Consultivas B2B;Técnico;16;2020-04-19;2020-04-21;Não Concluído;;Presencial;2;False
+TR-000960;FUNC-0448;Gestão de Conflitos;Comportamental;8;2021-05-27;2021-05-28;Concluído;6,4;Presencial;1;False
+TR-000961;FUNC-0449;Inglês Corporativo;Idioma;60;2024-10-14;2024-10-21;Concluído;8,3;EAD;7;False
+TR-000962;FUNC-0449;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-11-30;2024-12-05;Concluído;8,6;Presencial;5;False
+TR-000963;FUNC-0449;Finanças para Não Financeiros;Técnico;12;2024-11-02;2024-11-03;Concluído;9,1;EAD;1;False
+TR-000964;FUNC-0449;Excel Avançado;Técnico;8;2024-10-19;2024-10-20;Concluído;8,4;EAD;1;False
+TR-000965;FUNC-0450;Comunicação Não-Violenta;Comportamental;8;2023-11-10;2023-11-11;Concluído;9,3;Presencial;1;False
+TR-000966;FUNC-0450;Liderança Situacional;Comportamental;16;2023-03-19;2023-03-21;Concluído;7,2;Presencial;2;False
+TR-000967;FUNC-0450;Vendas Consultivas B2B;Técnico;16;2024-01-09;2024-01-11;Concluído;6,0;Presencial;2;False
+TR-000968;FUNC-0450;LGPD na Prática;Compliance;4;2023-10-01;2023-10-02;Concluído;5,7;EAD;1;False
+TR-000969;FUNC-0450;Liderança Situacional;Comportamental;16;2023-12-05;2023-12-07;Concluído;8,1;Presencial;2;False
+TR-000970;FUNC-0451;Inglês Corporativo;Idioma;60;2022-01-08;2022-01-15;Concluído;9,5;EAD;7;False
+TR-000971;FUNC-0451;Gestão de Conflitos;Comportamental;8;2022-04-12;2022-04-13;Concluído;6,3;Presencial;1;False
+TR-000972;FUNC-0452;Comunicação Não-Violenta;Comportamental;8;2024-12-01;2024-12-02;Não Concluído;;Presencial;1;False
+TR-000973;FUNC-0452;Liderança Situacional;Comportamental;16;2024-11-19;2024-11-21;Concluído;8,2;Presencial;2;False
+TR-000974;FUNC-0452;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-11-21;2024-11-26;Concluído;8,5;Presencial;5;False
+TR-000975;FUNC-0453;Gestão Ágil de Projetos;Técnico;24;2024-07-16;2024-07-19;Concluído;5,9;Híbrido;3;False
+TR-000976;FUNC-0454;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-06-26;2022-07-01;Concluído;7,5;Presencial;5;False
+TR-000977;FUNC-0455;Gestão de Conflitos;Comportamental;8;2024-04-08;2024-04-09;Concluído;8,3;Presencial;1;False
+TR-000978;FUNC-0455;Inglês Corporativo;Idioma;60;2023-12-03;2023-12-10;Concluído;7,6;EAD;7;False
+TR-000979;FUNC-0455;Power BI do Zero ao Avançado;Técnico;20;2024-09-22;2024-09-24;Não Concluído;;EAD;2;False
+TR-000980;FUNC-0455;Excel Avançado;Técnico;8;2024-09-16;2024-09-17;Concluído;6,4;EAD;1;False
+TR-000981;FUNC-0455;Design Thinking;Técnico;16;2024-02-24;2024-02-26;Concluído;8,1;Híbrido;2;False
+TR-000982;FUNC-0457;Gestão de Conflitos;Comportamental;8;2022-08-24;2022-08-25;Concluído;7,2;Presencial;1;False
+TR-000983;FUNC-0458;Python para Análise de Dados;Técnico;40;2024-11-07;2024-11-12;Concluído;8,9;EAD;5;False
+TR-000984;FUNC-0459;Comunicação Não-Violenta;Comportamental;8;2016-07-26;2016-07-27;Não Concluído;;Presencial;1;False
+TR-000985;FUNC-0459;Gestão Ágil de Projetos;Técnico;24;2021-03-20;2021-03-23;Concluído;6,2;Híbrido;3;False
+TR-000986;FUNC-0461;Excel Avançado;Técnico;8;2023-10-19;2023-10-20;Concluído;8,9;EAD;1;False
+TR-000987;FUNC-0462;Inglês Corporativo;Idioma;60;2024-09-10;2024-09-17;Concluído;9,2;EAD;7;False
+TR-000988;FUNC-0462;Power BI do Zero ao Avançado;Técnico;20;2024-09-06;2024-09-08;Não Concluído;;EAD;2;False
+TR-000989;FUNC-0463;Inglês Corporativo;Idioma;60;2024-04-17;2024-04-24;Concluído;6,7;EAD;7;False
+TR-000990;FUNC-0464;Onboarding Corporativo;Institucional;8;2024-01-12;2024-01-13;Concluído;8,3;Híbrido;1;False
+TR-000991;FUNC-0464;Power BI do Zero ao Avançado;Técnico;20;2024-07-27;2024-07-29;Concluído;7,4;EAD;2;False
+TR-000992;FUNC-0464;Excel Avançado;Técnico;8;2023-08-24;2023-08-25;Concluído;7,1;EAD;1;False
+TR-000993;FUNC-0464;Onboarding Corporativo;Institucional;8;2024-03-11;2024-03-12;Concluído;8,9;Híbrido;1;False
+TR-000994;FUNC-0465;Gestão de Conflitos;Comportamental;8;2024-06-15;2024-06-16;Em Andamento;;Presencial;1;False
+TR-000995;FUNC-0465;Gestão Ágil de Projetos;Técnico;24;2023-08-29;2023-09-01;Concluído;5,7;Híbrido;3;False
+TR-000996;FUNC-0465;Gestão Ágil de Projetos;Técnico;24;2024-03-23;2024-03-26;Não Concluído;;Híbrido;3;False
+TR-000997;FUNC-0465;Segurança do Trabalho NR-35;Obrigatório;4;2024-02-10;2024-02-11;Não Concluído;;Presencial;1;False
+TR-000998;FUNC-0466;Liderança Situacional;Comportamental;16;2020-05-28;2020-05-30;Concluído;6,6;Presencial;2;False
+TR-000999;FUNC-0466;Onboarding Corporativo;Institucional;8;2024-03-06;2024-03-07;Concluído;5,9;Híbrido;1;False
+TR-001000;FUNC-0467;Comunicação Não-Violenta;Comportamental;8;2024-10-06;2024-10-07;Não Concluído;;Presencial;1;False
+TR-001001;FUNC-0467;Finanças para Não Financeiros;Técnico;12;2018-11-17;2018-11-18;Concluído;7,5;EAD;1;False
+TR-001002;FUNC-0468;Segurança do Trabalho NR-35;Obrigatório;4;2018-10-01;2018-10-02;Em Andamento;;Presencial;1;False
+TR-001003;FUNC-0470;Vendas Consultivas B2B;Técnico;16;2024-08-31;2024-09-02;Não Concluído;;Presencial;2;False
+TR-001004;FUNC-0470;Vendas Consultivas B2B;Técnico;16;2024-04-15;2024-04-17;Não Concluído;;Presencial;2;False
+TR-001005;FUNC-0470;Excel Avançado;Técnico;8;2024-09-18;2024-09-19;Não Concluído;;EAD;1;False
+TR-001006;FUNC-0470;Gestão de Conflitos;Comportamental;8;2023-12-21;2023-12-22;Concluído;6,2;Presencial;1;False
+TR-001007;FUNC-0471;LGPD na Prática;Compliance;4;2019-12-13;2019-12-14;Concluído;7,3;EAD;1;False
+TR-001008;FUNC-0473;Gestão Ágil de Projetos;Técnico;24;2022-10-07;2022-10-10;Concluído;9,4;Híbrido;3;False
+TR-001009;FUNC-0473;Excel Avançado;Técnico;8;2019-04-26;2019-04-27;Não Concluído;;EAD;1;False
+TR-001010;FUNC-0473;Comunicação Não-Violenta;Comportamental;8;2019-08-15;2019-08-16;Não Concluído;;Presencial;1;False
+TR-001011;FUNC-0474;Segurança do Trabalho NR-35;Obrigatório;4;2023-10-05;2023-10-06;Concluído;5,7;Presencial;1;False
+TR-001012;FUNC-0475;Gestão de Conflitos;Comportamental;8;2020-03-10;2020-03-11;Concluído;6,5;Presencial;1;False
+TR-001013;FUNC-0475;Liderança Situacional;Comportamental;16;2024-01-13;2024-01-15;Concluído;8,0;Presencial;2;False
+TR-001014;FUNC-0475;Excel Avançado;Técnico;8;2021-09-24;2021-09-25;Concluído;9,1;EAD;1;False
+TR-001015;FUNC-0476;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-09-20;2024-09-25;Concluído;8,6;Presencial;5;False
+TR-001016;FUNC-0477;Power BI do Zero ao Avançado;Técnico;20;2024-08-14;2024-08-16;Concluído;6,7;EAD;2;False
+TR-001017;FUNC-0478;Comunicação Não-Violenta;Comportamental;8;2021-04-08;2021-04-09;Não Concluído;;Presencial;1;False
+TR-001018;FUNC-0478;Comunicação Não-Violenta;Comportamental;8;2022-01-06;2022-01-07;Não Concluído;;Presencial;1;False
+TR-001019;FUNC-0478;Inglês Corporativo;Idioma;60;2023-10-01;2023-10-08;Concluído;6,8;EAD;7;False
+TR-001020;FUNC-0480;Gestão de Conflitos;Comportamental;8;2023-05-22;2023-05-23;Não Concluído;;Presencial;1;False
+TR-001021;FUNC-0480;Comunicação Não-Violenta;Comportamental;8;2023-07-08;2023-07-09;Em Andamento;;Presencial;1;False
+TR-001022;FUNC-0480;Gestão de Conflitos;Comportamental;8;2024-07-21;2024-07-22;Concluído;9,2;Presencial;1;False
+TR-001023;FUNC-0485;LGPD na Prática;Compliance;4;2023-09-20;2023-09-21;Concluído;7,0;EAD;1;False
+TR-001024;FUNC-0485;Design Thinking;Técnico;16;2017-04-28;2017-04-30;Concluído;5,9;Híbrido;2;False
+TR-001025;FUNC-0487;Excel Avançado;Técnico;8;2023-06-13;2023-06-14;Concluído;6,1;EAD;1;False
+TR-001026;FUNC-0487;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-08-27;2023-09-01;Concluído;7,9;Presencial;5;False
+TR-001027;FUNC-0487;Gestão Ágil de Projetos;Técnico;24;2022-09-01;2022-09-04;Concluído;9,3;Híbrido;3;False
+TR-001028;FUNC-0488;Vendas Consultivas B2B;Técnico;16;2018-10-16;2018-10-18;Concluído;7,7;Presencial;2;False
+TR-001029;FUNC-0491;Finanças para Não Financeiros;Técnico;12;2024-10-02;2024-10-03;Concluído;5,6;EAD;1;False
+TR-001030;FUNC-0491;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-07-27;2023-08-01;Não Concluído;;Presencial;5;False
+TR-001031;FUNC-0492;Excel Avançado;Técnico;8;2024-02-21;2024-02-22;Não Concluído;;EAD;1;False
+TR-001032;FUNC-0492;Excel Avançado;Técnico;8;2022-03-22;2022-03-23;Concluído;7,6;EAD;1;False
+TR-001033;FUNC-0492;Power BI do Zero ao Avançado;Técnico;20;2023-03-22;2023-03-24;Concluído;6,7;EAD;2;False
+TR-001034;FUNC-0492;Design Thinking;Técnico;16;2023-05-13;2023-05-15;Não Concluído;;Híbrido;2;False
+TR-001035;FUNC-0493;LGPD na Prática;Compliance;4;2022-02-19;2022-02-20;Concluído;9,2;EAD;1;False
+TR-001036;FUNC-0493;Liderança Situacional;Comportamental;16;2024-03-22;2024-03-24;Concluído;8,8;Presencial;2;False
+TR-001037;FUNC-0493;Power BI do Zero ao Avançado;Técnico;20;2022-06-02;2022-06-04;Concluído;7,8;EAD;2;False
+TR-001038;FUNC-0493;Finanças para Não Financeiros;Técnico;12;2022-03-13;2022-03-14;Não Concluído;;EAD;1;False
+TR-001039;FUNC-0494;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-07-22;2022-07-27;Concluído;9,4;Presencial;5;False
+TR-001040;FUNC-0494;Segurança do Trabalho NR-35;Obrigatório;4;2017-09-14;2017-09-15;Concluído;7,6;Presencial;1;False
+TR-001041;FUNC-0495;Python para Análise de Dados;Técnico;40;2024-10-16;2024-10-21;Concluído;8,9;EAD;5;False
+TR-001042;FUNC-0496;Python para Análise de Dados;Técnico;40;2024-06-24;2024-06-29;Concluído;7,6;EAD;5;False
+TR-001043;FUNC-0496;Gestão Ágil de Projetos;Técnico;24;2024-06-24;2024-06-27;Concluído;8,7;Híbrido;3;False
+TR-001044;FUNC-0497;Python para Análise de Dados;Técnico;40;2024-05-13;2024-05-18;Concluído;8,3;EAD;5;False
+TR-001045;FUNC-0497;Power BI do Zero ao Avançado;Técnico;20;2023-06-12;2023-06-14;Concluído;5,9;EAD;2;False
+TR-001046;FUNC-0498;Vendas Consultivas B2B;Técnico;16;2023-07-25;2023-07-27;Concluído;9,8;Presencial;2;False
+TR-001047;FUNC-0498;LGPD na Prática;Compliance;4;2021-11-12;2021-11-13;Concluído;9,1;EAD;1;False
+TR-001048;FUNC-0498;Inglês Corporativo;Idioma;60;2021-10-19;2021-10-26;Concluído;6,0;EAD;7;False
+TR-001049;FUNC-0498;Onboarding Corporativo;Institucional;8;2023-10-21;2023-10-22;Em Andamento;;Híbrido;1;False
+TR-001050;FUNC-0498;Finanças para Não Financeiros;Técnico;12;2023-04-06;2023-04-07;Concluído;9,0;EAD;1;False
+TR-001051;FUNC-0499;Finanças para Não Financeiros;Técnico;12;2024-08-30;2024-08-31;Concluído;9,4;EAD;1;False
+TR-001052;FUNC-0499;Design Thinking;Técnico;16;2024-09-30;2024-10-02;Em Andamento;;Híbrido;2;False
+TR-001053;FUNC-0500;Segurança do Trabalho NR-35;Obrigatório;4;2022-12-27;2022-12-28;Concluído;8,8;Presencial;1;False
+TR-001054;FUNC-0500;Onboarding Corporativo;Institucional;8;2022-01-15;2022-01-16;Em Andamento;;Híbrido;1;False
+TR-001055;FUNC-0500;Finanças para Não Financeiros;Técnico;12;2024-11-23;2024-11-24;Não Concluído;;EAD;1;False
+TR-001056;FUNC-0501;Segurança do Trabalho NR-35;Obrigatório;4;2022-11-26;2022-11-27;Não Concluído;;Presencial;1;False
+TR-001057;FUNC-0501;Gestão Ágil de Projetos;Técnico;24;2022-02-08;2022-02-11;Concluído;9,2;Híbrido;3;False
+TR-001058;FUNC-0501;Comunicação Não-Violenta;Comportamental;8;2023-07-19;2023-07-20;Concluído;8,3;Presencial;1;False
+TR-001059;FUNC-0502;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-01-25;2023-01-30;Concluído;5,6;Presencial;5;False
+TR-001060;FUNC-0502;Vendas Consultivas B2B;Técnico;16;2023-07-20;2023-07-22;Concluído;7,8;Presencial;2;False
+TR-001061;FUNC-0502;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-03-02;2022-03-07;Não Concluído;;Presencial;5;False
+TR-001062;FUNC-0505;Gestão Ágil de Projetos;Técnico;24;2024-08-01;2024-08-04;Não Concluído;;Híbrido;3;False
+TR-001063;FUNC-0506;Python para Análise de Dados;Técnico;40;2024-03-28;2024-04-02;Concluído;6,6;EAD;5;False
+TR-001064;FUNC-0507;Finanças para Não Financeiros;Técnico;12;2022-09-29;2022-09-30;Concluído;9,3;EAD;1;False
+TR-001065;FUNC-0507;Power BI do Zero ao Avançado;Técnico;20;2023-04-19;2023-04-21;Concluído;6,7;EAD;2;False
+TR-001066;FUNC-0507;Finanças para Não Financeiros;Técnico;12;2023-01-11;2023-01-12;Concluído;6,8;EAD;1;False
+TR-001067;FUNC-0507;LGPD na Prática;Compliance;4;2024-05-06;2024-05-07;Concluído;6,5;EAD;1;False
+TR-001068;FUNC-0508;Gestão de Conflitos;Comportamental;8;2023-06-21;2023-06-22;Concluído;7,2;Presencial;1;False
+TR-001069;FUNC-0508;Inglês Corporativo;Idioma;60;2023-06-01;2023-06-08;Concluído;5,8;EAD;7;False
+TR-001070;FUNC-0508;Comunicação Não-Violenta;Comportamental;8;2024-01-26;2024-01-27;Não Concluído;;Presencial;1;False
+TR-001071;FUNC-0508;Power BI do Zero ao Avançado;Técnico;20;2023-12-01;2023-12-03;Não Concluído;;EAD;2;False
+TR-001072;FUNC-0509;Gestão Ágil de Projetos;Técnico;24;2022-08-19;2022-08-22;Concluído;9,0;Híbrido;3;False
+TR-001073;FUNC-0509;Gestão de Conflitos;Comportamental;8;2022-07-30;2022-07-31;Concluído;8,2;Presencial;1;False
+TR-001074;FUNC-0510;Excel Avançado;Técnico;8;2020-08-02;2020-08-03;Concluído;9,6;EAD;1;False
+TR-001075;FUNC-0510;Gestão de Conflitos;Comportamental;8;2020-01-13;2020-01-14;Concluído;10,0;Presencial;1;False
+TR-001076;FUNC-0510;LGPD na Prática;Compliance;4;2024-01-14;2024-01-15;Concluído;8,6;EAD;1;False
+TR-001077;FUNC-0512;Gestão de Conflitos;Comportamental;8;2023-01-14;2023-01-15;Concluído;9,3;Presencial;1;False
+TR-001078;FUNC-0512;Liderança Situacional;Comportamental;16;2024-10-30;2024-11-01;Concluído;7,2;Presencial;2;False
+TR-001079;FUNC-0512;Vendas Consultivas B2B;Técnico;16;2024-09-10;2024-09-12;Concluído;6,8;Presencial;2;False
+TR-001080;FUNC-0512;Gestão de Conflitos;Comportamental;8;2023-06-16;2023-06-17;Concluído;9,5;Presencial;1;False
+TR-001081;FUNC-0513;Comunicação Não-Violenta;Comportamental;8;2024-05-22;2024-05-23;Concluído;5,8;Presencial;1;False
+TR-001082;FUNC-0514;Finanças para Não Financeiros;Técnico;12;2024-04-04;2024-04-05;Em Andamento;;EAD;1;False
+TR-001083;FUNC-0515;Design Thinking;Técnico;16;2024-11-28;2024-11-30;Concluído;5,7;Híbrido;2;False
+TR-001084;FUNC-0516;Gestão Ágil de Projetos;Técnico;24;2020-05-24;2020-05-27;Concluído;8,0;Híbrido;3;False
+TR-001085;FUNC-0516;Gestão Ágil de Projetos;Técnico;24;2024-08-28;2024-08-31;Concluído;7,4;Híbrido;3;False
+TR-001086;FUNC-0516;Segurança do Trabalho NR-35;Obrigatório;4;2022-02-12;2022-02-13;Concluído;7,9;Presencial;1;False
+TR-001087;FUNC-0517;LGPD na Prática;Compliance;4;2017-09-21;2017-09-22;Não Concluído;;EAD;1;False
+TR-001088;FUNC-0518;Gestão Ágil de Projetos;Técnico;24;2023-12-26;2023-12-29;Concluído;6,7;Híbrido;3;False
+TR-001089;FUNC-0518;Finanças para Não Financeiros;Técnico;12;2020-01-06;2020-01-07;Não Concluído;;EAD;1;False
+TR-001090;FUNC-0519;Segurança do Trabalho NR-35;Obrigatório;4;2017-05-19;2017-05-20;Concluído;9,1;Presencial;1;False
+TR-001091;FUNC-0519;Power BI do Zero ao Avançado;Técnico;20;2016-06-26;2016-06-28;Concluído;7,0;EAD;2;False
+TR-001092;FUNC-0520;Gestão Ágil de Projetos;Técnico;24;2024-10-01;2024-10-04;Concluído;7,7;Híbrido;3;False
+TR-001093;FUNC-0520;Vendas Consultivas B2B;Técnico;16;2024-10-01;2024-10-03;Não Concluído;;Presencial;2;False
+TR-001094;FUNC-0521;LGPD na Prática;Compliance;4;2024-11-18;2024-11-19;Concluído;7,6;EAD;1;False
+TR-001095;FUNC-0522;Liderança Situacional;Comportamental;16;2023-02-04;2023-02-06;Concluído;8,7;Presencial;2;False
+TR-001096;FUNC-0522;Excel Avançado;Técnico;8;2023-11-26;2023-11-27;Concluído;6,0;EAD;1;False
+TR-001097;FUNC-0522;Gestão de Conflitos;Comportamental;8;2022-05-18;2022-05-19;Não Concluído;;Presencial;1;False
+TR-001098;FUNC-0522;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-02-24;2024-02-29;Não Concluído;;Presencial;5;False
+TR-001099;FUNC-0522;LGPD na Prática;Compliance;4;2022-03-26;2022-03-27;Concluído;9,7;EAD;1;False
+TR-001100;FUNC-0524;Comunicação Não-Violenta;Comportamental;8;2019-05-10;2019-05-11;Concluído;6,4;Presencial;1;False
+TR-001101;FUNC-0524;Power BI do Zero ao Avançado;Técnico;20;2020-01-19;2020-01-21;Concluído;8,5;EAD;2;False
+TR-001102;FUNC-0525;Liderança Situacional;Comportamental;16;2024-07-06;2024-07-08;Não Concluído;;Presencial;2;False
+TR-001103;FUNC-0525;Excel Avançado;Técnico;8;2024-11-06;2024-11-07;Concluído;6,1;EAD;1;False
+TR-001104;FUNC-0525;Gestão Ágil de Projetos;Técnico;24;2024-03-10;2024-03-13;Concluído;8,1;Híbrido;3;False
+TR-001105;FUNC-0525;Onboarding Corporativo;Institucional;8;2024-01-27;2024-01-28;Concluído;7,1;Híbrido;1;False
+TR-001106;FUNC-0525;Power BI do Zero ao Avançado;Técnico;20;2024-03-23;2024-03-25;Concluído;9,1;EAD;2;False
+TR-001107;FUNC-0526;Gestão Ágil de Projetos;Técnico;24;2019-11-12;2019-11-15;Concluído;8,7;Híbrido;3;False
+TR-001108;FUNC-0527;Onboarding Corporativo;Institucional;8;2023-09-01;2023-09-02;Concluído;8,9;Híbrido;1;False
+TR-001109;FUNC-0527;Inglês Corporativo;Idioma;60;2022-10-29;2022-11-05;Concluído;9,0;EAD;7;False
+TR-001110;FUNC-0529;Excel Avançado;Técnico;8;2024-11-01;2024-11-02;Concluído;7,6;EAD;1;False
+TR-001111;FUNC-0529;Gestão de Conflitos;Comportamental;8;2024-11-13;2024-11-14;Não Concluído;;Presencial;1;False
+TR-001112;FUNC-0529;Finanças para Não Financeiros;Técnico;12;2024-10-14;2024-10-15;Concluído;9,7;EAD;1;False
+TR-001113;FUNC-0530;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-12-25;2023-12-30;Concluído;7,1;Presencial;5;False
+TR-001114;FUNC-0531;Inglês Corporativo;Idioma;60;2024-06-16;2024-06-23;Concluído;9,6;EAD;7;False
+TR-001115;FUNC-0531;Gestão de Conflitos;Comportamental;8;2023-11-18;2023-11-19;Concluído;7,9;Presencial;1;False
+TR-001116;FUNC-0532;Vendas Consultivas B2B;Técnico;16;2023-06-11;2023-06-13;Concluído;8,2;Presencial;2;False
+TR-001117;FUNC-0532;Excel Avançado;Técnico;8;2024-11-21;2024-11-22;Concluído;7,9;EAD;1;False
+TR-001118;FUNC-0532;Comunicação Não-Violenta;Comportamental;8;2024-03-22;2024-03-23;Concluído;9,8;Presencial;1;False
+TR-001119;FUNC-0532;Finanças para Não Financeiros;Técnico;12;2024-04-13;2024-04-14;Concluído;7,1;EAD;1;False
+TR-001120;FUNC-0533;Power BI do Zero ao Avançado;Técnico;20;2024-12-01;2024-12-03;Concluído;8,4;EAD;2;False
+TR-001121;FUNC-0534;Python para Análise de Dados;Técnico;40;2019-11-10;2019-11-15;Não Concluído;;EAD;5;False
+TR-001122;FUNC-0534;Comunicação Não-Violenta;Comportamental;8;2024-05-29;2024-05-30;Concluído;6,5;Presencial;1;False
+TR-001123;FUNC-0534;Gestão Ágil de Projetos;Técnico;24;2022-06-16;2022-06-19;Concluído;7,0;Híbrido;3;False
+TR-001124;FUNC-0534;Onboarding Corporativo;Institucional;8;2022-06-03;2022-06-04;Concluído;8,1;Híbrido;1;False
+TR-001125;FUNC-0535;Python para Análise de Dados;Técnico;40;2024-10-23;2024-10-28;Concluído;6,1;EAD;5;False
+TR-001126;FUNC-0536;Power BI do Zero ao Avançado;Técnico;20;2019-09-17;2019-09-19;Concluído;6,4;EAD;2;False
+TR-001127;FUNC-0539;Gestão de Conflitos;Comportamental;8;2022-11-24;2022-11-25;Concluído;6,5;Presencial;1;False
+TR-001128;FUNC-0539;Python para Análise de Dados;Técnico;40;2020-02-17;2020-02-22;Não Concluído;;EAD;5;False
+TR-001129;FUNC-0540;Power BI do Zero ao Avançado;Técnico;20;2024-08-31;2024-09-02;Concluído;8,8;EAD;2;False
+TR-001130;FUNC-0541;Design Thinking;Técnico;16;2023-09-03;2023-09-05;Concluído;5,6;Híbrido;2;False
+TR-001131;FUNC-0541;Comunicação Não-Violenta;Comportamental;8;2024-11-24;2024-11-25;Concluído;9,6;Presencial;1;False
+TR-001132;FUNC-0541;Comunicação Não-Violenta;Comportamental;8;2024-09-26;2024-09-27;Não Concluído;;Presencial;1;False
+TR-001133;FUNC-0541;Finanças para Não Financeiros;Técnico;12;2023-10-22;2023-10-23;Concluído;6,7;EAD;1;False
+TR-001134;FUNC-0541;Liderança Situacional;Comportamental;16;2024-06-17;2024-06-19;Concluído;6,7;Presencial;2;False
+TR-001135;FUNC-0542;LGPD na Prática;Compliance;4;2023-10-03;2023-10-04;Concluído;8,5;EAD;1;False
+TR-001136;FUNC-0543;Vendas Consultivas B2B;Técnico;16;2024-03-09;2024-03-11;Concluído;6,4;Presencial;2;False
+TR-001137;FUNC-0543;Inglês Corporativo;Idioma;60;2024-03-23;2024-03-30;Concluído;6,5;EAD;7;False
+TR-001138;FUNC-0543;Segurança do Trabalho NR-35;Obrigatório;4;2024-07-19;2024-07-20;Não Concluído;;Presencial;1;False
+TR-001139;FUNC-0543;Vendas Consultivas B2B;Técnico;16;2023-12-16;2023-12-18;Concluído;5,8;Presencial;2;False
+TR-001140;FUNC-0544;Segurança do Trabalho NR-35;Obrigatório;4;2016-10-15;2016-10-16;Não Concluído;;Presencial;1;False
+TR-001141;FUNC-0544;Vendas Consultivas B2B;Técnico;16;2018-07-03;2018-07-05;Não Concluído;;Presencial;2;False
+TR-001142;FUNC-0544;Liderança Situacional;Comportamental;16;2017-04-23;2017-04-25;Concluído;9,4;Presencial;2;False
+TR-001143;FUNC-0544;Inglês Corporativo;Idioma;60;2020-07-14;2020-07-21;Concluído;6,7;EAD;7;False
+TR-001144;FUNC-0545;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-10-13;2024-10-18;Concluído;6,4;Presencial;5;False
+TR-001145;FUNC-0545;Onboarding Corporativo;Institucional;8;2024-09-28;2024-09-29;Não Concluído;;Híbrido;1;False
+TR-001146;FUNC-0545;Power BI do Zero ao Avançado;Técnico;20;2024-11-25;2024-11-27;Em Andamento;;EAD;2;False
+TR-001147;FUNC-0545;LGPD na Prática;Compliance;4;2024-10-05;2024-10-06;Concluído;9,2;EAD;1;False
+TR-001148;FUNC-0546;Power BI do Zero ao Avançado;Técnico;20;2019-09-18;2019-09-20;Concluído;6,3;EAD;2;False
+TR-001149;FUNC-0546;Gestão de Conflitos;Comportamental;8;2024-01-02;2024-01-03;Concluído;5,8;Presencial;1;False
+TR-001150;FUNC-0547;Inglês Corporativo;Idioma;60;2022-04-20;2022-04-27;Não Concluído;;EAD;7;False
+TR-001151;FUNC-0547;Segurança do Trabalho NR-35;Obrigatório;4;2024-11-02;2024-11-03;Concluído;7,7;Presencial;1;False
+TR-001152;FUNC-0547;Finanças para Não Financeiros;Técnico;12;2022-06-10;2022-06-11;Não Concluído;;EAD;1;False
+TR-001153;FUNC-0550;Design Thinking;Técnico;16;2024-08-24;2024-08-26;Concluído;7,4;Híbrido;2;False
+TR-001154;FUNC-0550;Power BI do Zero ao Avançado;Técnico;20;2024-06-29;2024-07-01;Concluído;6,5;EAD;2;False
+TR-001155;FUNC-0550;Onboarding Corporativo;Institucional;8;2024-08-15;2024-08-16;Concluído;7,3;Híbrido;1;False
+TR-001156;FUNC-0551;Vendas Consultivas B2B;Técnico;16;2022-01-21;2022-01-23;Não Concluído;;Presencial;2;False
+TR-001157;FUNC-0551;Segurança do Trabalho NR-35;Obrigatório;4;2022-02-25;2022-02-26;Não Concluído;;Presencial;1;False
+TR-001158;FUNC-0551;Design Thinking;Técnico;16;2023-04-02;2023-04-04;Não Concluído;;Híbrido;2;False
+TR-001159;FUNC-0552;Gestão Ágil de Projetos;Técnico;24;2022-11-14;2022-11-17;Concluído;6,6;Híbrido;3;False
+TR-001160;FUNC-0552;Onboarding Corporativo;Institucional;8;2024-05-03;2024-05-04;Concluído;5,7;Híbrido;1;False
+TR-001161;FUNC-0554;Liderança Situacional;Comportamental;16;2021-11-14;2021-11-16;Concluído;9,5;Presencial;2;False
+TR-001162;FUNC-0554;Gestão de Conflitos;Comportamental;8;2020-01-20;2020-01-21;Não Concluído;;Presencial;1;False
+TR-001163;FUNC-0555;Gestão de Conflitos;Comportamental;8;2020-12-21;2020-12-22;Concluído;9,6;Presencial;1;False
+TR-001164;FUNC-0555;Gestão de Conflitos;Comportamental;8;2018-10-07;2018-10-08;Não Concluído;;Presencial;1;False
+TR-001165;FUNC-0557;Excel Avançado;Técnico;8;2023-11-04;2023-11-05;Em Andamento;;EAD;1;False
+TR-001166;FUNC-0557;Inglês Corporativo;Idioma;60;2023-01-18;2023-01-25;Concluído;9,4;EAD;7;False
+TR-001167;FUNC-0558;Liderança Situacional;Comportamental;16;2020-03-04;2020-03-06;Em Andamento;;Presencial;2;False
+TR-001168;FUNC-0559;Onboarding Corporativo;Institucional;8;2021-01-08;2021-01-09;Concluído;8,9;Híbrido;1;False
+TR-001169;FUNC-0559;Liderança Situacional;Comportamental;16;2020-12-12;2020-12-14;Não Concluído;;Presencial;2;False
+TR-001170;FUNC-0559;Python para Análise de Dados;Técnico;40;2019-04-13;2019-04-18;Concluído;8,1;EAD;5;False
+TR-001171;FUNC-0560;Power BI do Zero ao Avançado;Técnico;20;2024-10-11;2024-10-13;Não Concluído;;EAD;2;False
+TR-001172;FUNC-0562;Inglês Corporativo;Idioma;60;2024-05-07;2024-05-14;Concluído;6,6;EAD;7;False
+TR-001173;FUNC-0562;Power BI do Zero ao Avançado;Técnico;20;2021-03-03;2021-03-05;Não Concluído;;EAD;2;False
+TR-001174;FUNC-0562;Gestão Ágil de Projetos;Técnico;24;2020-03-28;2020-03-31;Concluído;6,9;Híbrido;3;False
+TR-001175;FUNC-0562;Gestão de Conflitos;Comportamental;8;2019-09-03;2019-09-04;Concluído;7,3;Presencial;1;False
+TR-001176;FUNC-0563;Power BI do Zero ao Avançado;Técnico;20;2023-08-25;2023-08-27;Concluído;6,0;EAD;2;False
+TR-001177;FUNC-0563;Finanças para Não Financeiros;Técnico;12;2023-07-02;2023-07-03;Concluído;9,2;EAD;1;False
+TR-001178;FUNC-0563;Design Thinking;Técnico;16;2023-11-02;2023-11-04;Concluído;7,4;Híbrido;2;False
+TR-001179;FUNC-0563;Gestão Ágil de Projetos;Técnico;24;2022-09-06;2022-09-09;Concluído;9,8;Híbrido;3;False
+TR-001180;FUNC-0564;Segurança do Trabalho NR-35;Obrigatório;4;2024-11-26;2024-11-27;Concluído;9,2;Presencial;1;False
+TR-001181;FUNC-0564;LGPD na Prática;Compliance;4;2024-11-28;2024-11-29;Concluído;10,0;EAD;1;False
+TR-001182;FUNC-0564;Excel Avançado;Técnico;8;2024-11-23;2024-11-24;Concluído;6,0;EAD;1;False
+TR-001183;FUNC-0566;Python para Análise de Dados;Técnico;40;2020-03-09;2020-03-14;Em Andamento;;EAD;5;False
+TR-001184;FUNC-0566;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-09-28;2022-10-03;Concluído;7,0;Presencial;5;False
+TR-001185;FUNC-0566;Comunicação Não-Violenta;Comportamental;8;2020-11-03;2020-11-04;Concluído;9,5;Presencial;1;False
+TR-001186;FUNC-0567;Liderança Situacional;Comportamental;16;2023-12-10;2023-12-12;Concluído;9,8;Presencial;2;False
+TR-001187;FUNC-0567;Liderança Situacional;Comportamental;16;2024-04-04;2024-04-06;Concluído;9,4;Presencial;2;False
+TR-001188;FUNC-0568;Liderança Situacional;Comportamental;16;2024-02-04;2024-02-06;Concluído;8,4;Presencial;2;False
+TR-001189;FUNC-0569;Vendas Consultivas B2B;Técnico;16;2021-03-02;2021-03-04;Concluído;9,3;Presencial;2;False
+TR-001190;FUNC-0569;Gestão Ágil de Projetos;Técnico;24;2022-12-08;2022-12-11;Concluído;8,2;Híbrido;3;False
+TR-001191;FUNC-0570;Segurança do Trabalho NR-35;Obrigatório;4;2023-02-24;2023-02-25;Concluído;9,8;Presencial;1;False
+TR-001192;FUNC-0572;Power BI do Zero ao Avançado;Técnico;20;2022-09-20;2022-09-22;Concluído;7,4;EAD;2;False
+TR-001193;FUNC-0572;Gestão Ágil de Projetos;Técnico;24;2018-10-21;2018-10-24;Concluído;7,9;Híbrido;3;False
+TR-001194;FUNC-0573;Excel Avançado;Técnico;8;2024-08-25;2024-08-26;Concluído;7,4;EAD;1;False
+TR-001195;FUNC-0573;Liderança Situacional;Comportamental;16;2024-11-28;2024-11-30;Concluído;5,9;Presencial;2;False
+TR-001196;FUNC-0573;Onboarding Corporativo;Institucional;8;2024-07-13;2024-07-14;Não Concluído;;Híbrido;1;False
+TR-001197;FUNC-0573;Gestão Ágil de Projetos;Técnico;24;2024-09-13;2024-09-16;Concluído;9,8;Híbrido;3;False
+TR-001198;FUNC-0573;Segurança do Trabalho NR-35;Obrigatório;4;2024-04-29;2024-04-30;Concluído;8,4;Presencial;1;False
+TR-001199;FUNC-0574;Vendas Consultivas B2B;Técnico;16;2023-11-22;2023-11-24;Não Concluído;;Presencial;2;False
+TR-001200;FUNC-0574;Excel Avançado;Técnico;8;2024-11-23;2024-11-24;Em Andamento;;EAD;1;False
+TR-001201;FUNC-0574;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-08-22;2024-08-27;Concluído;9,9;Presencial;5;False
+TR-001202;FUNC-0575;Excel Avançado;Técnico;8;2024-05-26;2024-05-27;Em Andamento;;EAD;1;False
+TR-001203;FUNC-0575;Python para Análise de Dados;Técnico;40;2023-08-02;2023-08-07;Concluído;7,3;EAD;5;False
+TR-001204;FUNC-0575;Liderança Situacional;Comportamental;16;2024-08-02;2024-08-04;Concluído;10,0;Presencial;2;False
+TR-001205;FUNC-0576;Power BI do Zero ao Avançado;Técnico;20;2024-12-01;2024-12-03;Concluído;8,7;EAD;2;False
+TR-001206;FUNC-0576;Gestão Ágil de Projetos;Técnico;24;2024-11-11;2024-11-14;Concluído;9,5;Híbrido;3;False
+TR-001207;FUNC-0576;Liderança Situacional;Comportamental;16;2024-11-02;2024-11-04;Não Concluído;;Presencial;2;False
+TR-001208;FUNC-0577;LGPD na Prática;Compliance;4;2022-07-09;2022-07-10;Concluído;7,0;EAD;1;False
+TR-001209;FUNC-0577;Comunicação Não-Violenta;Comportamental;8;2023-06-30;2023-07-01;Não Concluído;;Presencial;1;False
+TR-001210;FUNC-0578;Excel Avançado;Técnico;8;2023-12-05;2023-12-06;Em Andamento;;EAD;1;False
+TR-001211;FUNC-0578;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-09-21;2024-09-26;Concluído;7,8;Presencial;5;False
+TR-001212;FUNC-0579;Onboarding Corporativo;Institucional;8;2024-05-16;2024-05-17;Concluído;6,2;Híbrido;1;False
+TR-001213;FUNC-0579;Gestão Ágil de Projetos;Técnico;24;2024-10-27;2024-10-30;Concluído;7,7;Híbrido;3;False
+TR-001214;FUNC-0579;Gestão Ágil de Projetos;Técnico;24;2024-06-08;2024-06-11;Concluído;9,5;Híbrido;3;False
+TR-001215;FUNC-0579;Vendas Consultivas B2B;Técnico;16;2024-02-05;2024-02-07;Em Andamento;;Presencial;2;False
+TR-001216;FUNC-0579;Design Thinking;Técnico;16;2024-11-02;2024-11-04;Concluído;6,0;Híbrido;2;False
+TR-001217;FUNC-0580;Gestão de Conflitos;Comportamental;8;2024-11-22;2024-11-23;Em Andamento;;Presencial;1;False
+TR-001218;FUNC-0580;Gestão de Conflitos;Comportamental;8;2023-04-11;2023-04-12;Concluído;9,4;Presencial;1;False
+TR-001219;FUNC-0581;Design Thinking;Técnico;16;2019-11-01;2019-11-03;Concluído;6,4;Híbrido;2;False
+TR-001220;FUNC-0582;Gestão Ágil de Projetos;Técnico;24;2024-07-23;2024-07-26;Não Concluído;;Híbrido;3;False
+TR-001221;FUNC-0582;Python para Análise de Dados;Técnico;40;2024-08-23;2024-08-28;Concluído;6,0;EAD;5;False
+TR-001222;FUNC-0582;Finanças para Não Financeiros;Técnico;12;2024-04-15;2024-04-16;Não Concluído;;EAD;1;False
+TR-001223;FUNC-0582;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-06-01;2023-06-06;Concluído;5,6;Presencial;5;False
+TR-001224;FUNC-0583;Comunicação Não-Violenta;Comportamental;8;2024-02-20;2024-02-21;Não Concluído;;Presencial;1;False
+TR-001225;FUNC-0583;Vendas Consultivas B2B;Técnico;16;2022-05-16;2022-05-18;Em Andamento;;Presencial;2;False
+TR-001226;FUNC-0583;Excel Avançado;Técnico;8;2019-04-09;2019-04-10;Concluído;7,3;EAD;1;False
+TR-001227;FUNC-0584;Excel Avançado;Técnico;8;2024-10-01;2024-10-02;Concluído;7,9;EAD;1;False
+TR-001228;FUNC-0585;Excel Avançado;Técnico;8;2021-11-21;2021-11-22;Concluído;8,9;EAD;1;False
+TR-001229;FUNC-0585;Excel Avançado;Técnico;8;2023-02-08;2023-02-09;Concluído;7,2;EAD;1;False
+TR-001230;FUNC-0586;Finanças para Não Financeiros;Técnico;12;2022-10-03;2022-10-04;Concluído;8,8;EAD;1;False
+TR-001231;FUNC-0586;Liderança Situacional;Comportamental;16;2023-10-17;2023-10-19;Concluído;6,1;Presencial;2;False
+TR-001232;FUNC-0588;Vendas Consultivas B2B;Técnico;16;2024-10-01;2024-10-03;Concluído;6,1;Presencial;2;False
+TR-001233;FUNC-0588;LGPD na Prática;Compliance;4;2024-10-01;2024-10-02;Concluído;6,0;EAD;1;False
+TR-001234;FUNC-0589;Gestão de Conflitos;Comportamental;8;2024-07-30;2024-07-31;Concluído;6,8;Presencial;1;False
+TR-001235;FUNC-0589;Liderança Situacional;Comportamental;16;2024-05-27;2024-05-29;Concluído;5,6;Presencial;2;False
+TR-001236;FUNC-0589;Python para Análise de Dados;Técnico;40;2024-06-29;2024-07-04;Em Andamento;;EAD;5;False
+TR-001237;FUNC-0589;Gestão Ágil de Projetos;Técnico;24;2024-10-31;2024-11-03;Não Concluído;;Híbrido;3;False
+TR-001238;FUNC-0590;LGPD na Prática;Compliance;4;2023-01-25;2023-01-26;Não Concluído;;EAD;1;False
+TR-001239;FUNC-0590;Power BI do Zero ao Avançado;Técnico;20;2024-01-30;2024-02-01;Concluído;9,3;EAD;2;False
+TR-001240;FUNC-0590;Design Thinking;Técnico;16;2023-02-04;2023-02-06;Não Concluído;;Híbrido;2;False
+TR-001241;FUNC-0590;Onboarding Corporativo;Institucional;8;2022-05-12;2022-05-13;Concluído;7,1;Híbrido;1;False
+TR-001242;FUNC-0590;Gestão de Conflitos;Comportamental;8;2024-07-29;2024-07-30;Concluído;6,0;Presencial;1;False
+TR-001243;FUNC-0591;Python para Análise de Dados;Técnico;40;2024-11-10;2024-11-15;Concluído;5,6;EAD;5;False
+TR-001244;FUNC-0591;Vendas Consultivas B2B;Técnico;16;2024-11-05;2024-11-07;Não Concluído;;Presencial;2;False
+TR-001245;FUNC-0592;Python para Análise de Dados;Técnico;40;2024-07-11;2024-07-16;Concluído;6,9;EAD;5;False
+TR-001246;FUNC-0593;Python para Análise de Dados;Técnico;40;2022-10-07;2022-10-12;Não Concluído;;EAD;5;False
+TR-001247;FUNC-0594;Liderança Situacional;Comportamental;16;2024-08-26;2024-08-28;Concluído;9,2;Presencial;2;False
+TR-001248;FUNC-0594;Power BI do Zero ao Avançado;Técnico;20;2024-03-17;2024-03-19;Concluído;9,1;EAD;2;False
+TR-001249;FUNC-0594;Inglês Corporativo;Idioma;60;2023-10-22;2023-10-29;Concluído;8,5;EAD;7;False
+TR-001250;FUNC-0595;Python para Análise de Dados;Técnico;40;2024-10-20;2024-10-25;Concluído;7,5;EAD;5;False
+TR-001251;FUNC-0595;Excel Avançado;Técnico;8;2024-10-27;2024-10-28;Concluído;8,1;EAD;1;False
+TR-001252;FUNC-0595;Finanças para Não Financeiros;Técnico;12;2024-11-02;2024-11-03;Concluído;8,1;EAD;1;False
+TR-001253;FUNC-0595;Gestão Ágil de Projetos;Técnico;24;2024-10-26;2024-10-29;Concluído;9,3;Híbrido;3;False
+TR-001254;FUNC-0596;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-05-21;2022-05-26;Concluído;7,0;Presencial;5;False
+TR-001255;FUNC-0596;Power BI do Zero ao Avançado;Técnico;20;2021-05-11;2021-05-13;Não Concluído;;EAD;2;False
+TR-001256;FUNC-0597;Programa de Desenvolvimento de Líderes;Comportamental;40;2015-04-21;2015-04-26;Não Concluído;;Presencial;5;False
+TR-001257;FUNC-0597;LGPD na Prática;Compliance;4;2021-09-10;2021-09-11;Concluído;8,0;EAD;1;False
+TR-001258;FUNC-0598;Gestão Ágil de Projetos;Técnico;24;2023-08-08;2023-08-11;Concluído;8,3;Híbrido;3;False
+TR-001259;FUNC-0598;Segurança do Trabalho NR-35;Obrigatório;4;2024-11-04;2024-11-05;Concluído;8,3;Presencial;1;False
+TR-001260;FUNC-0599;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-10-02;2022-10-07;Concluído;5,6;Presencial;5;False
+TR-001261;FUNC-0599;Power BI do Zero ao Avançado;Técnico;20;2022-05-02;2022-05-04;Concluído;9,7;EAD;2;False
+TR-001262;FUNC-0600;Liderança Situacional;Comportamental;16;2024-11-16;2024-11-18;Não Concluído;;Presencial;2;False
+TR-001263;FUNC-0600;Gestão de Conflitos;Comportamental;8;2024-10-06;2024-10-07;Não Concluído;;Presencial;1;False
+TR-001264;FUNC-0600;Gestão Ágil de Projetos;Técnico;24;2024-10-21;2024-10-24;Concluído;6,0;Híbrido;3;False
+TR-001265;FUNC-0601;Finanças para Não Financeiros;Técnico;12;2022-09-22;2022-09-23;Concluído;8,8;EAD;1;False
+TR-001266;FUNC-0601;Excel Avançado;Técnico;8;2022-04-04;2022-04-05;Concluído;6,0;EAD;1;False
+TR-001267;FUNC-0602;Finanças para Não Financeiros;Técnico;12;2023-01-18;2023-01-19;Concluído;8,1;EAD;1;False
+TR-001268;FUNC-0603;Inglês Corporativo;Idioma;60;2024-11-19;2024-11-26;Concluído;9,4;EAD;7;False
+TR-001269;FUNC-0604;Design Thinking;Técnico;16;2024-11-14;2024-11-16;Concluído;6,8;Híbrido;2;False
+TR-001270;FUNC-0605;Segurança do Trabalho NR-35;Obrigatório;4;2024-04-27;2024-04-28;Concluído;9,0;Presencial;1;False
+TR-001271;FUNC-0605;Gestão Ágil de Projetos;Técnico;24;2024-09-25;2024-09-28;Concluído;8,0;Híbrido;3;False
+TR-001272;FUNC-0605;Excel Avançado;Técnico;8;2023-07-25;2023-07-26;Em Andamento;;EAD;1;False
+TR-001273;FUNC-0605;Python para Análise de Dados;Técnico;40;2024-05-03;2024-05-08;Não Concluído;;EAD;5;False
+TR-001274;FUNC-0606;Gestão Ágil de Projetos;Técnico;24;2024-03-26;2024-03-29;Não Concluído;;Híbrido;3;False
+TR-001275;FUNC-0608;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-08-24;2024-08-29;Concluído;9,0;Presencial;5;False
+TR-001276;FUNC-0609;Segurança do Trabalho NR-35;Obrigatório;4;2024-05-20;2024-05-21;Concluído;8,0;Presencial;1;False
+TR-001277;FUNC-0610;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-12-09;2021-12-14;Concluído;8,6;Presencial;5;False
+TR-001278;FUNC-0610;Python para Análise de Dados;Técnico;40;2022-12-12;2022-12-17;Concluído;7,9;EAD;5;False
+TR-001279;FUNC-0610;Vendas Consultivas B2B;Técnico;16;2024-10-26;2024-10-28;Concluído;9,4;Presencial;2;False
+TR-001280;FUNC-0611;Comunicação Não-Violenta;Comportamental;8;2024-10-03;2024-10-04;Concluído;8,6;Presencial;1;False
+TR-001281;FUNC-0611;Gestão de Conflitos;Comportamental;8;2024-10-01;2024-10-02;Concluído;9,0;Presencial;1;False
+TR-001282;FUNC-0611;Vendas Consultivas B2B;Técnico;16;2024-11-12;2024-11-14;Concluído;7,2;Presencial;2;False
+TR-001283;FUNC-0612;Python para Análise de Dados;Técnico;40;2022-01-23;2022-01-28;Concluído;7,6;EAD;5;False
+TR-001284;FUNC-0612;Liderança Situacional;Comportamental;16;2020-02-28;2020-03-01;Concluído;8,6;Presencial;2;False
+TR-001285;FUNC-0612;LGPD na Prática;Compliance;4;2021-01-24;2021-01-25;Concluído;9,9;EAD;1;False
+TR-001286;FUNC-0613;Programa de Desenvolvimento de Líderes;Comportamental;40;2020-11-25;2020-11-30;Concluído;9,9;Presencial;5;False
+TR-001287;FUNC-0614;Design Thinking;Técnico;16;2022-02-21;2022-02-23;Não Concluído;;Híbrido;2;False
+TR-001288;FUNC-0614;Design Thinking;Técnico;16;2022-02-05;2022-02-07;Concluído;5,7;Híbrido;2;False
+TR-001289;FUNC-0614;Power BI do Zero ao Avançado;Técnico;20;2021-05-01;2021-05-03;Concluído;7,8;EAD;2;False
+TR-001290;FUNC-0614;Segurança do Trabalho NR-35;Obrigatório;4;2024-04-27;2024-04-28;Concluído;8,2;Presencial;1;False
+TR-001291;FUNC-0615;Onboarding Corporativo;Institucional;8;2024-11-05;2024-11-06;Concluído;5,6;Híbrido;1;False
+TR-001292;FUNC-0616;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-01-14;2024-01-19;Concluído;9,1;Presencial;5;False
+TR-001293;FUNC-0616;Python para Análise de Dados;Técnico;40;2022-06-06;2022-06-11;Não Concluído;;EAD;5;False
+TR-001294;FUNC-0616;Design Thinking;Técnico;16;2024-09-19;2024-09-21;Concluído;5,6;Híbrido;2;False
+TR-001295;FUNC-0616;Excel Avançado;Técnico;8;2023-11-14;2023-11-15;Não Concluído;;EAD;1;False
+TR-001296;FUNC-0617;Gestão Ágil de Projetos;Técnico;24;2023-07-20;2023-07-23;Não Concluído;;Híbrido;3;False
+TR-001297;FUNC-0618;Inglês Corporativo;Idioma;60;2021-09-19;2021-09-26;Concluído;5,9;EAD;7;False
+TR-001298;FUNC-0618;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-04-12;2022-04-17;Não Concluído;;Presencial;5;False
+TR-001299;FUNC-0618;Comunicação Não-Violenta;Comportamental;8;2021-12-21;2021-12-22;Concluído;9,7;Presencial;1;False
+TR-001300;FUNC-0618;Inglês Corporativo;Idioma;60;2020-08-17;2020-08-24;Concluído;8,9;EAD;7;False
+TR-001301;FUNC-0619;Gestão Ágil de Projetos;Técnico;24;2024-05-31;2024-06-03;Concluído;7,1;Híbrido;3;False
+TR-001302;FUNC-0619;Power BI do Zero ao Avançado;Técnico;20;2024-04-27;2024-04-29;Concluído;8,8;EAD;2;False
+TR-001303;FUNC-0619;Comunicação Não-Violenta;Comportamental;8;2024-08-28;2024-08-29;Concluído;6,9;Presencial;1;False
+TR-001304;FUNC-0619;Power BI do Zero ao Avançado;Técnico;20;2024-06-11;2024-06-13;Concluído;6,6;EAD;2;False
+TR-001305;FUNC-0620;Gestão Ágil de Projetos;Técnico;24;2020-05-23;2020-05-26;Concluído;8,7;Híbrido;3;False
+TR-001306;FUNC-0620;Python para Análise de Dados;Técnico;40;2020-02-17;2020-02-22;Concluído;8,3;EAD;5;False
+TR-001307;FUNC-0621;Inglês Corporativo;Idioma;60;2019-03-25;2019-04-01;Não Concluído;;EAD;7;False
+TR-001308;FUNC-0621;Gestão Ágil de Projetos;Técnico;24;2015-03-22;2015-03-25;Concluído;8,4;Híbrido;3;False
+TR-001309;FUNC-0621;Design Thinking;Técnico;16;2018-01-23;2018-01-25;Concluído;8,3;Híbrido;2;False
+TR-001310;FUNC-0622;Finanças para Não Financeiros;Técnico;12;2019-04-29;2019-04-30;Concluído;9,0;EAD;1;False
+TR-001311;FUNC-0622;Inglês Corporativo;Idioma;60;2021-06-03;2021-06-10;Não Concluído;;EAD;7;False
+TR-001312;FUNC-0622;Vendas Consultivas B2B;Técnico;16;2024-10-27;2024-10-29;Concluído;9,8;Presencial;2;False
+TR-001313;FUNC-0623;Liderança Situacional;Comportamental;16;2020-08-26;2020-08-28;Concluído;8,9;Presencial;2;False
+TR-001314;FUNC-0623;Power BI do Zero ao Avançado;Técnico;20;2021-02-21;2021-02-23;Concluído;7,2;EAD;2;False
+TR-001315;FUNC-0624;Comunicação Não-Violenta;Comportamental;8;2024-02-20;2024-02-21;Concluído;6,9;Presencial;1;False
+TR-001316;FUNC-0624;Vendas Consultivas B2B;Técnico;16;2022-04-02;2022-04-04;Concluído;8,4;Presencial;2;False
+TR-001317;FUNC-0624;Gestão Ágil de Projetos;Técnico;24;2023-05-03;2023-05-06;Não Concluído;;Híbrido;3;False
+TR-001318;FUNC-0624;Python para Análise de Dados;Técnico;40;2024-11-07;2024-11-12;Concluído;6,0;EAD;5;False
+TR-001319;FUNC-0624;Inglês Corporativo;Idioma;60;2021-07-10;2021-07-17;Concluído;7,9;EAD;7;False
+TR-001320;FUNC-0625;Onboarding Corporativo;Institucional;8;2024-01-07;2024-01-08;Não Concluído;;Híbrido;1;False
+TR-001321;FUNC-0628;Python para Análise de Dados;Técnico;40;2024-07-24;2024-07-29;Não Concluído;;EAD;5;False
+TR-001322;FUNC-0628;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-04-21;2024-04-26;Concluído;8,0;Presencial;5;False
+TR-001323;FUNC-0628;Onboarding Corporativo;Institucional;8;2024-07-05;2024-07-06;Em Andamento;;Híbrido;1;False
+TR-001324;FUNC-0630;Power BI do Zero ao Avançado;Técnico;20;2022-11-12;2022-11-14;Concluído;7,3;EAD;2;False
+TR-001325;FUNC-0630;Programa de Desenvolvimento de Líderes;Comportamental;40;2022-05-03;2022-05-08;Concluído;5,7;Presencial;5;False
+TR-001326;FUNC-0630;Gestão Ágil de Projetos;Técnico;24;2022-06-07;2022-06-10;Não Concluído;;Híbrido;3;False
+TR-001327;FUNC-0630;Onboarding Corporativo;Institucional;8;2022-04-13;2022-04-14;Concluído;9,6;Híbrido;1;False
+TR-001328;FUNC-0631;Segurança do Trabalho NR-35;Obrigatório;4;2022-12-08;2022-12-09;Em Andamento;;Presencial;1;False
+TR-001329;FUNC-0631;Programa de Desenvolvimento de Líderes;Comportamental;40;2023-01-02;2023-01-07;Em Andamento;;Presencial;5;False
+TR-001330;FUNC-0631;Onboarding Corporativo;Institucional;8;2023-08-02;2023-08-03;Concluído;8,4;Híbrido;1;False
+TR-001331;FUNC-0631;Vendas Consultivas B2B;Técnico;16;2022-03-23;2022-03-25;Em Andamento;;Presencial;2;False
+TR-001332;FUNC-0632;Onboarding Corporativo;Institucional;8;2021-09-10;2021-09-11;Concluído;8,7;Híbrido;1;False
+TR-001333;FUNC-0633;Power BI do Zero ao Avançado;Técnico;20;2024-07-07;2024-07-09;Concluído;9,0;EAD;2;False
+TR-001334;FUNC-0635;Programa de Desenvolvimento de Líderes;Comportamental;40;2021-06-28;2021-07-03;Concluído;6,6;Presencial;5;False
+TR-001335;FUNC-0635;Segurança do Trabalho NR-35;Obrigatório;4;2022-06-21;2022-06-22;Em Andamento;;Presencial;1;False
+TR-001336;FUNC-0635;Design Thinking;Técnico;16;2022-05-03;2022-05-05;Concluído;5,8;Híbrido;2;False
+TR-001337;FUNC-0635;Gestão de Conflitos;Comportamental;8;2024-04-29;2024-04-30;Concluído;8,4;Presencial;1;False
+TR-001338;FUNC-0636;LGPD na Prática;Compliance;4;2022-02-20;2022-02-21;Concluído;7,5;EAD;1;False
+TR-001339;FUNC-0638;LGPD na Prática;Compliance;4;2024-08-26;2024-08-27;Em Andamento;;EAD;1;False
+TR-001340;FUNC-0638;Design Thinking;Técnico;16;2020-06-13;2020-06-15;Concluído;7,0;Híbrido;2;False
+TR-001341;FUNC-0639;Python para Análise de Dados;Técnico;40;2024-08-26;2024-08-31;Concluído;9,6;EAD;5;False
+TR-001342;FUNC-0640;Comunicação Não-Violenta;Comportamental;8;2019-03-30;2019-03-31;Em Andamento;;Presencial;1;False
+TR-001343;FUNC-0640;Liderança Situacional;Comportamental;16;2019-08-20;2019-08-22;Em Andamento;;Presencial;2;False
+TR-001344;FUNC-0640;Segurança do Trabalho NR-35;Obrigatório;4;2024-07-01;2024-07-02;Concluído;8,5;Presencial;1;False
+TR-001345;FUNC-0641;Segurança do Trabalho NR-35;Obrigatório;4;2024-10-25;2024-10-26;Concluído;7,9;Presencial;1;False
+TR-001346;FUNC-0641;Segurança do Trabalho NR-35;Obrigatório;4;2024-05-17;2024-05-18;Concluído;6,8;Presencial;1;False
+TR-001347;FUNC-0642;Onboarding Corporativo;Institucional;8;2023-10-21;2023-10-22;Não Concluído;;Híbrido;1;False
+TR-001348;FUNC-0642;Onboarding Corporativo;Institucional;8;2022-06-01;2022-06-02;Concluído;8,3;Híbrido;1;False
+TR-001349;FUNC-0643;Power BI do Zero ao Avançado;Técnico;20;2024-11-29;2024-12-01;Não Concluído;;EAD;2;False
+TR-001350;FUNC-0643;LGPD na Prática;Compliance;4;2021-11-23;2021-11-24;Concluído;6,8;EAD;1;False
+TR-001351;FUNC-0643;Gestão Ágil de Projetos;Técnico;24;2021-10-17;2021-10-20;Concluído;9,5;Híbrido;3;False
+TR-001352;FUNC-0644;Onboarding Corporativo;Institucional;8;2017-10-11;2017-10-12;Concluído;9,7;Híbrido;1;False
+TR-001353;FUNC-0644;Python para Análise de Dados;Técnico;40;2024-07-07;2024-07-12;Concluído;7,8;EAD;5;False
+TR-001354;FUNC-0644;Design Thinking;Técnico;16;2019-01-16;2019-01-18;Concluído;6,2;Híbrido;2;False
+TR-001355;FUNC-0645;Programa de Desenvolvimento de Líderes;Comportamental;40;2024-05-02;2024-05-07;Em Andamento;;Presencial;5;False
+TR-001356;FUNC-0646;Excel Avançado;Técnico;8;2023-08-16;2023-08-17;Concluído;8,8;EAD;1;False
+TR-001357;FUNC-0646;Excel Avançado;Técnico;8;2024-07-10;2024-07-11;Concluído;8,4;EAD;1;False
+TR-001358;FUNC-0646;LGPD na Prática;Compliance;4;2023-12-24;2023-12-25;Concluído;6,1;EAD;1;False
+TR-001359;FUNC-0649;Gestão de Conflitos;Comportamental;8;2021-05-22;2021-05-23;Em Andamento;;Presencial;1;False
+TR-001360;FUNC-0649;Liderança Situacional;Comportamental;16;2021-11-27;2021-11-29;Concluído;9,1;Presencial;2;False
+TR-001361;FUNC-0650;Gestão de Conflitos;Comportamental;8;2024-09-05;2024-09-06;Concluído;7,0;Presencial;1;False
+TR-001362;FUNC-0650;Design Thinking;Técnico;16;2024-09-22;2024-09-24;Concluído;6,6;Híbrido;2;False
+TR-001363;FUNC-0650;Python para Análise de Dados;Técnico;40;2024-09-30;2024-10-05;Concluído;5,7;EAD;5;False
+TR-001364;FUNC-0650;Gestão Ágil de Projetos;Técnico;24;2024-09-08;2024-09-11;Concluído;6,0;Híbrido;3;False
+TR-001365;FUNC-0650;Design Thinking;Técnico;16;2024-04-08;2024-04-10;Não Concluído;;Híbrido;2;False

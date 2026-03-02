@@ -1,0 +1,679 @@
+﻿ID_Funcionario,Departamento,Cargo,Nivel_Hierarquico,Estado,Genero,Etnia,Regime_Trabalho,Turno,Data_Admissao,Data_Desligamento,Motivo_Desligamento,Status,Salario_Bruto,Horas_Treinamento_Ano,Avaliacao_Desempenho,Dias_Falta_Ano,Beneficios
+FUNC-0001,Comercial,Assistente Comercial,Júnior,RS,Masculino,Pardo,CLT 44h,Híbrido,2020-01-17,2020-10-09,Pedido do colaborador,Desligado,3092.71,15,3.4,11,Vale Transporte|Plano Odontológico|Vale Refeição
+FUNC-0002,RH,Analista de RH Pl,Pleno,CE,Masculino,Preto,CLT 44h,Híbrido,2019-02-04,,,Ativo,5070.37,137,3.6,0,Vale Transporte|Plano Odontológico|Seguro de Vida|Vale Refeição
+FUNC-0003,RH,Assistente de RH,Júnior,SP,Masculino,Pardo,CLT 44h,Híbrido,2020-04-19,,,Ativo,2499.67,7,2.9,3,Vale Transporte|Gympass|Home Office
+FUNC-0004,Jurídico,Advogado Pl,Pleno,SP,Não Informado,Branco,CLT 44h,Noturno,2020-09-05,,,Ativo,,41,,0,Vale Transporte|Stock Options|Seguro de Vida|Plano de Saúde
+FUNC-0005,Operações,Técnico de Operações Pl,Pleno,MG,Masculino,Preto,CLT 40h,Presencial,2024-06-22,2024-12-22,Desligamento por justa causa,Desligado,4854.34,17,2.4,0,PLR|Seguro de Vida|Vale Refeição|Plano Odontológico
+FUNC-0006,Comercial,Consultor de Vendas Sr,Sênior,MG,Masculino,Branco,CLT 40h,Home Office,2023-05-28,,,Ativo,8950.94,19,2.3,0,Gympass|Plano de Saúde|PLR|Home Office|Auxílio Creche
+FUNC-0007,Comercial,Analista Comercial Pl,Pleno,RJ,Feminino,Não Informado,CLT 44h,Presencial,2017-02-08,,,Ativo,5433.73,21,4.6,0,Plano de Saúde|PLR|Seguro de Vida|Gympass
+FUNC-0008,RH,Gerente de RH,Gestão,PR,Feminino,Pardo,CLT 44h,Híbrido,2022-01-28,,,Ativo,22801.27,21,4.2,0,PLR|Auxílio Creche|Stock Options|Plano Odontológico|Vale Refeição|Home Office|Gympass
+FUNC-0009,Tecnologia,Desenvolvedor Backend Jr,Júnior,SP,Masculino,Branco,CLT 44h,Presencial,2016-01-05,,,Ativo,5764.29,22,4.0,3,PLR|Plano de Saúde|Gympass
+FUNC-0010,Logística,Analista de Logística Pl,Pleno,RJ,Masculino,Pardo,CLT 40h,Home Office,2024-06-10,2024-09-21,Desligamento por justa causa,Desligado,,18,3.2,2,Plano de Saúde|Stock Options|Vale Refeição|Vale Transporte
+FUNC-0011,Logística,Analista de Logística Pl,Pleno,SP,Feminino,Branco,CLT 40h,Home Office,2021-12-28,2024-08-09,Pedido do colaborador,Desligado,4705.13,5,3.3,1,Stock Options|Seguro de Vida|Plano Odontológico|Gympass
+FUNC-0012,Marketing,Gerente de Marketing,Gestão,SC,Feminino,Preto,PJ,Noturno,2023-03-17,,,Ativo,21483.49,28,4.4,1,Gympass|Home Office|Auxílio Creche|Vale Transporte|Seguro de Vida|Stock Options|Plano de Saúde
+FUNC-0013,Financeiro,Gerente Financeiro,Gestão,CE,Feminino,Branco,CLT 40h,Híbrido,2018-03-07,2023-11-02,Desligamento sem justa causa,Desligado,17173.73,27,5.0,1,Vale Transporte|Auxílio Creche|PLR|Home Office|Seguro de Vida|Stock Options|Plano Odontológico
+FUNC-0014,Jurídico,Advogado Jr,Júnior,RS,Masculino,Não Informado,CLT 40h,Presencial,2023-06-24,,,Ativo,7337.18,9,2.5,1,Plano de Saúde|Vale Refeição|Auxílio Creche
+FUNC-0015,RH,Analista de RH Pl,Pleno,RS,Feminino,Pardo,PJ,Híbrido,2021-12-05,,,Ativo,6516.66,16,3.6,1,Stock Options|Plano de Saúde|PLR|Home Office
+FUNC-0016,Tecnologia,Analista de Dados Sr,Sênior,SP,Masculino,Pardo,CLT 40h,Híbrido,,,,Ativo,12050.87,51,3.9,1,Seguro de Vida|Home Office|PLR|Stock Options|Gympass
+FUNC-0017,Tecnologia,Desenvolvedor Backend Pl,Pleno,MG,Feminino,Preto,CLT 40h,Home Office,2022-09-05,2024-04-01,Proposta externa,Desligado,9002.79,77,3.7,1,Home Office|Vale Transporte|Vale Refeição|Stock Options
+FUNC-0018,Tecnologia,Desenvolvedor Backend Jr,Júnior,SP,Masculino,Branco,CLT 44h,Home Office,2024-01-11,,,Ativo,4647.25,60,3.3,3,Gympass|Home Office|Stock Options
+FUNC-0019,RH,Analista de RH Pl,Pleno,MG,Feminino,Amarelo,CLT 44h,Presencial,2024-11-07,,,Ativo,5076.66,23,3.7,0,Plano Odontológico|PLR|Vale Transporte|Home Office
+FUNC-0020,Operações,Supervisor de Operações,Especialista,GO,Masculino,Pardo,CLT 40h,Noturno,2022-02-05,,,Ativo,9593.47,7,4.2,0,PLR|Home Office|Plano de Saúde|Seguro de Vida|Vale Transporte|Auxílio Creche
+FUNC-0021,Operações,Gerente de Operações,Gestão,RJ,Masculino,Branco,CLT 40h,Híbrido,2016-05-11,,,Ativo,19717.69,41,4.0,5,Stock Options|Vale Transporte|Auxílio Creche|PLR|Home Office|Vale Refeição|Gympass
+FUNC-0022,Comercial,Assistente Comercial,Júnior,BA,Masculino,Branco,CLT 44h,Home Office,2020-11-27,,,Ativo,2261.58,12,3.2,1,Stock Options|Home Office|Seguro de Vida
+FUNC-0023,Tecnologia,Desenvolvedor Backend Jr,Júnior,PR,Masculino,Branco,CLT 44h,Presencial,2024-08-26,,,Ativo,4433.26,55,2.9,0,Vale Refeição|Seguro de Vida|PLR
+FUNC-0024,Logística,Assistente de Logística,Júnior,SP,Feminino,Branco,CLT 44h,Presencial,2016-02-02,2019-10-31,Desligamento sem justa causa,Desligado,2058.08,10,2.9,1,Home Office|Stock Options|Plano de Saúde
+FUNC-0025,Comercial,Coordenador Comercial,Especialista,CE,Masculino,Branco,CLT 44h,Home Office,2021-12-17,,,Ativo,9559.7,9,4.3,1,Home Office|Stock Options|PLR|Gympass|Plano de Saúde|Vale Transporte
+FUNC-0026,Logística,Analista de Logística Pl,Pleno,SC,Feminino,Pardo,CLT 44h,Híbrido,2020-04-02,,,Ativo,5533.67,29,3.4,2,Gympass|PLR|Plano de Saúde|Vale Refeição
+FUNC-0027,Tecnologia,Analista de Dados Pl,Pleno,SC,Feminino,Branco,PJ,Home Office,,2021-07-19,Pedido do colaborador,Desligado,9397.1,17,3.4,6,Plano Odontológico|Vale Refeição|Gympass|Vale Transporte
+FUNC-0028,Comercial,Assistente Comercial,Júnior,RJ,Masculino,Pardo,CLT 44h,Home Office,2018-07-01,2019-10-01,Desligamento por baixa performance,Desligado,2805.96,28,4.7,8,Gympass|Auxílio Creche|Plano Odontológico
+FUNC-0029,Tecnologia,Tech Lead,Especialista,SC,Masculino,Amarelo,PJ,Híbrido,2023-07-25,,,Ativo,19429.72,6,4.3,4,Vale Refeição|Stock Options|PLR|Seguro de Vida|Home Office|Gympass
+FUNC-0030,Tecnologia,Desenvolvedor Frontend Pl,Pleno,MG,Feminino,Preto,CLT 40h,Presencial,2024-07-23,,,Ativo,7161.48,26,3.5,3,Vale Refeição|Auxílio Creche|Plano de Saúde|Seguro de Vida
+FUNC-0031,Comercial,Assistente Comercial,Júnior,SC,Feminino,Pardo,CLT 44h,Híbrido,,2024-02-24,Desligamento sem justa causa,Desligado,2330.46,14,3.2,5,Vale Transporte|Home Office|Gympass
+FUNC-0032,Marketing,Coordenador de Marketing,Especialista,SP,Feminino,Branco,CLT 40h,Presencial,2022-06-28,2024-01-29,Término de contrato,Desligado,14664.52,8,3.3,3,Plano Odontológico|Vale Transporte|Plano de Saúde|Home Office|PLR|Seguro de Vida
+FUNC-0033,Operações,Operador de Produção,Júnior,MG,Masculino,Não Informado,PJ,Home Office,2016-03-16,2022-03-30,Pedido do colaborador,Desligado,2388.75,30,2.2,0,Gympass|Vale Transporte|Home Office
+FUNC-0034,Tecnologia,Desenvolvedor Frontend Jr,Júnior,BA,Feminino,Pardo,CLT 44h,Noturno,2019-03-07,2019-12-06,Pedido do colaborador,Desligado,3557.58,4,3.4,0,Plano de Saúde|Stock Options|Gympass
+FUNC-0035,Jurídico,Advogado Pl,Pleno,SP,Feminino,Pardo,CLT 44h,Home Office,2015-01-16,,,Ativo,14000.0,33,2.7,5,Vale Transporte|Seguro de Vida|Vale Refeição|Plano de Saúde
+FUNC-0036,Marketing,Coordenador de Marketing,Especialista,SP,Feminino,Pardo,PJ,Home Office,2024-04-12,2024-10-18,Término de contrato,Desligado,12210.13,9,4.5,0,PLR|Gympass|Vale Refeição|Plano de Saúde|Home Office|Seguro de Vida
+FUNC-0037,Marketing,Analista de Marketing Pl,Pleno,PE,Masculino,Branco,CLT 40h,Home Office,2021-02-12,,,Ativo,6150.85,8,3.4,0,Stock Options|Auxílio Creche|Plano Odontológico|Seguro de Vida
+FUNC-0038,Tecnologia,Analista de Dados Sr,Sênior,RJ,Feminino,Branco,CLT 40h,Presencial,2024-06-18,,,Ativo,13973.53,25,3.9,0,Gympass|Auxílio Creche|Stock Options|Plano Odontológico|Seguro de Vida
+FUNC-0039,Comercial,Analista Comercial Pl,Pleno,RS,Masculino,Pardo,PJ,Home Office,2016-07-26,,,Ativo,6193.16,22,3.7,11,Plano de Saúde|Stock Options|Plano Odontológico|Vale Transporte
+FUNC-0040,Tecnologia,Desenvolvedor Backend Sr,Sênior,SP,Masculino,Branco,CLT 40h,Híbrido,2022-11-24,,,Ativo,14237.7,14,5.0,6,Plano Odontológico|PLR|Gympass|Plano de Saúde|Vale Refeição
+FUNC-0041,Financeiro,Analista Financeiro Sr,Sênior,RJ,Feminino,Pardo,CLT 40h,Noturno,2023-10-03,,,Ativo,14232.88,15,3.8,5,Vale Refeição|Plano de Saúde|Auxílio Creche|Plano Odontológico|Seguro de Vida
+FUNC-0042,Marketing,Coordenador de Marketing,Especialista,CE,Masculino,Branco,CLT 44h,Presencial,2024-11-17,,,Ativo,11834.74,11,4.6,4,Vale Transporte|Plano Odontológico|Plano de Saúde|Auxílio Creche|Gympass|Vale Refeição
+FUNC-0043,Logística,Coordenador de Logística,Especialista,RS,Feminino,Pardo,CLT 40h,Presencial,,2024-07-05,Término de contrato,Desligado,8310.81,22,3.7,0,PLR|Vale Transporte|Stock Options|Vale Refeição|Plano de Saúde|Gympass
+FUNC-0044,Logística,Assistente de Logística,Júnior,SP,Feminino,Branco,CLT 40h,Híbrido,2021-12-09,,,Ativo,2846.21,13,2.8,0,Home Office|Stock Options|Plano Odontológico
+FUNC-0045,RH,Assistente de RH,Júnior,RJ,Feminino,Branco,PJ,Presencial,2018-11-21,,,Ativo,2508.36,15,3.2,3,Vale Refeição|Seguro de Vida|PLR
+FUNC-0046,Comercial,Analista Comercial Pl,Pleno,SP,Masculino,Preto,CLT 44h,Híbrido,2016-07-07,2018-12-08,Desligamento por baixa performance,Desligado,4262.78,17,4.4,1,Gympass|Vale Transporte|Home Office|Auxílio Creche
+FUNC-0047,Tecnologia,Desenvolvedor Backend Pl,Pleno,RJ,Feminino,Não Informado,CLT 44h,Híbrido,2017-05-07,2024-04-11,Pedido do colaborador,Desligado,9352.4,21,3.7,14,Seguro de Vida|Vale Transporte|Stock Options|Home Office
+FUNC-0048,Comercial,Assistente Comercial,Júnior,PE,Feminino,Branco,CLT 44h,Presencial,2022-05-12,,,Ativo,3019.43,17,3.3,6,Vale Transporte|Gympass|Auxílio Creche
+FUNC-0049,Comercial,Gerente Comercial,Gestão,SP,Feminino,Branco,CLT 40h,Home Office,2020-10-27,,,Ativo,20801.02,23,4.9,0,Home Office|Plano Odontológico|Seguro de Vida|Plano de Saúde|Auxílio Creche|Stock Options|Vale Refeição
+FUNC-0050,Operações,Operador de Produção,Júnior,RS,Masculino,Branco,CLT 44h,Presencial,2021-10-02,2022-05-08,Término de contrato,Desligado,1911.83,11,3.7,0,Auxílio Creche|Vale Refeição|Gympass
+FUNC-0051,Operações,Supervisor de Operações,Especialista,PE,Masculino,Pardo,PJ,Híbrido,2022-10-03,2023-08-28,Pedido do colaborador,Desligado,7861.05,22,3.9,1,PLR|Home Office|Plano de Saúde|Plano Odontológico|Vale Transporte|Vale Refeição
+FUNC-0052,Marketing,Designer Sr,Sênior,SC,Feminino,Pardo,PJ,Home Office,2019-04-12,,,Ativo,7457.49,16,3.1,2,PLR|Plano de Saúde|Plano Odontológico|Home Office|Vale Refeição
+FUNC-0053,Operações,Técnico de Operações Pl,Pleno,MG,Masculino,Branco,CLT 44h,Presencial,2016-01-20,2017-05-18,Desligamento sem justa causa,Desligado,3357.78,25,5.0,4,Home Office|Plano Odontológico|Vale Transporte|PLR
+FUNC-0054,Marketing,Analista de Marketing Pl,Pleno,MG,Masculino,Pardo,CLT 44h,Presencial,2018-03-08,2021-08-01,Término de contrato,Desligado,5465.39,15,3.4,1,PLR|Gympass|Plano Odontológico|Stock Options
+FUNC-0055,RH,Analista de RH Sr,Sênior,SP,Masculino,Branco,CLT 40h,Presencial,2015-11-08,,,Ativo,7053.6,14,3.9,7,Plano Odontológico|Auxílio Creche|Vale Transporte|Plano de Saúde|Gympass
+FUNC-0056,Jurídico,Advogado Jr,Júnior,SP,Feminino,Não Informado,CLT 44h,Presencial,2016-07-20,2017-03-20,Desligamento sem justa causa,Desligado,4940.67,13,3.1,1,Gympass|Vale Refeição|Plano Odontológico
+FUNC-0057,Marketing,Coordenador de Marketing,Especialista,RJ,Masculino,Pardo,CLT 40h,Híbrido,2016-01-16,,,Ativo,11023.93,6,4.3,7,Stock Options|Vale Transporte|Plano de Saúde|Plano Odontológico|Seguro de Vida|Home Office
+FUNC-0058,Financeiro,Analista Financeiro Pl,Pleno,RJ,Feminino,Branco,CLT 44h,Presencial,2022-05-14,2024-10-05,Término de contrato,Desligado,8197.21,9,3.6,2,PLR|Plano Odontológico|Vale Refeição|Stock Options
+FUNC-0059,Jurídico,Advogado Jr,Júnior,SC,Masculino,Amarelo,CLT 40h,Home Office,2021-02-01,2022-02-17,Desligamento sem justa causa,Desligado,4750.82,31,3.4,3,Stock Options|Plano de Saúde|Auxílio Creche
+FUNC-0060,Comercial,Assistente Comercial,Júnior,SP,Masculino,Branco,CLT 44h,Híbrido,2023-10-26,2024-03-28,Desligamento sem justa causa,Desligado,2767.68,43,3.1,0,Seguro de Vida|Vale Refeição|PLR
+FUNC-0061,Tecnologia,Desenvolvedor Frontend Sr,Sênior,PR,Feminino,Pardo,CLT 40h,Home Office,2024-08-20,,,Ativo,19827.28,8,4.0,0,Stock Options|Plano de Saúde|PLR|Auxílio Creche|Vale Refeição
+FUNC-0062,Tecnologia,Tech Lead,Especialista,BA,Masculino,Amarelo,CLT 40h,Híbrido,2024-08-22,,,Ativo,24266.21,30,3.7,0,Stock Options|Gympass|PLR|Plano de Saúde|Auxílio Creche|Vale Transporte
+FUNC-0063,Financeiro,Analista Financeiro Sr,Sênior,RJ,Masculino,Branco,CLT 44h,Híbrido,2022-06-08,,,Ativo,9367.64,12,3.0,2,PLR|Vale Transporte|Stock Options|Home Office|Plano de Saúde
+FUNC-0064,Financeiro,Assistente Financeiro,Júnior,RJ,Feminino,Branco,CLT 40h,Presencial,2022-01-24,,,Ativo,2000.0,7,2.4,0,Stock Options|PLR|Plano de Saúde
+FUNC-0065,Tecnologia,Desenvolvedor Backend Jr,Júnior,RS,Feminino,Branco,CLT 40h,Noturno,2017-11-10,,,Ativo,5197.82,28,3.5,2,Vale Transporte|Seguro de Vida|Gympass
+FUNC-0066,Tecnologia,Analista de Dados Sr,Sênior,SP,Feminino,Branco,PJ,Presencial,2021-11-07,,,Ativo,14568.82,13,3.6,0,Seguro de Vida|Vale Refeição|Plano Odontológico|Vale Transporte|Home Office
+FUNC-0067,Tecnologia,Analista de Dados Sr,Sênior,RS,Feminino,Branco,PJ,Híbrido,2023-01-17,2024-04-19,Reestruturação,Desligado,13599.75,41,3.1,1,Gympass|Stock Options|PLR|Seguro de Vida|Plano de Saúde
+FUNC-0068,Comercial,Diretor Comercial,Diretoria,MG,Masculino,Pardo,CLT 40h,Home Office,2020-02-24,,,Ativo,49510.22,23,4.4,0,Gympass|Seguro de Vida|Vale Refeição|Stock Options|Home Office|Vale Transporte|Auxílio Creche|Plano Odontológico
+FUNC-0069,Operações,Técnico de Operações Pl,Pleno,MG,Feminino,Branco,CLT 44h,Presencial,2018-08-01,2022-10-22,Pedido do colaborador,Desligado,4328.97,39,2.8,6,Plano de Saúde|Plano Odontológico|Seguro de Vida|Gympass
+FUNC-0070,Marketing,Assistente de Marketing,Júnior,SP,Feminino,Pardo,CLT 40h,Home Office,2021-01-05,2024-06-15,Pedido do colaborador,Ativo,2283.69,37,3.1,4,Gympass|Vale Refeição|Stock Options
+FUNC-0071,Operações,Técnico de Operações Pl,Pleno,RJ,Feminino,Pardo,CLT 44h,Presencial,2024-09-08,2024-06-15,Pedido do colaborador,Ativo,3307.47,69,3.7,6,Plano de Saúde|Vale Refeição|Vale Transporte|Stock Options
+FUNC-0072,Operações,Supervisor de Operações,Especialista,SP,Masculino,Pardo,CLT 40h,Presencial,2022-08-14,,,Ativo,8610.92,13,4.0,1,Gympass|Vale Refeição|Home Office|Seguro de Vida|Auxílio Creche|Stock Options
+FUNC-0073,Comercial,Analista Comercial Pl,Pleno,GO,Masculino,Pardo,PJ,Presencial,2017-12-09,2018-08-14,Desligamento por baixa performance,Desligado,5756.13,21,4.6,2,Vale Refeição|Gympass|PLR|Seguro de Vida
+FUNC-0074,Marketing,Analista de Marketing Pl,Pleno,SP,Feminino,Não Informado,CLT 44h,Presencial,2018-11-01,2021-09-23,Aposentadoria,Desligado,5166.58,46,2.6,1,Seguro de Vida|Plano Odontológico|PLR|Plano de Saúde
+FUNC-0075,Operações,Técnico de Operações Pl,Pleno,SC,Feminino,Não Informado,CLT 44h,Híbrido,2024-07-16,,,Ativo,4262.38,32,3.1,6,Auxílio Creche|Gympass|Plano Odontológico|Home Office
+FUNC-0076,Operações,Operador de Produção,Júnior,GO,Masculino,Branco,CLT 40h,Presencial,2016-11-12,,,Ativo,1790.63,40,2.1,0,Plano de Saúde|Vale Refeição|Vale Transporte
+FUNC-0077,Operações,Operador de Produção,Júnior,MG,Masculino,Preto,CLT 44h,Presencial,2024-11-03,,,Ativo,1855.0,16,3.2,1,Plano Odontológico|Vale Transporte|Vale Refeição
+FUNC-0078,Tecnologia,Analista de Dados Pl,Pleno,BA,Feminino,Preto,CLT 44h,Presencial,2022-04-04,2024-09-20,Desligamento sem justa causa,Desligado,6993.11,24,2.6,9,PLR|Gympass|Vale Refeição|Plano de Saúde
+FUNC-0079,Comercial,Analista Comercial Pl,Pleno,PR,Masculino,Branco,CLT 44h,Home Office,2024-07-28,,,Ativo,4574.87,20,3.5,8,Vale Transporte|Seguro de Vida|Home Office|Stock Options
+FUNC-0080,Tecnologia,Desenvolvedor Frontend Pl,Pleno,PR,Feminino,Pardo,CLT 44h,Presencial,2019-06-17,2023-12-23,Desligamento sem justa causa,Desligado,9770.87,12,2.4,2,Vale Transporte|Home Office|Plano de Saúde|Plano Odontológico
+FUNC-0081,RH,Gerente de RH,Gestão,MG,Feminino,Branco,CLT 40h,Híbrido,2024-12-08,,,Ativo,19352.24,17,4.8,0,Stock Options|Vale Transporte|Seguro de Vida|Plano de Saúde|Vale Refeição|Plano Odontológico|Gympass
+FUNC-0082,Jurídico,Advogado Sr,Sênior,RJ,Feminino,Branco,CLT 40h,Híbrido,2019-06-18,,,Ativo,17046.82,11,4.3,0,Plano Odontológico|Home Office|Plano de Saúde|Gympass|PLR
+FUNC-0083,Marketing,Coordenador de Marketing,Especialista,RS,Masculino,Branco,PJ,Presencial,2017-10-22,,,Ativo,12186.39,12,3.7,8,Plano Odontológico|Plano de Saúde|Seguro de Vida|Auxílio Creche|Home Office|Vale Transporte
+FUNC-0084,RH,Analista de RH Pl,Pleno,PR,Feminino,Pardo,CLT 44h,Presencial,2023-12-24,,,Ativo,4856.37,19,4.1,21,Seguro de Vida|Plano Odontológico|Gympass|Auxílio Creche
+FUNC-0085,Logística,Assistente de Logística,Júnior,RS,Masculino,Branco,CLT 44h,Presencial,2017-04-10,,,Ativo,2452.86,14,3.5,2,PLR|Home Office|Vale Refeição
+FUNC-0086,Tecnologia,Analista de Dados Pl,Pleno,RJ,Masculino,Não Informado,CLT 44h,Híbrido,2019-01-09,,,Ativo,5993.03,52,4.3,5,PLR|Auxílio Creche|Plano Odontológico|Seguro de Vida
+FUNC-0087,Operações,Coordenador de Operações,Especialista,BA,Feminino,Preto,CLT 44h,Presencial,2022-08-15,,,Ativo,10166.33,23,3.9,1,PLR|Plano de Saúde|Gympass|Auxílio Creche|Plano Odontológico|Seguro de Vida
+FUNC-0088,Financeiro,Analista Financeiro Sr,Sênior,RJ,Feminino,Indígena,CLT 40h,Presencial,2018-08-25,2024-05-21,Término de contrato,Desligado,13300.04,2,4.7,5,Plano Odontológico|Plano de Saúde|Auxílio Creche|Gympass|Stock Options
+FUNC-0089,Tecnologia,Desenvolvedor Frontend Pl,Pleno,MG,Feminino,Pardo,CLT 40h,Presencial,2022-10-17,2024-04-26,Pedido do colaborador,Desligado,8934.3,9,3.3,1,Auxílio Creche|Seguro de Vida|Vale Refeição|Plano de Saúde
+FUNC-0090,Comercial,Analista Comercial Pl,Pleno,SP,Masculino,Branco,PJ,Home Office,2023-05-09,2024-06-12,Desligamento sem justa causa,Desligado,4529.58,28,3.0,1,Plano Odontológico|PLR|Home Office|Vale Transporte
+FUNC-0091,Tecnologia,Analista de Dados Sr,Sênior,SP,Feminino,Branco,CLT 44h,Híbrido,2022-09-27,,,Ativo,12678.49,17,3.3,8,Home Office|Gympass|Plano de Saúde|PLR|Plano Odontológico
+FUNC-0092,Comercial,Coordenador Comercial,Especialista,SP,Masculino,Branco,PJ,Home Office,2020-02-01,,,Ativo,11077.29,16,4.7,2,Gympass|Seguro de Vida|Home Office|Plano Odontológico|PLR|Auxílio Creche
+FUNC-0093,Operações,Supervisor de Operações,Especialista,RJ,Feminino,Preto,PJ,Presencial,2016-10-11,,,Ativo,7923.57,11,4.7,9,Vale Refeição|Plano Odontológico|Vale Transporte|Seguro de Vida|Plano de Saúde|PLR
+FUNC-0094,Operações,Técnico de Operações Pl,Pleno,SC,Masculino,Pardo,CLT 44h,Híbrido,2023-03-13,,,Ativo,6201.71,17,4.4,4,Auxílio Creche|Vale Transporte|Gympass|Stock Options
+FUNC-0095,Financeiro,Assistente Financeiro,Júnior,SP,Feminino,Pardo,PJ,Híbrido,2017-01-14,2018-11-05,Desligamento sem justa causa,Desligado,2148.57,25,2.6,4,Plano Odontológico|Home Office|Plano de Saúde
+FUNC-0096,RH,Coordenador de RH,Especialista,SP,Feminino,Pardo,CLT 40h,Noturno,2022-08-27,,,Ativo,11021.12,15,3.8,4,Vale Transporte|Plano de Saúde|Seguro de Vida|Home Office|PLR|Vale Refeição
+FUNC-0097,Tecnologia,Desenvolvedor Backend Jr,Júnior,PR,Não Informado,Preto,CLT 40h,Presencial,2016-06-25,,,Ativo,4164.81,24,4.1,5,Seguro de Vida|Auxílio Creche|Home Office
+FUNC-0098,Marketing,Designer Sr,Sênior,GO,Masculino,Branco,PJ,Presencial,2018-01-10,2023-10-23,Desligamento sem justa causa,Desligado,9999.05,14,4.0,2,Stock Options|Seguro de Vida|Plano Odontológico|Auxílio Creche|Home Office
+FUNC-0099,Marketing,Analista de Marketing Pl,Pleno,RJ,Masculino,Pardo,CLT 44h,Home Office,2022-10-02,,,Ativo,6251.26,13,2.9,4,Vale Transporte|Vale Refeição|Stock Options|Auxílio Creche
+FUNC-0100,Marketing,Analista de Marketing Pl,Pleno,BA,Masculino,Pardo,CLT 40h,Híbrido,2021-05-05,,,Ativo,5110.34,12,3.3,0,Vale Transporte|Plano Odontológico|Vale Refeição|Seguro de Vida
+FUNC-0101,Operações,Técnico de Operações Pl,Pleno,SP,Feminino,Preto,CLT 40h,Presencial,2020-01-21,2024-11-29,Pedido do colaborador,Desligado,3184.51,34,3.2,1,Vale Refeição|Seguro de Vida|Auxílio Creche|Plano Odontológico
+FUNC-0102,RH,Analista de RH Sr,Sênior,GO,Masculino,Pardo,CLT 44h,Home Office,2024-09-14,,,Ativo,6546.46,16,4.7,0,Vale Refeição|PLR|Plano de Saúde|Plano Odontológico|Stock Options
+FUNC-0103,RH,Assistente de RH,Júnior,RJ,Feminino,Pardo,CLT 44h,Híbrido,2020-01-22,2020-10-18,Pedido do colaborador,Desligado,1917.41,17,3.7,1,Home Office|Plano de Saúde|Vale Refeição
+FUNC-0104,Comercial,Consultor de Vendas Sr,Sênior,PR,Masculino,Pardo,CLT 44h,Presencial,2019-07-16,,,Ativo,9853.0,44,4.3,0,Vale Refeição|Auxílio Creche|Stock Options|Home Office|PLR
+FUNC-0105,Jurídico,Advogado Pl,Pleno,RS,Masculino,Branco,CLT 44h,Home Office,2022-12-27,,,Ativo,,19,4.0,1,Plano de Saúde|Auxílio Creche|Vale Transporte|Stock Options
+FUNC-0106,Logística,Assistente de Logística,Júnior,BA,Masculino,Preto,CLT 44h,Presencial,2021-03-25,,,Ativo,2817.37,27,3.4,1,Auxílio Creche|Seguro de Vida|Vale Refeição
+FUNC-0107,Marketing,Designer Sr,Sênior,RJ,Masculino,Amarelo,PJ,Presencial,2020-08-20,,,Ativo,11856.71,20,3.9,1,Gympass|PLR|Plano de Saúde|Auxílio Creche|Vale Refeição
+FUNC-0108,Comercial,Assistente Comercial,Júnior,GO,Não Informado,Branco,PJ,Presencial,2024-10-18,,,Ativo,2063.29,35,3.9,7,Vale Transporte|Stock Options|Home Office
+FUNC-0109,Marketing,Assistente de Marketing,Júnior,PR,Feminino,Branco,CLT 44h,Home Office,2022-08-15,,,Ativo,2206.44,23,3.9,1,Stock Options|Vale Transporte|Seguro de Vida
+FUNC-0110,Marketing,Analista de Marketing Pl,Pleno,MG,Feminino,Amarelo,CLT 44h,Híbrido,2021-06-19,2022-11-26,Pedido do colaborador,Desligado,,17,3.1,1,Seguro de Vida|Auxílio Creche|PLR|Home Office
+FUNC-0111,RH,Assistente de RH,Júnior,SP,Não Informado,Branco,CLT 44h,Presencial,2016-08-26,2020-06-09,Desligamento sem justa causa,Desligado,2266.38,9,2.8,2,Auxílio Creche|Home Office|Plano Odontológico
+FUNC-0112,Comercial,Coordenador Comercial,Especialista,RJ,Feminino,Pardo,CLT 40h,Noturno,2024-12-09,,,Ativo,9917.06,8,4.6,2,PLR|Vale Transporte|Vale Refeição|Home Office|Auxílio Creche|Gympass
+FUNC-0113,Comercial,Consultor de Vendas Sr,Sênior,MG,Feminino,Amarelo,CLT 40h,Presencial,2024-08-04,,,Ativo,7135.9,24,4.2,3,Stock Options|PLR|Plano de Saúde|Plano Odontológico|Vale Transporte
+FUNC-0114,Comercial,Assistente Comercial,Júnior,PR,Masculino,Não Informado,CLT 40h,Presencial,2024-01-18,,,Ativo,2322.35,25,3.5,1,Stock Options|Home Office|Vale Refeição
+FUNC-0115,Tecnologia,Desenvolvedor Backend Sr,Sênior,SP,Masculino,Pardo,CLT 40h,Home Office,2022-06-21,2023-08-16,Pedido do colaborador,Desligado,17496.66,19,3.4,2,Plano de Saúde|Vale Refeição|Home Office|Seguro de Vida|Vale Transporte
+FUNC-0116,Marketing,Assistente de Marketing,Júnior,SC,Masculino,Pardo,CLT 44h,Híbrido,2020-09-25,,,Ativo,2316.1,8,3.6,7,Vale Refeição|Vale Transporte|Home Office
+FUNC-0117,Logística,Analista de Logística Pl,Pleno,SP,Masculino,Branco,CLT 40h,Presencial,2019-09-06,,,Ativo,4808.56,23,3.2,0,PLR|Plano Odontológico|Plano de Saúde|Vale Refeição
+FUNC-0118,Comercial,Coordenador Comercial,Especialista,RJ,Masculino,Pardo,CLT 44h,Híbrido,2019-11-04,2022-12-19,Desligamento por baixa performance,Desligado,8282.37,14,3.9,2,Plano Odontológico|Stock Options|Home Office|PLR|Plano de Saúde|Vale Refeição
+FUNC-0119,Comercial,Assistente Comercial,Júnior,RJ,Não Informado,Não Informado,PJ,Presencial,2024-01-10,,,Ativo,2544.87,8,3.8,8,Vale Refeição|Home Office|Seguro de Vida
+FUNC-0120,RH,Analista de RH Pl,Pleno,BA,Feminino,Branco,CLT 40h,Home Office,2020-01-14,2023-06-27,Pedido do colaborador,Desligado,4708.74,8,4.5,3,Plano Odontológico|Plano de Saúde|Auxílio Creche|Gympass
+FUNC-0121,Tecnologia,Desenvolvedor Backend Jr,Júnior,RS,Masculino,Branco,CLT 44h,Híbrido,2018-07-23,,,Ativo,3639.46,13,3.4,1,Stock Options|PLR|Vale Refeição
+FUNC-0122,RH,Analista de RH Pl,Pleno,SP,Feminino,Não Informado,CLT 40h,Presencial,2016-05-25,,,Ativo,5310.25,16,4.0,3,Plano de Saúde|Seguro de Vida|Vale Refeição|Vale Transporte
+FUNC-0123,Operações,Técnico de Operações Pl,Pleno,SC,Masculino,Indígena,CLT 44h,Híbrido,2024-01-12,,,Ativo,5771.96,12,4.0,2,PLR|Vale Refeição|Gympass|Auxílio Creche
+FUNC-0124,Tecnologia,Desenvolvedor Frontend Sr,Sênior,RJ,Masculino,Preto,CLT 40h,Híbrido,2017-03-03,2019-06-18,Pedido do colaborador,Desligado,11000.0,26,2.7,2,Vale Refeição|Auxílio Creche|Vale Transporte|Seguro de Vida|PLR
+FUNC-0125,Tecnologia,Desenvolvedor Backend Jr,Júnior,MG,Feminino,Pardo,CLT 44h,Presencial,2023-01-28,2023-10-28,Pedido do colaborador,Desligado,4444.25,20,3.7,2,Vale Transporte|Auxílio Creche|PLR
+FUNC-0126,Jurídico,Advogado Pl,Pleno,SP,Masculino,Pardo,CLT 44h,Híbrido,2021-05-27,2023-10-30,Desligamento sem justa causa,Desligado,8966.99,17,4.0,1,Vale Refeição|PLR|Auxílio Creche|Stock Options
+FUNC-0127,Comercial,Analista Comercial Pl,Pleno,SC,Feminino,Preto,CLT 44h,Noturno,2022-12-11,,,Ativo,5492.77,36,3.6,3,Seguro de Vida|Plano Odontológico|PLR|Auxílio Creche
+FUNC-0128,Operações,Técnico de Operações Pl,Pleno,MG,Masculino,Pardo,CLT 44h,Noturno,2021-01-05,,,Ativo,4402.17,22,3.3,0,Home Office|Vale Refeição|Stock Options|Auxílio Creche
+FUNC-0129,Jurídico,Advogado Pl,Pleno,GO,Feminino,Pardo,PJ,Presencial,2023-01-04,,,Ativo,10119.96,27,2.9,1,Gympass|Seguro de Vida|Plano de Saúde|Vale Refeição
+FUNC-0130,Tecnologia,Tech Lead,Especialista,PE,Feminino,Branco,CLT 44h,Híbrido,2022-12-15,2023-07-27,Desligamento sem justa causa,Desligado,16000.0,17,3.9,2,Gympass|Plano Odontológico|Vale Transporte|Seguro de Vida|Auxílio Creche|Plano de Saúde
+FUNC-0131,Marketing,Designer Sr,Sênior,MG,Feminino,Branco,CLT 40h,Presencial,2023-06-18,,,Ativo,9166.21,58,2.7,5,Plano Odontológico|Stock Options|PLR|Gympass|Auxílio Creche
+FUNC-0132,Tecnologia,Desenvolvedor Backend Sr,Sênior,SC,Masculino,Pardo,CLT 40h,Híbrido,2021-04-07,2021-08-19,Pedido do colaborador,Desligado,16596.33,11,4.0,13,Home Office|Vale Refeição|PLR|Auxílio Creche|Plano Odontológico
+FUNC-0133,Comercial,Coordenador Comercial,Especialista,MG,Não Informado,Pardo,CLT 44h,Híbrido,2024-05-22,,,Ativo,9974.79,9,3.6,2,Stock Options|Vale Transporte|Home Office|Plano de Saúde|Seguro de Vida|Auxílio Creche
+FUNC-0134,Financeiro,Assistente Financeiro,Júnior,RJ,Feminino,Branco,CLT 40h,Híbrido,2020-12-05,,,Ativo,2901.18,19,2.5,1,Auxílio Creche|Vale Transporte|PLR
+FUNC-0135,Jurídico,Advogado Pl,Pleno,SP,Masculino,Branco,CLT 44h,Home Office,2021-07-21,2024-06-15,Pedido do colaborador,Ativo,11490.61,19,3.8,0,Plano de Saúde|Stock Options|Gympass|PLR
+FUNC-0136,Tecnologia,Desenvolvedor Frontend Pl,Pleno,MG,Masculino,Amarelo,CLT 44h,Híbrido,2019-10-27,2021-11-22,Pedido do colaborador,Desligado,7732.98,4,2.4,1,Vale Refeição|Auxílio Creche|Stock Options|Plano de Saúde
+FUNC-0137,RH,Analista de RH Sr,Sênior,PE,Feminino,Pardo,CLT 40h,Híbrido,2024-07-17,,,Ativo,8411.73,18,3.2,1,Home Office|Vale Refeição|Vale Transporte|Gympass|Auxílio Creche
+FUNC-0138,Tecnologia,Desenvolvedor Backend Sr,Sênior,RJ,Feminino,Pardo,PJ,Híbrido,2024-12-16,,,Ativo,17751.38,21,4.1,5,Auxílio Creche|Seguro de Vida|Vale Transporte|Home Office|Plano de Saúde
+FUNC-0139,Comercial,Diretor Comercial,Diretoria,SC,Feminino,Branco,PJ,Home Office,2024-08-27,,,Ativo,30648.73,16,2.6,2,Stock Options|Plano Odontológico|Auxílio Creche|Home Office|Vale Transporte|Vale Refeição|Gympass|Seguro de Vida
+FUNC-0140,RH,Analista de RH Sr,Sênior,PR,Feminino,Branco,CLT 40h,Presencial,2015-09-18,2019-05-17,Desligamento sem justa causa,Desligado,11000.0,30,3.7,3,Vale Refeição|Plano Odontológico|Plano de Saúde|Stock Options|Gympass
+FUNC-0141,RH,Coordenador de RH,Especialista,GO,Feminino,Branco,PJ,Híbrido,2018-07-05,2024-06-19,Pedido do colaborador,Desligado,10901.44,32,4.3,2,Auxílio Creche|PLR|Vale Refeição|Seguro de Vida|Home Office|Gympass
+FUNC-0142,Comercial,Consultor de Vendas Sr,Sênior,RJ,Masculino,Branco,CLT 40h,Presencial,2016-11-19,2019-04-13,Pedido do colaborador,Desligado,7166.8,12,4.0,2,PLR|Vale Refeição|Home Office|Stock Options|Gympass
+FUNC-0143,Comercial,Assistente Comercial,Júnior,SP,Feminino,Branco,CLT 44h,Híbrido,2015-11-15,2022-11-16,Desligamento por baixa performance,Desligado,2933.12,13,4.5,0,Auxílio Creche|Plano Odontológico|PLR
+FUNC-0144,Comercial,Gerente Comercial,Gestão,MG,Feminino,Branco,CLT 40h,Presencial,2017-05-06,2020-11-06,Desligamento por baixa performance,Desligado,19169.76,31,3.0,3,PLR|Seguro de Vida|Auxílio Creche|Stock Options|Vale Refeição|Home Office|Plano Odontológico
+FUNC-0145,Marketing,Analista de Marketing Pl,Pleno,SP,Masculino,Branco,CLT 44h,Híbrido,2018-01-22,2020-01-20,Pedido do colaborador,Desligado,5121.0,8,3.8,7,Stock Options|Home Office|Auxílio Creche|PLR
+FUNC-0146,Marketing,Analista de Marketing Pl,Pleno,RJ,Masculino,Branco,CLT 44h,Presencial,2022-07-10,,,Ativo,4972.92,18,3.8,0,Home Office|Plano de Saúde|Gympass|Auxílio Creche
+FUNC-0147,Jurídico,Advogado Pl,Pleno,RJ,Masculino,Pardo,CLT 40h,Híbrido,2018-11-04,,,Ativo,10759.91,3,4.5,0,Vale Refeição|Plano de Saúde|Gympass|Auxílio Creche
+FUNC-0148,Financeiro,Assistente Financeiro,Júnior,SP,Feminino,Branco,CLT 40h,Híbrido,2022-01-18,,,Ativo,2472.46,17,3.8,3,Plano Odontológico|Vale Transporte|Gympass
+FUNC-0149,Tecnologia,Desenvolvedor Backend Pl,Pleno,BA,Masculino,Branco,CLT 44h,Presencial,2024-06-21,,,Ativo,7190.72,16,3.7,2,Seguro de Vida|PLR|Vale Refeição|Auxílio Creche
+FUNC-0150,Operações,Técnico de Operações Pl,Pleno,CE,Masculino,Amarelo,CLT 40h,Híbrido,2016-04-09,,,Ativo,4069.36,11,3.3,0,Vale Refeição|PLR|Auxílio Creche|Gympass
+FUNC-0151,Tecnologia,Desenvolvedor Backend Pl,Pleno,RJ,Masculino,Branco,CLT 44h,Híbrido,2019-08-06,,,Ativo,7633.11,34,3.6,9,Auxílio Creche|Seguro de Vida|Vale Refeição|Home Office
+FUNC-0152,Marketing,Coordenador de Marketing,Especialista,SP,Masculino,Preto,CLT 40h,Presencial,2022-01-08,,,Ativo,9303.13,16,4.7,3,Seguro de Vida|Vale Transporte|PLR|Auxílio Creche|Home Office|Plano Odontológico
+FUNC-0153,Logística,Analista de Logística Pl,Pleno,SP,Feminino,Branco,CLT 40h,Home Office,2024-06-11,,,Ativo,5446.29,24,,0,Vale Refeição|Plano Odontológico|PLR|Seguro de Vida
+FUNC-0154,RH,Gerente de RH,Gestão,SP,Feminino,Branco,CLT 40h,Híbrido,2023-10-09,,,Ativo,21357.27,24,3.0,1,Plano Odontológico|Stock Options|Gympass|Vale Transporte|Vale Refeição|PLR|Plano de Saúde
+FUNC-0155,Comercial,Assistente Comercial,Júnior,RS,Masculino,Pardo,CLT 40h,Presencial,2021-06-23,2024-08-11,Desligamento sem justa causa,Desligado,3200.0,12,3.8,0,Plano de Saúde|Plano Odontológico|Seguro de Vida
+FUNC-0156,Operações,Operador de Produção,Júnior,RJ,Feminino,Pardo,CLT 40h,Presencial,2017-12-27,,,Ativo,2332.87,31,3.8,5,Gympass|Vale Refeição|Seguro de Vida
+FUNC-0157,Financeiro,Assistente Financeiro,Júnior,GO,Masculino,Branco,CLT 44h,Home Office,2019-12-06,2022-10-20,Desligamento sem justa causa,Desligado,3282.61,3,3.0,0,Home Office|Vale Transporte|Seguro de Vida
+FUNC-0158,Logística,Analista de Logística Pl,Pleno,SP,Masculino,Pardo,CLT 40h,Noturno,2018-07-01,2019-10-06,Desligamento sem justa causa,Desligado,5921.13,11,4.2,9,Gympass|Plano Odontológico|Vale Transporte|Home Office
+FUNC-0159,Operações,Operador de Produção,Júnior,RJ,Masculino,Branco,CLT 40h,Presencial,2024-07-22,,,Ativo,2164.65,13,3.4,4,Plano de Saúde|Seguro de Vida|Stock Options
+FUNC-0160,Comercial,Assistente Comercial,Júnior,GO,Feminino,Branco,CLT 40h,Híbrido,2016-01-26,,,Ativo,2354.47,7,2.1,2,Vale Refeição|Plano Odontológico|Home Office
+FUNC-0161,Financeiro,Analista Financeiro Sr,Sênior,CE,Feminino,Pardo,CLT 40h,Home Office,2017-03-05,,,Ativo,10499.5,24,4.1,0,Plano Odontológico|Auxílio Creche|Seguro de Vida|Vale Refeição|PLR
+FUNC-0162,Marketing,Coordenador de Marketing,Especialista,BA,Masculino,Branco,CLT 40h,Presencial,2022-07-14,,,Ativo,8000.0,21,4.0,1,Plano de Saúde|Auxílio Creche|PLR|Stock Options|Vale Refeição|Plano Odontológico
+FUNC-0163,Marketing,Designer Sr,Sênior,MG,Masculino,Pardo,CLT 44h,Híbrido,2021-06-18,,,Ativo,10033.93,38,4.9,0,Vale Refeição|Seguro de Vida|Gympass|Home Office|PLR
+FUNC-0164,Financeiro,Analista Financeiro Pl,Pleno,RS,Masculino,Preto,CLT 44h,Híbrido,2021-08-28,2024-05-30,Desligamento sem justa causa,Desligado,8022.89,23,2.3,7,Stock Options|PLR|Seguro de Vida|Gympass
+FUNC-0165,Comercial,Analista Comercial Pl,Pleno,SP,Masculino,Não Informado,CLT 44h,Presencial,2018-09-08,,,Ativo,5072.3,17,3.5,2,Home Office|Plano Odontológico|Auxílio Creche|Vale Transporte
+FUNC-0166,RH,HRBP Sr,Sênior,PR,Feminino,Pardo,CLT 44h,Híbrido,2024-08-26,,,Ativo,12249.63,26,4.1,0,Vale Transporte|Stock Options|Auxílio Creche|Plano Odontológico|Seguro de Vida
+FUNC-0167,Financeiro,Assistente Financeiro,Júnior,CE,Feminino,Preto,CLT 40h,Noturno,2017-09-02,,,Ativo,2345.99,32,3.4,5,Home Office|Gympass|Vale Transporte
+FUNC-0168,Operações,Técnico de Operações Pl,Pleno,GO,Feminino,Preto,CLT 44h,Híbrido,,2024-03-07,Desligamento por justa causa,Desligado,3931.0,26,3.6,3,Vale Refeição|Gympass|Vale Transporte|Home Office
+FUNC-0169,Comercial,Consultor de Vendas Sr,Sênior,PE,Feminino,Branco,CLT 40h,Presencial,2022-01-18,2023-12-26,Desligamento por baixa performance,Desligado,9395.16,34,4.6,6,Home Office|Vale Refeição|Auxílio Creche|Stock Options|PLR
+FUNC-0170,Financeiro,Assistente Financeiro,Júnior,SP,Masculino,Indígena,CLT 40h,Home Office,2024-08-27,,,Ativo,2382.51,17,2.8,0,Gympass|Home Office|Vale Refeição
+FUNC-0171,Tecnologia,Gerente de Tecnologia,Gestão,MG,Masculino,Branco,CLT 40h,Presencial,2024-01-20,,,Ativo,25710.42,18,3.8,3,Home Office|PLR|Plano Odontológico|Stock Options|Gympass|Seguro de Vida|Vale Refeição
+FUNC-0172,Comercial,Analista Comercial Pl,Pleno,RJ,Masculino,Pardo,CLT 44h,Home Office,2018-10-24,,,Ativo,4440.62,9,3.0,5,Seguro de Vida|Auxílio Creche|Vale Refeição|Plano de Saúde
+FUNC-0173,RH,Analista de RH Pl,Pleno,SP,Masculino,Não Informado,CLT 44h,Home Office,2015-02-22,2019-09-13,Pedido do colaborador,Desligado,4036.43,31,3.0,1,Plano de Saúde|Vale Refeição|Vale Transporte|PLR
+FUNC-0174,Tecnologia,Desenvolvedor Frontend Jr,Júnior,MG,Masculino,Preto,CLT 40h,Presencial,2023-03-26,,,Ativo,4213.44,22,3.2,0,Seguro de Vida|Auxílio Creche|Plano Odontológico
+FUNC-0175,Comercial,Consultor de Vendas Sr,Sênior,RJ,Masculino,Branco,CLT 44h,Presencial,2019-12-16,,,Ativo,10055.72,6,4.7,0,Plano Odontológico|Vale Refeição|Home Office|Auxílio Creche|PLR
+FUNC-0176,Financeiro,Coordenador Financeiro,Especialista,PE,Feminino,Branco,CLT 44h,Presencial,2023-03-19,2024-06-15,Pedido do colaborador,Ativo,13693.05,30,3.3,0,Plano Odontológico|Vale Transporte|Plano de Saúde|Home Office|Gympass|PLR
+FUNC-0177,Logística,Analista de Logística Pl,Pleno,BA,Masculino,Preto,CLT 44h,Presencial,2016-06-06,2019-07-25,Desligamento sem justa causa,Desligado,4114.9,24,3.5,2,Vale Refeição|PLR|Home Office|Vale Transporte
+FUNC-0178,Jurídico,Advogado Jr,Júnior,MG,Masculino,Branco,CLT 44h,Presencial,2016-01-02,2022-09-14,Pedido do colaborador,Desligado,6127.36,21,2.4,0,Stock Options|Vale Refeição|Seguro de Vida
+FUNC-0179,Logística,Assistente de Logística,Júnior,RJ,Feminino,Pardo,CLT 40h,Noturno,2020-08-11,2023-03-07,Desligamento por justa causa,Desligado,2192.06,6,3.9,1,PLR|Gympass|Home Office
+FUNC-0180,Jurídico,Estagiário Jurídico,Estagiário,RJ,Feminino,Branco,Estágio,Presencial,2020-09-27,2021-07-05,Pedido do colaborador,Desligado,1261.18,4,3.4,4,Stock Options|Vale Transporte
+FUNC-0181,Comercial,Analista Comercial Pl,Pleno,RJ,Feminino,Preto,CLT 40h,Híbrido,2017-12-19,2021-02-07,Desligamento sem justa causa,Desligado,4274.48,9,3.3,1,Stock Options|Home Office|Gympass|Plano de Saúde
+FUNC-0182,RH,Gerente de RH,Gestão,SP,Masculino,Pardo,PJ,Presencial,2022-09-12,2024-09-14,Pedido do colaborador,Desligado,21173.74,10,4.1,1,Vale Refeição|Plano de Saúde|Vale Transporte|Auxílio Creche|Gympass|Seguro de Vida|Home Office
+FUNC-0183,RH,Assistente de RH,Júnior,PE,Masculino,Branco,CLT 40h,Presencial,2017-09-25,2018-04-21,Desligamento sem justa causa,Desligado,2234.87,12,3.0,4,Seguro de Vida|PLR|Home Office
+FUNC-0184,Comercial,Coordenador Comercial,Especialista,SP,Feminino,Branco,CLT 40h,Híbrido,2023-11-22,,,Ativo,9663.5,20,3.4,2,PLR|Auxílio Creche|Plano Odontológico|Vale Refeição|Plano de Saúde|Stock Options
+FUNC-0185,Comercial,Analista Comercial Pl,Pleno,SP,Masculino,Pardo,CLT 40h,Noturno,2022-04-16,2024-02-18,Desligamento sem justa causa,Desligado,6098.45,14,2.1,4,Plano de Saúde|Gympass|Stock Options|Vale Refeição
+FUNC-0186,Comercial,Analista Comercial Pl,Pleno,GO,Masculino,Pardo,CLT 40h,Home Office,2022-06-19,2024-11-25,Desligamento por baixa performance,Desligado,5170.13,26,3.7,7,Home Office|Plano de Saúde|PLR|Auxílio Creche
+FUNC-0187,Tecnologia,Analista de Dados Sr,Sênior,PR,Feminino,Branco,CLT 40h,Home Office,2024-02-10,2024-11-14,Pedido do colaborador,Desligado,11283.88,9,3.8,0,PLR|Seguro de Vida|Vale Refeição|Gympass|Vale Transporte
+FUNC-0188,Comercial,Consultor de Vendas Sr,Sênior,SP,Masculino,Pardo,CLT 40h,Noturno,,2023-10-12,Desligamento por baixa performance,Desligado,,118,3.1,5,Plano de Saúde|Stock Options|PLR|Vale Refeição|Vale Transporte
+FUNC-0189,Comercial,Analista Comercial Pl,Pleno,RS,Feminino,Não Informado,CLT 44h,Híbrido,2021-10-03,2023-03-17,Desligamento sem justa causa,Desligado,4286.74,16,3.9,1,Vale Refeição|Gympass|Stock Options|Auxílio Creche
+FUNC-0190,Logística,Assistente de Logística,Júnior,SP,Feminino,Não Informado,CLT 44h,Home Office,2019-04-02,2024-06-15,Pedido do colaborador,Ativo,2466.08,17,3.1,2,PLR|Gympass|Auxílio Creche
+FUNC-0191,Financeiro,Analista Financeiro Sr,Sênior,RJ,Masculino,Pardo,CLT 44h,Híbrido,2024-10-21,2024-12-31,Desligamento sem justa causa,Desligado,8312.49,24,3.6,5,Vale Transporte|Vale Refeição|Stock Options|Plano Odontológico|Seguro de Vida
+FUNC-0192,RH,HRBP Sr,Sênior,RJ,Feminino,Pardo,PJ,Híbrido,2022-06-21,,,Ativo,11288.78,12,2.0,8,PLR|Plano Odontológico|Auxílio Creche|Plano de Saúde|Seguro de Vida
+FUNC-0193,Tecnologia,Tech Lead,Especialista,SP,Feminino,Preto,CLT 44h,Presencial,2016-10-22,2023-12-03,Desligamento sem justa causa,Desligado,22548.89,11,3.9,0,Auxílio Creche|Home Office|Plano Odontológico|Vale Transporte|Vale Refeição|Gympass
+FUNC-0194,Comercial,Assistente Comercial,Júnior,SP,Masculino,Pardo,CLT 40h,Híbrido,2017-08-06,,,Ativo,3200.0,25,4.3,0,Vale Refeição|Seguro de Vida|PLR
+FUNC-0195,Comercial,Coordenador Comercial,Especialista,RJ,Masculino,Pardo,CLT 40h,Home Office,2020-05-22,,,Ativo,10891.07,6,3.3,2,Home Office|Vale Transporte|Auxílio Creche|Seguro de Vida|Plano Odontológico|Stock Options
+FUNC-0196,Marketing,Assistente de Marketing,Júnior,PR,Masculino,Pardo,CLT 44h,Híbrido,2018-05-11,,,Ativo,2680.85,10,3.1,24,Vale Refeição|Gympass|Auxílio Creche
+FUNC-0197,RH,Analista de RH Pl,Pleno,MG,Feminino,Branco,CLT 44h,Híbrido,,,,Ativo,,13,3.8,0,Auxílio Creche|Seguro de Vida|Vale Refeição|Stock Options
+FUNC-0198,Financeiro,Analista Financeiro Pl,Pleno,PR,Masculino,Branco,CLT 40h,Noturno,2022-10-12,2024-08-24,Pedido do colaborador,Desligado,7934.34,3,3.2,2,Auxílio Creche|Seguro de Vida|Vale Transporte|Stock Options
+FUNC-0199,Comercial,Coordenador Comercial,Especialista,SP,Masculino,Branco,CLT 40h,Home Office,2020-12-21,,,Ativo,11436.12,29,4.8,3,PLR|Auxílio Creche|Home Office|Vale Transporte|Vale Refeição|Plano Odontológico
+FUNC-0200,Financeiro,Assistente Financeiro,Júnior,PR,Masculino,Branco,CLT 40h,Presencial,2018-07-22,2022-07-03,Desligamento por justa causa,Desligado,2877.42,21,3.3,1,Plano Odontológico|Vale Transporte|Vale Refeição
+FUNC-0201,Tecnologia,Desenvolvedor Backend Jr,Júnior,PR,Feminino,Branco,CLT 40h,Presencial,2023-09-16,,,Ativo,4553.74,43,2.3,0,PLR|Vale Refeição|Plano de Saúde
+FUNC-0202,Comercial,Assistente Comercial,Júnior,CE,Masculino,Pardo,CLT 44h,Home Office,2021-01-13,2022-12-15,Pedido do colaborador,Desligado,2596.03,13,2.9,3,Vale Refeição|Gympass|Stock Options
+FUNC-0203,Comercial,Analista Comercial Pl,Pleno,RJ,Feminino,Branco,PJ,Presencial,2017-03-21,2022-09-02,Desligamento sem justa causa,Desligado,5110.06,13,3.4,0,Home Office|Stock Options|Vale Refeição|Seguro de Vida
+FUNC-0204,Comercial,Analista Comercial Pl,Pleno,RJ,Feminino,Branco,CLT 44h,Home Office,2019-10-10,2021-03-11,Desligamento sem justa causa,Desligado,6050.37,6,3.2,3,Home Office|Plano Odontológico|Stock Options|Vale Refeição
+FUNC-0205,Tecnologia,Analista de Dados Pl,Pleno,SP,Masculino,Preto,CLT 44h,Híbrido,2024-07-01,,,Ativo,9066.35,24,2.5,4,Gympass|Plano Odontológico|Plano de Saúde|Vale Transporte
+FUNC-0206,Marketing,Designer Sr,Sênior,MG,Masculino,Branco,CLT 40h,Híbrido,2016-01-08,,,Ativo,10497.8,6,3.4,3,PLR|Plano de Saúde|Vale Refeição|Seguro de Vida|Vale Transporte
+FUNC-0207,Tecnologia,Analista de Dados Pl,Pleno,SP,Masculino,Pardo,CLT 40h,Noturno,2019-07-05,2021-03-14,Pedido do colaborador,Desligado,7472.77,38,3.7,6,PLR|Vale Refeição|Seguro de Vida|Plano Odontológico
+FUNC-0208,Tecnologia,Desenvolvedor Backend Pl,Pleno,RS,Feminino,Branco,CLT 44h,Híbrido,2017-02-11,,,Ativo,7247.6,13,3.2,1,Vale Transporte|Plano Odontológico|Auxílio Creche|Plano de Saúde
+FUNC-0209,Financeiro,Assistente Financeiro,Júnior,BA,Feminino,Amarelo,CLT 44h,Presencial,2018-03-10,,,Ativo,3048.31,24,3.0,1,Plano Odontológico|Gympass|Vale Refeição
+FUNC-0210,RH,Assistente de RH,Júnior,SP,Masculino,Branco,CLT 44h,Híbrido,2019-02-12,,,Ativo,2224.36,25,3.1,2,Plano de Saúde|Vale Transporte|Gympass
+FUNC-0211,Marketing,Designer Sr,Sênior,RJ,Feminino,Branco,CLT 40h,Híbrido,2017-05-02,2023-05-03,Desligamento sem justa causa,Desligado,6799.39,6,3.0,0,Vale Transporte|Seguro de Vida|Plano de Saúde|Home Office|Auxílio Creche
+FUNC-0212,Operações,Operador de Produção,Júnior,SP,Feminino,Preto,CLT 44h,Home Office,2019-03-04,,,Ativo,2759.49,38,3.7,3,Stock Options|Auxílio Creche|Vale Transporte
+FUNC-0213,Comercial,Assistente Comercial,Júnior,MG,Masculino,Branco,CLT 44h,Presencial,2024-04-18,2024-08-18,Término de contrato,Desligado,2299.42,54,3.1,5,Vale Transporte|Vale Refeição|Home Office
+FUNC-0214,Marketing,Designer Sr,Sênior,SP,Feminino,Branco,PJ,Presencial,2017-10-01,,,Ativo,10437.89,22,3.1,1,Auxílio Creche|Vale Transporte|Stock Options|Seguro de Vida|Gympass
+FUNC-0215,Comercial,Assistente Comercial,Júnior,BA,Feminino,Preto,CLT 40h,Híbrido,2024-01-11,,,Ativo,2083.34,29,4.0,0,Seguro de Vida|Vale Transporte|Home Office
+FUNC-0216,RH,Assistente de RH,Júnior,RJ,Feminino,Preto,CLT 40h,Presencial,2015-10-05,,,Ativo,2431.46,29,3.4,0,Seguro de Vida|Plano de Saúde|Plano Odontológico
+FUNC-0217,Tecnologia,Desenvolvedor Backend Pl,Pleno,RJ,Não Informado,Não Informado,CLT 40h,Presencial,2023-06-16,,,Ativo,9344.84,22,3.4,4,Vale Refeição|Seguro de Vida|PLR|Auxílio Creche
+FUNC-0218,Operações,Gerente de Operações,Gestão,MG,Feminino,Pardo,CLT 44h,Híbrido,2023-07-09,,,Ativo,15852.18,17,4.3,0,Home Office|Plano de Saúde|PLR|Plano Odontológico|Seguro de Vida|Gympass|Stock Options
+FUNC-0219,Operações,Técnico de Operações Pl,Pleno,RS,Feminino,Branco,CLT 44h,Presencial,2023-10-25,,,Ativo,5076.18,8,3.5,7,Home Office|Vale Refeição|PLR|Seguro de Vida
+FUNC-0220,Marketing,Coordenador de Marketing,Especialista,PR,Feminino,Preto,PJ,Híbrido,2020-01-21,,,Ativo,12337.85,37,4.4,0,PLR|Gympass|Vale Refeição|Plano de Saúde|Plano Odontológico|Stock Options
+FUNC-0221,Tecnologia,Desenvolvedor Backend Jr,Júnior,BA,Masculino,Pardo,CLT 44h,Presencial,2021-04-07,2023-09-20,Desligamento sem justa causa,Desligado,,47,2.8,1,Home Office|PLR|Plano Odontológico
+FUNC-0222,Tecnologia,Desenvolvedor Frontend Sr,Sênior,SP,Feminino,Branco,PJ,Híbrido,,2022-02-28,Desligamento sem justa causa,Desligado,14620.1,44,3.5,5,PLR|Gympass|Home Office|Plano de Saúde|Stock Options
+FUNC-0223,Marketing,Designer Sr,Sênior,SC,Feminino,Branco,CLT 40h,Home Office,2015-11-04,,,Ativo,9845.93,10,2.8,0,Vale Transporte|Stock Options|PLR|Auxílio Creche|Plano de Saúde
+FUNC-0224,Operações,Operador de Produção,Júnior,RS,Masculino,Não Informado,PJ,Híbrido,2020-08-21,,,Ativo,2545.63,16,3.5,1,Vale Refeição|Home Office|Stock Options
+FUNC-0225,Comercial,Diretor Comercial,Diretoria,SP,Feminino,Pardo,CLT 40h,Noturno,2021-06-25,,,Ativo,36193.85,34,4.7,1,Home Office|Plano de Saúde|Vale Refeição|Stock Options|Vale Transporte|Seguro de Vida|Auxílio Creche|Gympass
+FUNC-0226,Tecnologia,Desenvolvedor Frontend Pl,Pleno,CE,Feminino,Branco,CLT 40h,Híbrido,2023-01-18,,,Ativo,9557.9,23,4.2,0,PLR|Home Office|Seguro de Vida|Stock Options
+FUNC-0227,Jurídico,Advogado Jr,Júnior,SC,Masculino,Branco,CLT 40h,Presencial,2021-11-07,,,Ativo,6329.52,19,3.5,1,Gympass|Vale Refeição|Auxílio Creche
+FUNC-0228,Logística,Coordenador de Logística,Especialista,RJ,Feminino,Branco,CLT 40h,Presencial,2024-06-20,,,Ativo,14000.0,19,3.8,0,Gympass|Seguro de Vida|PLR|Plano de Saúde|Plano Odontológico|Stock Options
+FUNC-0229,Comercial,Assistente Comercial,Júnior,GO,Masculino,Preto,CLT 40h,Híbrido,2022-09-11,2023-09-21,Desligamento sem justa causa,Desligado,3056.47,21,2.4,0,Gympass|PLR|Seguro de Vida
+FUNC-0230,Operações,Técnico de Operações Pl,Pleno,BA,Feminino,Branco,CLT 44h,Home Office,2020-01-18,,,Ativo,4188.76,13,3.6,4,Seguro de Vida|Gympass|Plano Odontológico|Vale Refeição
+FUNC-0231,Jurídico,Estagiário Jurídico,Estagiário,RS,Feminino,Preto,Estágio,Híbrido,2023-12-06,,,Ativo,2000.0,5,3.8,1,PLR|Auxílio Creche
+FUNC-0232,Marketing,Coordenador de Marketing,Especialista,SC,Masculino,Pardo,PJ,Home Office,2019-11-23,,,Ativo,11823.08,6,3.8,4,Gympass|Plano de Saúde|Plano Odontológico|Stock Options|Seguro de Vida|Vale Refeição
+FUNC-0233,Logística,Assistente de Logística,Júnior,SP,Feminino,Branco,CLT 40h,Híbrido,2020-03-24,2024-04-13,Desligamento por justa causa,Desligado,2403.54,9,3.4,3,Stock Options|Vale Transporte|Gympass
+FUNC-0234,Jurídico,Advogado Sr,Sênior,SC,Feminino,Preto,PJ,Híbrido,2017-09-23,2021-01-21,Desligamento por justa causa,Desligado,20565.88,6,3.5,0,Stock Options|Gympass|Plano Odontológico|Vale Transporte|Plano de Saúde
+FUNC-0235,Tecnologia,Desenvolvedor Frontend Sr,Sênior,CE,Feminino,Branco,PJ,Home Office,2023-01-27,,,Ativo,15716.35,20,3.9,0,Stock Options|Vale Refeição|Home Office|Gympass|PLR
+FUNC-0236,RH,Assistente de RH,Júnior,MG,Masculino,Pardo,CLT 44h,Híbrido,2019-12-11,,,Ativo,2141.46,19,3.9,2,Plano Odontológico|Gympass|Vale Refeição
+FUNC-0237,Comercial,Assistente Comercial,Júnior,BA,Masculino,Branco,CLT 44h,Presencial,2024-03-03,,,Ativo,2415.09,26,2.6,0,Vale Refeição|Seguro de Vida|Stock Options
+FUNC-0238,Operações,Operador de Produção,Júnior,RS,Feminino,Pardo,CLT 44h,Presencial,2024-11-20,,,Ativo,2550.51,8,3.6,5,PLR|Plano de Saúde|Gympass
+FUNC-0239,Marketing,Assistente de Marketing,Júnior,GO,Masculino,Preto,PJ,Híbrido,2023-09-25,,,Ativo,2544.99,3,2.3,4,Vale Refeição|Auxílio Creche|Vale Transporte
+FUNC-0240,Comercial,Analista Comercial Pl,Pleno,SC,Feminino,Pardo,CLT 44h,Presencial,2021-07-21,2023-07-27,Término de contrato,Desligado,3691.77,15,3.2,4,Plano de Saúde|Seguro de Vida|PLR|Vale Refeição
+FUNC-0241,Marketing,Analista de Marketing Pl,Pleno,SP,Masculino,Branco,CLT 40h,Presencial,2023-06-03,,,Ativo,5266.7,15,3.7,0,Vale Transporte|Stock Options|Gympass|Home Office
+FUNC-0242,Financeiro,Analista Financeiro Pl,Pleno,RS,Feminino,Branco,CLT 40h,Home Office,2019-10-17,,,Ativo,5865.21,23,2.8,1,PLR|Plano de Saúde|Stock Options|Vale Refeição
+FUNC-0243,Tecnologia,Desenvolvedor Frontend Sr,Sênior,MG,Masculino,Preto,CLT 40h,Híbrido,2024-01-25,2024-12-07,Proposta externa,Desligado,15616.57,7,4.8,0,Home Office|Auxílio Creche|Plano Odontológico|Vale Refeição|Vale Transporte
+FUNC-0244,Comercial,Analista Comercial Pl,Pleno,GO,Masculino,Preto,CLT 40h,Híbrido,2024-06-19,,,Ativo,4239.74,8,2.9,2,Home Office|Vale Transporte|Vale Refeição|PLR
+FUNC-0245,Financeiro,Analista Financeiro Pl,Pleno,RS,Feminino,Branco,CLT 44h,Híbrido,2022-08-16,,,Ativo,7555.95,28,4.0,4,Plano Odontológico|Vale Refeição|PLR|Gympass
+FUNC-0246,Marketing,Coordenador de Marketing,Especialista,RS,Feminino,Branco,CLT 40h,Noturno,2016-12-26,2022-06-18,Pedido do colaborador,Desligado,13314.7,17,4.5,2,Plano Odontológico|Vale Refeição|PLR|Plano de Saúde|Stock Options|Vale Transporte
+FUNC-0247,Financeiro,Analista Financeiro Pl,Pleno,PE,Feminino,Amarelo,CLT 44h,Híbrido,2016-02-17,2022-02-12,Pedido do colaborador,Desligado,5946.98,11,2.0,2,Vale Transporte|Vale Refeição|Auxílio Creche|Gympass
+FUNC-0248,RH,Analista de RH Sr,Sênior,BA,Feminino,Pardo,CLT 40h,Híbrido,2022-07-15,,,Ativo,10451.12,23,3.7,3,Vale Refeição|Plano de Saúde|Home Office|Vale Transporte|Auxílio Creche
+FUNC-0249,Operações,Supervisor de Operações,Especialista,RS,Não Informado,Pardo,CLT 40h,Presencial,2016-07-22,2024-12-27,Pedido do colaborador,Desligado,7916.76,9,5.0,4,Gympass|Auxílio Creche|Plano de Saúde|Plano Odontológico|Stock Options|Seguro de Vida
+FUNC-0250,Logística,Coordenador de Logística,Especialista,SP,Masculino,Branco,CLT 44h,Híbrido,2023-07-17,,,Ativo,7968.2,17,2.8,8,Auxílio Creche|Plano Odontológico|Vale Transporte|Vale Refeição|PLR|Seguro de Vida
+FUNC-0251,Operações,Operador de Produção,Júnior,GO,Feminino,Branco,CLT 44h,Presencial,2022-04-09,,,Ativo,1664.27,14,3.2,2,Vale Transporte|Plano de Saúde|Home Office
+FUNC-0252,Tecnologia,Tech Lead,Especialista,RS,Masculino,Pardo,PJ,Presencial,2023-09-11,2024-04-15,Pedido do colaborador,Desligado,17043.88,11,4.5,3,Stock Options|Seguro de Vida|Auxílio Creche|Vale Refeição|Vale Transporte|Plano de Saúde
+FUNC-0253,Marketing,Analista de Marketing Pl,Pleno,SP,Feminino,Branco,CLT 44h,Noturno,2022-05-18,2023-11-28,Pedido do colaborador,Desligado,5454.54,44,2.6,0,PLR|Stock Options|Vale Transporte|Seguro de Vida
+FUNC-0254,Comercial,Analista Comercial Pl,Pleno,GO,Masculino,Branco,CLT 40h,Presencial,2023-12-06,,,Ativo,3500.0,13,3.3,1,Gympass|PLR|Plano Odontológico|Plano de Saúde
+FUNC-0255,Comercial,Assistente Comercial,Júnior,PR,Masculino,Branco,CLT 44h,Presencial,2024-08-19,,,Ativo,2695.17,12,3.4,0,Vale Transporte|Stock Options|Vale Refeição
+FUNC-0256,Tecnologia,Desenvolvedor Backend Jr,Júnior,MG,Feminino,Pardo,CLT 40h,Presencial,2021-11-25,,,Ativo,3959.7,32,3.3,0,PLR|Auxílio Creche|Plano de Saúde
+FUNC-0257,Financeiro,Analista Financeiro Sr,Sênior,SP,Feminino,Branco,CLT 40h,Presencial,2024-01-27,,,Ativo,12362.78,21,4.1,0,Auxílio Creche|Vale Refeição|Plano Odontológico|Stock Options|PLR
+FUNC-0258,Tecnologia,Desenvolvedor Frontend Pl,Pleno,MG,Feminino,Branco,CLT 44h,Presencial,2017-01-02,2024-07-25,Pedido do colaborador,Desligado,6204.83,23,3.8,4,Gympass|Vale Refeição|Auxílio Creche|PLR
+FUNC-0259,Logística,Gerente de Logística,Gestão,RJ,Feminino,Branco,CLT 40h,Híbrido,2020-09-12,2023-11-17,Desligamento sem justa causa,Desligado,12094.95,13,5.0,3,Vale Refeição|Plano Odontológico|Stock Options|Vale Transporte|Home Office|Plano de Saúde|PLR
+FUNC-0260,Operações,Técnico de Operações Pl,Pleno,SC,Masculino,Pardo,CLT 44h,Presencial,2024-03-01,,,Ativo,3637.09,21,2.6,1,Stock Options|Home Office|Vale Transporte|Plano Odontológico
+FUNC-0261,Tecnologia,Desenvolvedor Frontend Jr,Júnior,SP,Masculino,Pardo,CLT 44h,Home Office,2017-01-12,2024-06-15,Pedido do colaborador,Ativo,5775.39,22,3.2,0,Home Office|Plano Odontológico|PLR
+FUNC-0262,Tecnologia,Tech Lead,Especialista,MG,Masculino,Branco,CLT 40h,Noturno,2024-03-03,,,Ativo,22892.87,17,4.5,0,Plano de Saúde|Vale Transporte|Home Office|Seguro de Vida|Auxílio Creche|Vale Refeição
+FUNC-0263,Comercial,Consultor de Vendas Sr,Sênior,RJ,Masculino,Não Informado,PJ,Híbrido,2021-02-01,,,Ativo,6881.56,48,4.3,0,Vale Refeição|Stock Options|Plano Odontológico|PLR|Home Office
+FUNC-0264,Operações,Operador de Produção,Júnior,RJ,Masculino,Amarelo,CLT 44h,Home Office,2019-01-28,2021-05-11,Desligamento sem justa causa,Desligado,2567.24,11,2.0,1,Vale Transporte|Home Office|Plano Odontológico
+FUNC-0265,Jurídico,Advogado Jr,Júnior,CE,Feminino,Branco,PJ,Presencial,2019-02-03,,,Ativo,5492.3,29,3.2,5,Home Office|Seguro de Vida|Auxílio Creche
+FUNC-0266,Operações,Operador de Produção,Júnior,GO,Masculino,Pardo,CLT 44h,Presencial,2019-10-09,2024-04-02,Pedido do colaborador,Desligado,2346.24,30,3.1,0,Vale Refeição|Seguro de Vida|Plano de Saúde
+FUNC-0267,Comercial,Coordenador Comercial,Especialista,SP,Feminino,Pardo,CLT 44h,Noturno,2021-07-13,2023-02-15,Pedido do colaborador,Desligado,12728.96,19,3.9,0,Plano de Saúde|Seguro de Vida|Vale Refeição|Vale Transporte|PLR|Plano Odontológico
+FUNC-0268,Tecnologia,Desenvolvedor Frontend Pl,Pleno,RJ,Masculino,Amarelo,CLT 44h,Híbrido,2022-11-24,2024-04-14,Pedido do colaborador,Desligado,8961.1,16,4.1,17,Vale Refeição|Gympass|Vale Transporte|Plano de Saúde
+FUNC-0269,Marketing,Assistente de Marketing,Júnior,SP,Masculino,Branco,CLT 40h,Híbrido,2019-08-23,,,Ativo,2881.26,17,3.5,2,Seguro de Vida|Stock Options|Plano Odontológico
+FUNC-0270,Financeiro,Analista Financeiro Sr,Sênior,SP,Masculino,Preto,PJ,Híbrido,2024-08-14,,,Ativo,,9,4.1,10,Vale Transporte|Vale Refeição|Home Office|Auxílio Creche|Seguro de Vida
+FUNC-0271,Comercial,Gerente Comercial,Gestão,RJ,Masculino,Pardo,CLT 40h,Noturno,2024-11-15,,,Ativo,18637.03,35,4.2,2,Plano Odontológico|Stock Options|PLR|Auxílio Creche|Vale Transporte|Seguro de Vida|Plano de Saúde
+FUNC-0272,Operações,Técnico de Operações Pl,Pleno,RS,Feminino,Branco,CLT 44h,Home Office,2018-03-09,2024-02-24,Pedido do colaborador,Desligado,3174.94,27,3.1,5,Vale Transporte|Home Office|Stock Options|Plano de Saúde
+FUNC-0273,RH,Analista de RH Pl,Pleno,PR,Masculino,Branco,CLT 40h,Presencial,2021-01-22,,,Ativo,4484.46,7,3.3,0,Stock Options|Plano Odontológico|Auxílio Creche|Seguro de Vida
+FUNC-0274,RH,HRBP Sr,Sênior,RJ,Feminino,Pardo,CLT 44h,Híbrido,2017-01-15,,,Ativo,13157.63,20,,0,Plano Odontológico|Vale Refeição|PLR|Seguro de Vida|Gympass
+FUNC-0275,Comercial,Assistente Comercial,Júnior,SP,Masculino,Pardo,CLT 44h,Presencial,2015-03-09,,,Ativo,2220.2,26,,6,Vale Transporte|Plano Odontológico|Plano de Saúde
+FUNC-0276,Financeiro,Assistente Financeiro,Júnior,RJ,Masculino,Pardo,CLT 44h,Presencial,2024-04-03,,,Ativo,2383.0,20,2.8,4,Vale Refeição|Gympass|Plano de Saúde
+FUNC-0277,Marketing,Designer Sr,Sênior,RJ,Masculino,Branco,CLT 40h,Presencial,2024-07-02,,,Ativo,8565.73,14,4.1,2,Gympass|Vale Transporte|Home Office|Vale Refeição|PLR
+FUNC-0278,RH,Assistente de RH,Júnior,PR,Feminino,Preto,CLT 44h,Presencial,2018-01-22,,,Ativo,2429.7,19,2.7,2,Auxílio Creche|Plano Odontológico|Vale Transporte
+FUNC-0279,Marketing,Analista de Marketing Pl,Pleno,PR,Masculino,Pardo,CLT 40h,Híbrido,2019-01-08,,,Ativo,4622.79,26,3.6,2,Auxílio Creche|Plano Odontológico|Plano de Saúde|Vale Transporte
+FUNC-0280,Logística,Gerente de Logística,Gestão,GO,Masculino,Branco,CLT 44h,Híbrido,2021-04-23,,,Ativo,19343.81,15,4.6,0,Gympass|PLR|Seguro de Vida|Auxílio Creche|Home Office|Plano de Saúde|Vale Refeição
+FUNC-0281,Marketing,Analista de Marketing Pl,Pleno,SP,Masculino,Branco,CLT 44h,Home Office,2017-08-08,,,Ativo,5689.83,18,3.6,4,Seguro de Vida|Home Office|Gympass|PLR
+FUNC-0282,Tecnologia,Desenvolvedor Frontend Pl,Pleno,RS,Masculino,Branco,CLT 44h,Híbrido,2023-07-15,,,Ativo,9736.74,29,3.8,4,Seguro de Vida|Stock Options|Home Office|PLR
+FUNC-0283,Logística,Gerente de Logística,Gestão,RS,Masculino,Pardo,CLT 40h,Híbrido,2022-03-02,,,Ativo,19206.58,18,4.8,0,Vale Refeição|Gympass|Vale Transporte|PLR|Seguro de Vida|Plano de Saúde|Plano Odontológico
+FUNC-0284,RH,Assistente de RH,Júnior,PR,Feminino,Pardo,CLT 44h,Híbrido,2015-11-22,2017-05-01,Desligamento por justa causa,Desligado,1840.57,11,2.9,2,Auxílio Creche|PLR|Plano de Saúde
+FUNC-0285,Comercial,Analista Comercial Pl,Pleno,BA,Feminino,Branco,CLT 44h,Presencial,2024-06-18,2024-10-19,Término de contrato,Desligado,4715.21,16,4.4,12,Plano de Saúde|Gympass|Home Office|Plano Odontológico
+FUNC-0286,Operações,Supervisor de Operações,Especialista,SP,Masculino,Não Informado,CLT 40h,Home Office,2016-10-11,,,Ativo,8496.3,6,3.6,7,Plano de Saúde|Seguro de Vida|Stock Options|Vale Transporte|Home Office|Auxílio Creche
+FUNC-0287,Operações,Supervisor de Operações,Especialista,SP,Masculino,Branco,CLT 40h,Híbrido,2019-10-09,,,Ativo,7355.11,8,5.0,2,Gympass|Seguro de Vida|Auxílio Creche|Plano de Saúde|Home Office|PLR
+FUNC-0288,Financeiro,Analista Financeiro Pl,Pleno,PE,Masculino,Pardo,CLT 44h,Híbrido,2023-09-19,,,Ativo,5276.96,47,2.6,0,Vale Refeição|Plano de Saúde|Stock Options|PLR
+FUNC-0289,Comercial,Analista Comercial Pl,Pleno,RJ,Masculino,Branco,CLT 40h,Híbrido,2018-09-22,,,Ativo,5807.22,10,2.8,4,Plano de Saúde|Stock Options|Vale Refeição|PLR
+FUNC-0290,Jurídico,Advogado Pl,Pleno,RJ,Masculino,Preto,CLT 44h,Presencial,2023-11-07,,,Ativo,7954.11,20,4.5,5,Vale Transporte|Seguro de Vida|Vale Refeição|PLR
+FUNC-0291,Tecnologia,Desenvolvedor Backend Sr,Sênior,RS,Masculino,Branco,PJ,Híbrido,2024-08-10,,,Ativo,17667.64,12,4.3,0,Home Office|Seguro de Vida|Stock Options|Auxílio Creche|Plano de Saúde
+FUNC-0292,Operações,Técnico de Operações Pl,Pleno,GO,Feminino,Não Informado,CLT 40h,Híbrido,2024-01-15,,,Ativo,3000.0,20,3.4,2,Plano Odontológico|Auxílio Creche|Seguro de Vida|Gympass
+FUNC-0293,Comercial,Gerente Comercial,Gestão,PR,Masculino,Amarelo,CLT 44h,Híbrido,2015-07-14,2017-03-31,Pedido do colaborador,Desligado,,64,4.7,3,Seguro de Vida|Vale Transporte|Plano Odontológico|PLR|Auxílio Creche|Gympass|Vale Refeição
+FUNC-0294,Comercial,Gerente Comercial,Gestão,CE,Masculino,Branco,CLT 44h,Home Office,2023-11-07,,,Ativo,17562.99,12,4.5,4,Plano de Saúde|Home Office|Vale Refeição|Seguro de Vida|Vale Transporte|Gympass|Plano Odontológico
+FUNC-0295,Logística,Analista de Logística Pl,Pleno,BA,Masculino,Amarelo,CLT 44h,Híbrido,2021-09-28,2024-06-15,Pedido do colaborador,Ativo,5350.78,19,3.7,2,Plano Odontológico|Stock Options|Home Office|Vale Transporte
+FUNC-0296,RH,Assistente de RH,Júnior,RS,Feminino,Branco,CLT 44h,Presencial,2022-03-09,2023-01-14,Desligamento sem justa causa,Desligado,2764.61,16,3.3,1,Vale Refeição|Seguro de Vida|Plano de Saúde
+FUNC-0297,Operações,Operador de Produção,Júnior,SP,Feminino,Branco,CLT 44h,Híbrido,2022-11-07,,,Ativo,3000.0,30,3.1,5,Plano Odontológico|Gympass|PLR
+FUNC-0298,Logística,Assistente de Logística,Júnior,PE,Masculino,Branco,CLT 44h,Presencial,2016-10-22,,,Ativo,2642.22,16,2.9,2,Plano Odontológico|Stock Options|Seguro de Vida
+FUNC-0299,Financeiro,Analista Financeiro Sr,Sênior,CE,Masculino,Preto,CLT 40h,Presencial,2020-06-10,2021-11-29,Desligamento sem justa causa,Desligado,8864.7,9,4.3,12,PLR|Home Office|Stock Options|Auxílio Creche|Gympass
+FUNC-0300,Financeiro,Gerente Financeiro,Gestão,RJ,Masculino,Pardo,CLT 40h,Home Office,2017-02-03,2021-08-21,Término de contrato,Desligado,22219.86,29,4.7,1,PLR|Seguro de Vida|Stock Options|Home Office|Auxílio Creche|Plano Odontológico|Vale Transporte
+FUNC-0301,Financeiro,Coordenador Financeiro,Especialista,MG,Masculino,Preto,CLT 40h,Híbrido,2021-07-23,,,Ativo,12962.99,13,3.5,2,Vale Refeição|Plano de Saúde|Seguro de Vida|Home Office|Plano Odontológico|Stock Options
+FUNC-0302,RH,Analista de RH Sr,Sênior,RJ,Feminino,Pardo,PJ,Híbrido,2020-02-04,2024-10-29,Término de contrato,Desligado,8262.11,16,4.2,0,Home Office|Auxílio Creche|Gympass|Plano de Saúde|Stock Options
+FUNC-0303,Jurídico,Advogado Jr,Júnior,MG,Feminino,Pardo,CLT 44h,Híbrido,2021-04-13,,,Ativo,5220.47,16,2.1,4,Vale Transporte|Seguro de Vida|Vale Refeição
+FUNC-0304,Comercial,Analista Comercial Pl,Pleno,SC,Masculino,Pardo,CLT 44h,Presencial,2015-02-02,,,Ativo,4342.7,17,3.0,3,Plano Odontológico|Vale Refeição|PLR|Plano de Saúde
+FUNC-0305,Tecnologia,Tech Lead,Especialista,GO,Masculino,Branco,PJ,Híbrido,2021-12-25,,,Ativo,18322.86,41,3.6,0,PLR|Auxílio Creche|Vale Transporte|Seguro de Vida|Stock Options|Home Office
+FUNC-0306,RH,Gerente de RH,Gestão,SP,Masculino,Branco,CLT 40h,Híbrido,2015-09-21,2021-02-28,Pedido do colaborador,Desligado,24125.69,31,4.3,6,Plano Odontológico|Seguro de Vida|Vale Transporte|PLR|Auxílio Creche|Plano de Saúde|Stock Options
+FUNC-0307,Financeiro,Analista Financeiro Pl,Pleno,MG,Masculino,Pardo,CLT 44h,Híbrido,2024-02-05,,,Ativo,7242.01,52,2.9,1,Vale Refeição|Home Office|Auxílio Creche|Plano Odontológico
+FUNC-0308,Financeiro,Assistente Financeiro,Júnior,RS,Feminino,Pardo,CLT 44h,Presencial,2017-01-26,,,Ativo,2904.23,43,2.6,1,PLR|Plano de Saúde|Vale Refeição
+FUNC-0309,RH,Gerente de RH,Gestão,PR,Feminino,Preto,CLT 44h,Noturno,2020-09-07,,,Ativo,18895.23,13,4.0,4,Auxílio Creche|Plano de Saúde|Seguro de Vida|Plano Odontológico|Vale Transporte|Stock Options|Home Office
+FUNC-0310,Marketing,Coordenador de Marketing,Especialista,SC,Não Informado,Pardo,CLT 40h,Híbrido,2019-09-09,,,Ativo,8741.84,10,,3,Stock Options|Home Office|Gympass|PLR|Vale Refeição|Plano Odontológico
+FUNC-0311,Logística,Coordenador de Logística,Especialista,SP,Feminino,Pardo,CLT 40h,Home Office,2024-07-14,,,Ativo,8272.43,95,4.8,11,Vale Transporte|PLR|Home Office|Seguro de Vida|Plano de Saúde|Vale Refeição
+FUNC-0312,Operações,Técnico de Operações Pl,Pleno,SP,Masculino,Pardo,CLT 44h,Home Office,2018-08-09,,,Ativo,4182.68,8,3.5,0,Stock Options|Auxílio Creche|PLR|Home Office
+FUNC-0313,RH,Coordenador de RH,Especialista,PR,Masculino,Preto,CLT 44h,Presencial,2020-12-16,,,Ativo,12370.4,31,5.0,1,Auxílio Creche|Stock Options|Plano de Saúde|Home Office|Seguro de Vida|Plano Odontológico
+FUNC-0314,Jurídico,Advogado Jr,Júnior,MG,Masculino,Branco,CLT 40h,Híbrido,2016-10-02,2023-09-26,Desligamento sem justa causa,Desligado,6104.66,34,3.5,0,Seguro de Vida|Plano de Saúde|Stock Options
+FUNC-0315,Operações,Supervisor de Operações,Especialista,RS,Feminino,Branco,CLT 44h,Presencial,2017-11-08,,,Ativo,10674.8,38,4.1,3,Auxílio Creche|Gympass|Vale Transporte|Seguro de Vida|Plano Odontológico|Stock Options
+FUNC-0316,Operações,Gerente de Operações,Gestão,SP,Masculino,Pardo,PJ,Presencial,2019-01-13,2024-06-22,Desligamento sem justa causa,Desligado,15923.66,6,3.7,0,Gympass|Plano de Saúde|Vale Transporte|Auxílio Creche|Stock Options|Plano Odontológico|Home Office
+FUNC-0317,Jurídico,Advogado Sr,Sênior,RJ,Feminino,Pardo,CLT 44h,Presencial,2016-07-19,2020-08-21,Término de contrato,Desligado,14126.59,16,2.8,0,Auxílio Creche|Gympass|Seguro de Vida|Plano Odontológico|Stock Options
+FUNC-0318,RH,Analista de RH Pl,Pleno,SP,Masculino,Branco,PJ,Híbrido,2019-08-19,,,Ativo,5285.62,12,4.6,2,Home Office|Plano Odontológico|Plano de Saúde|Auxílio Creche
+FUNC-0319,Tecnologia,Desenvolvedor Backend Pl,Pleno,SP,Feminino,Pardo,CLT 44h,Híbrido,2022-06-07,,,Ativo,10363.73,16,3.7,0,Vale Transporte|Gympass|Auxílio Creche|Home Office
+FUNC-0320,Operações,Supervisor de Operações,Especialista,SP,Masculino,Branco,PJ,Home Office,2024-04-19,,,Ativo,8587.1,8,4.7,0,Auxílio Creche|Stock Options|Plano de Saúde|Vale Refeição|Gympass|Vale Transporte
+FUNC-0321,Logística,Gerente de Logística,Gestão,SP,Masculino,Branco,CLT 40h,Híbrido,2022-09-11,,,Ativo,18108.49,22,2.7,5,PLR|Vale Transporte|Gympass|Home Office|Stock Options|Plano Odontológico|Plano de Saúde
+FUNC-0322,Jurídico,Estagiário Jurídico,Estagiário,SP,Masculino,Branco,Estágio,Híbrido,2021-05-12,,,Ativo,1710.46,18,4.3,5,Seguro de Vida|Auxílio Creche
+FUNC-0323,Comercial,Assistente Comercial,Júnior,SP,Masculino,Pardo,CLT 44h,Híbrido,2023-02-17,,,Ativo,,37,3.8,0,Vale Refeição|Plano Odontológico|PLR
+FUNC-0324,Tecnologia,Analista de Dados Sr,Sênior,SP,Feminino,Branco,CLT 40h,Híbrido,2023-10-19,,,Ativo,12593.6,18,4.2,6,Plano Odontológico|Vale Refeição|Home Office|Gympass|Vale Transporte
+FUNC-0325,Logística,Analista de Logística Pl,Pleno,SP,Masculino,Branco,CLT 40h,Presencial,2019-01-21,2022-10-05,Pedido do colaborador,Desligado,4579.08,20,3.6,3,PLR|Seguro de Vida|Vale Transporte|Stock Options
+FUNC-0326,RH,Gerente de RH,Gestão,MG,Masculino,Não Informado,CLT 40h,Home Office,2023-09-27,,,Ativo,23429.28,38,3.5,3,Seguro de Vida|Vale Refeição|Vale Transporte|Gympass|Auxílio Creche|Home Office|Plano Odontológico
+FUNC-0327,Tecnologia,Desenvolvedor Frontend Pl,Pleno,RJ,Feminino,Branco,CLT 44h,Presencial,2024-01-08,2024-06-15,Pedido do colaborador,Ativo,9444.21,31,4.0,1,Seguro de Vida|Auxílio Creche|Plano Odontológico|Plano de Saúde
+FUNC-0328,Operações,Operador de Produção,Júnior,SP,Masculino,Preto,PJ,Híbrido,2016-01-02,,,Ativo,2192.67,28,3.6,0,Vale Transporte|PLR|Home Office
+FUNC-0329,Comercial,Assistente Comercial,Júnior,PE,Feminino,Pardo,CLT 40h,Híbrido,2016-07-16,2017-07-15,Pedido do colaborador,Desligado,3144.85,14,3.8,4,Vale Refeição|Vale Transporte|Stock Options
+FUNC-0330,Marketing,Analista de Marketing Pl,Pleno,SP,Feminino,Branco,CLT 44h,Noturno,2017-10-14,,,Ativo,5754.03,19,4.2,2,Home Office|Plano de Saúde|Vale Refeição|Vale Transporte
+FUNC-0331,Tecnologia,Desenvolvedor Frontend Sr,Sênior,SC,Feminino,Branco,CLT 40h,Híbrido,2024-09-04,,,Ativo,18948.02,29,4.2,0,Vale Transporte|Gympass|Seguro de Vida|PLR|Home Office
+FUNC-0332,Marketing,Coordenador de Marketing,Especialista,MG,Feminino,Pardo,CLT 40h,Híbrido,2024-07-07,,,Ativo,11920.45,29,4.2,5,Plano de Saúde|Seguro de Vida|Stock Options|Gympass|PLR|Home Office
+FUNC-0333,Logística,Analista de Logística Pl,Pleno,RS,Masculino,Branco,CLT 40h,Híbrido,2020-07-02,,,Ativo,5618.13,40,3.3,2,Stock Options|Home Office|Plano Odontológico|Seguro de Vida
+FUNC-0334,Logística,Analista de Logística Pl,Pleno,RJ,Masculino,Branco,CLT 40h,Híbrido,,,,Ativo,4713.58,27,4.5,3,Seguro de Vida|Gympass|Home Office|Plano de Saúde
+FUNC-0335,Tecnologia,Desenvolvedor Backend Sr,Sênior,RS,Feminino,Não Informado,CLT 40h,Home Office,2020-09-09,,,Ativo,17621.69,30,3.6,0,Vale Refeição|PLR|Gympass|Stock Options|Vale Transporte
+FUNC-0336,Comercial,Analista Comercial Pl,Pleno,PR,Feminino,Branco,CLT 40h,Híbrido,2016-02-16,2017-11-04,Desligamento sem justa causa,Desligado,5347.86,17,3.1,4,Home Office|Gympass|PLR|Vale Transporte
+FUNC-0337,Comercial,Diretor Comercial,Diretoria,SP,Masculino,Branco,PJ,Home Office,2024-11-11,2024-12-31,Desligamento sem justa causa,Desligado,34692.88,9,3.8,4,Vale Transporte|Auxílio Creche|Gympass|Plano Odontológico|Home Office|PLR|Plano de Saúde|Vale Refeição
+FUNC-0338,Financeiro,Assistente Financeiro,Júnior,BA,Feminino,Branco,CLT 44h,Presencial,2019-01-02,,,Ativo,2826.84,39,3.4,0,Auxílio Creche|Plano Odontológico|Gympass
+FUNC-0339,Tecnologia,Desenvolvedor Frontend Sr,Sênior,SC,Masculino,Pardo,CLT 40h,Presencial,2023-11-04,2024-07-17,Proposta externa,Desligado,17605.43,37,4.0,1,Home Office|Gympass|PLR|Plano de Saúde|Vale Refeição
+FUNC-0340,Jurídico,Estagiário Jurídico,Estagiário,CE,Masculino,Preto,Estágio,Home Office,2018-07-13,,,Ativo,1604.28,9,2.8,2,Stock Options|Gympass
+FUNC-0341,Comercial,Coordenador Comercial,Especialista,RJ,Não Informado,Branco,PJ,Presencial,2020-03-20,2023-10-28,Desligamento sem justa causa,Desligado,12346.04,52,3.4,1,Gympass|Home Office|Vale Transporte|Plano de Saúde|Plano Odontológico|Stock Options
+FUNC-0342,Operações,Operador de Produção,Júnior,GO,Masculino,Branco,CLT 44h,Home Office,2020-06-23,2022-10-15,Término de contrato,Desligado,1985.17,22,3.0,1,Home Office|Vale Transporte|Seguro de Vida
+FUNC-0343,Comercial,Analista Comercial Pl,Pleno,SP,Masculino,Preto,CLT 44h,Noturno,2022-07-09,2023-01-01,Pedido do colaborador,Desligado,6030.77,55,3.3,2,Seguro de Vida|Plano de Saúde|Auxílio Creche|Home Office
+FUNC-0344,Marketing,Analista de Marketing Pl,Pleno,RJ,Feminino,Branco,CLT 44h,Presencial,2020-02-22,2023-05-15,Desligamento sem justa causa,Desligado,5675.05,16,2.4,12,Home Office|Plano de Saúde|Seguro de Vida|PLR
+FUNC-0345,Operações,Operador de Produção,Júnior,SP,Feminino,Pardo,CLT 44h,Presencial,2022-07-16,,,Ativo,2391.77,14,3.0,0,Stock Options|Plano de Saúde|Auxílio Creche
+FUNC-0346,Operações,Coordenador de Operações,Especialista,SP,Feminino,Pardo,PJ,Híbrido,2023-01-09,2023-10-31,Desligamento sem justa causa,Desligado,9845.68,12,3.9,3,Auxílio Creche|Plano Odontológico|Home Office|Seguro de Vida|Plano de Saúde|Gympass
+FUNC-0347,Tecnologia,Analista de Dados Pl,Pleno,MG,Feminino,Branco,PJ,Híbrido,2016-12-03,,,Ativo,,21,4.9,0,Gympass|Vale Transporte|Plano de Saúde|PLR
+FUNC-0348,Logística,Assistente de Logística,Júnior,RS,Masculino,Branco,CLT 44h,Híbrido,2024-06-08,,,Ativo,2624.9,14,3.5,2,Seguro de Vida|Vale Refeição|Plano de Saúde
+FUNC-0349,Comercial,Assistente Comercial,Júnior,SP,Feminino,Branco,CLT 40h,Presencial,2017-04-09,2018-06-30,Desligamento sem justa causa,Desligado,2170.87,12,3.8,4,Vale Refeição|Auxílio Creche|Gympass
+FUNC-0350,Comercial,Assistente Comercial,Júnior,PE,Feminino,Pardo,CLT 44h,Híbrido,2024-02-23,,,Ativo,2117.04,24,3.2,18,Plano Odontológico|Auxílio Creche|Gympass
+FUNC-0351,Comercial,Gerente Comercial,Gestão,MG,Masculino,Branco,PJ,Presencial,2015-01-15,,,Ativo,16133.02,18,3.6,0,Seguro de Vida|PLR|Plano Odontológico|Vale Transporte|Plano de Saúde|Home Office|Gympass
+FUNC-0352,Tecnologia,Desenvolvedor Frontend Sr,Sênior,RJ,Masculino,Não Informado,CLT 40h,Híbrido,2018-12-21,,,Ativo,17630.35,21,4.3,0,Vale Transporte|Gympass|Stock Options|Plano de Saúde|Seguro de Vida
+FUNC-0353,Tecnologia,Desenvolvedor Backend Pl,Pleno,MG,Feminino,Branco,CLT 40h,Híbrido,2023-11-10,,,Ativo,10396.98,6,3.9,3,Plano de Saúde|Auxílio Creche|Gympass|Seguro de Vida
+FUNC-0354,Jurídico,Advogado Sr,Sênior,RS,Feminino,Pardo,CLT 40h,Presencial,2022-12-07,,,Ativo,14788.28,40,3.1,1,Plano de Saúde|Seguro de Vida|Plano Odontológico|Stock Options|Home Office
+FUNC-0355,Financeiro,Assistente Financeiro,Júnior,SP,Feminino,Branco,PJ,Híbrido,2021-07-15,,,Ativo,2980.47,15,2.9,7,Home Office|Vale Refeição|Vale Transporte
+FUNC-0356,RH,Analista de RH Pl,Pleno,BA,Masculino,Pardo,CLT 44h,Híbrido,2018-07-21,2019-12-20,Desligamento sem justa causa,Desligado,6551.59,28,3.5,0,Gympass|Plano de Saúde|Auxílio Creche|Home Office
+FUNC-0357,Marketing,Coordenador de Marketing,Especialista,SP,Feminino,Amarelo,CLT 44h,Presencial,2018-03-09,2019-05-26,Pedido do colaborador,Desligado,11809.8,34,4.0,2,Plano Odontológico|PLR|Vale Transporte|Stock Options|Home Office|Vale Refeição
+FUNC-0358,Tecnologia,Desenvolvedor Frontend Sr,Sênior,RJ,Masculino,Branco,CLT 40h,Noturno,2018-05-11,,,Ativo,12597.9,23,,5,PLR|Plano Odontológico|Gympass|Stock Options|Vale Refeição
+FUNC-0359,Operações,Supervisor de Operações,Especialista,PR,Feminino,Pardo,CLT 40h,Presencial,2021-09-09,2024-03-19,Término de contrato,Desligado,12000.0,29,4.2,0,Auxílio Creche|Plano Odontológico|Vale Transporte|Vale Refeição|Seguro de Vida|Plano de Saúde
+FUNC-0360,Jurídico,Advogado Jr,Júnior,SP,Masculino,Pardo,CLT 40h,Noturno,2017-02-27,2020-10-08,Desligamento sem justa causa,Desligado,4922.15,29,2.8,4,Plano de Saúde|PLR|Vale Refeição
+FUNC-0361,Operações,Operador de Produção,Júnior,RJ,Masculino,Pardo,CLT 40h,Presencial,2019-01-22,2019-10-15,Desligamento por justa causa,Desligado,2054.7,9,2.9,6,Vale Transporte|Gympass|Vale Refeição
+FUNC-0362,Marketing,Gerente de Marketing,Gestão,PR,Feminino,Pardo,CLT 40h,Noturno,2023-11-04,,,Ativo,20057.89,18,4.8,0,PLR|Vale Transporte|Auxílio Creche|Stock Options|Plano Odontológico|Home Office|Plano de Saúde
+FUNC-0363,Financeiro,Analista Financeiro Sr,Sênior,RJ,Feminino,Pardo,CLT 40h,Híbrido,2024-07-21,,,Ativo,8793.58,11,4.1,0,Gympass|Seguro de Vida|Plano de Saúde|Auxílio Creche|PLR
+FUNC-0364,Tecnologia,Desenvolvedor Backend Pl,Pleno,SP,Feminino,Branco,PJ,Presencial,2015-01-20,,,Ativo,6184.93,17,3.2,0,Auxílio Creche|Home Office|Vale Transporte|Vale Refeição
+FUNC-0365,Logística,Assistente de Logística,Júnior,RJ,Feminino,Branco,CLT 44h,Presencial,2020-01-16,2020-06-09,Pedido do colaborador,Desligado,2026.48,28,3.2,10,Stock Options|Vale Transporte|Plano de Saúde
+FUNC-0366,Comercial,Gerente Comercial,Gestão,RJ,Feminino,Branco,PJ,Presencial,2024-07-04,,,Ativo,18796.12,14,4.3,0,Vale Refeição|Vale Transporte|Stock Options|Plano Odontológico|Auxílio Creche|Gympass|Home Office
+FUNC-0367,RH,HRBP Sr,Sênior,SP,Masculino,Branco,CLT 44h,Home Office,2020-04-19,2023-08-19,Pedido do colaborador,Desligado,13777.6,9,3.6,0,Plano Odontológico|Seguro de Vida|Vale Transporte|Plano de Saúde|Gympass
+FUNC-0368,Marketing,Analista de Marketing Pl,Pleno,RJ,Masculino,Amarelo,PJ,Noturno,2021-07-20,,,Ativo,4108.19,35,3.3,0,Gympass|Plano Odontológico|Plano de Saúde|Auxílio Creche
+FUNC-0369,Operações,Supervisor de Operações,Especialista,MG,Masculino,Preto,PJ,Presencial,2017-03-20,,,Ativo,8199.25,30,3.7,1,Vale Transporte|Plano de Saúde|Home Office|Seguro de Vida|PLR|Gympass
+FUNC-0370,Operações,Operador de Produção,Júnior,SP,Feminino,Branco,PJ,Presencial,2020-05-23,,,Ativo,2482.14,26,3.4,0,Auxílio Creche|PLR|Stock Options
+FUNC-0371,Tecnologia,Tech Lead,Especialista,CE,Feminino,Não Informado,CLT 40h,Home Office,2021-10-08,,,Ativo,23850.47,4,4.7,1,Gympass|Home Office|Stock Options|Plano de Saúde|PLR|Auxílio Creche
+FUNC-0372,Comercial,Coordenador Comercial,Especialista,SC,Feminino,Pardo,CLT 40h,Híbrido,2017-02-19,,,Ativo,9606.7,42,4.4,4,Stock Options|Plano de Saúde|Auxílio Creche|Seguro de Vida|Gympass|Vale Transporte
+FUNC-0373,Logística,Coordenador de Logística,Especialista,CE,Masculino,Branco,CLT 40h,Noturno,2018-11-14,2024-05-06,Pedido do colaborador,Desligado,8831.23,20,4.4,2,Plano Odontológico|PLR|Gympass|Vale Transporte|Vale Refeição|Home Office
+FUNC-0374,Tecnologia,Desenvolvedor Frontend Sr,Sênior,MG,Masculino,Branco,CLT 40h,Híbrido,2019-12-12,,,Ativo,15229.46,40,3.4,1,Auxílio Creche|Vale Refeição|Home Office|Gympass|Vale Transporte
+FUNC-0375,Marketing,Assistente de Marketing,Júnior,MG,Masculino,Branco,CLT 44h,Presencial,2018-09-19,,,Ativo,2200.58,11,2.9,1,Gympass|Seguro de Vida|Vale Refeição
+FUNC-0376,Logística,Analista de Logística Pl,Pleno,SP,Masculino,Pardo,CLT 44h,Home Office,2024-08-22,,,Ativo,3823.07,11,3.0,1,Home Office|Auxílio Creche|Stock Options|PLR
+FUNC-0377,RH,Coordenador de RH,Especialista,PR,Masculino,Branco,CLT 40h,Híbrido,2023-08-23,2024-01-29,Pedido do colaborador,Desligado,10036.32,19,3.8,0,Home Office|Vale Refeição|Plano de Saúde|PLR|Stock Options|Vale Transporte
+FUNC-0378,Financeiro,Assistente Financeiro,Júnior,SP,Feminino,Pardo,CLT 40h,Híbrido,2021-01-08,,,Ativo,,18,2.9,1,Plano Odontológico|Seguro de Vida|Gympass
+FUNC-0379,Operações,Técnico de Operações Pl,Pleno,SP,Feminino,Branco,CLT 40h,Híbrido,2015-10-14,2019-10-17,Término de contrato,Desligado,5187.8,21,4.6,4,Home Office|Auxílio Creche|Seguro de Vida|PLR
+FUNC-0380,Tecnologia,Desenvolvedor Backend Sr,Sênior,RJ,Feminino,Pardo,CLT 40h,Home Office,2020-12-16,,,Ativo,18125.91,48,4.0,2,PLR|Vale Transporte|Home Office|Seguro de Vida|Plano Odontológico
+FUNC-0381,Marketing,Designer Sr,Sênior,SP,Feminino,Preto,PJ,Presencial,2024-09-02,,,Ativo,8577.85,17,3.1,0,Home Office|Plano Odontológico|Seguro de Vida|Gympass|Stock Options
+FUNC-0382,Comercial,Analista Comercial Pl,Pleno,BA,Feminino,Branco,CLT 40h,Híbrido,2021-11-19,2022-04-17,Pedido do colaborador,Desligado,5170.95,12,3.9,2,Auxílio Creche|Plano de Saúde|Home Office|Stock Options
+FUNC-0383,Operações,Técnico de Operações Pl,Pleno,PR,Feminino,Branco,CLT 44h,Presencial,2019-11-02,,,Ativo,5669.93,4,3.5,0,PLR|Plano Odontológico|Seguro de Vida|Gympass
+FUNC-0384,RH,Gerente de RH,Gestão,BA,Feminino,Branco,PJ,Híbrido,2021-05-12,2024-02-14,Pedido do colaborador,Desligado,19478.77,8,5.0,2,Seguro de Vida|Vale Refeição|Gympass|PLR|Plano Odontológico|Stock Options|Home Office
+FUNC-0385,Tecnologia,Analista de Dados Pl,Pleno,RJ,Feminino,Amarelo,CLT 40h,Home Office,2016-04-05,2019-11-29,Proposta externa,Desligado,8367.82,20,4.7,0,Plano de Saúde|Home Office|Vale Transporte|Stock Options
+FUNC-0386,Jurídico,Advogado Jr,Júnior,RJ,Feminino,Branco,CLT 44h,Home Office,2024-03-25,,,Ativo,5378.65,60,3.5,5,Seguro de Vida|Plano de Saúde|Stock Options
+FUNC-0387,Comercial,Consultor de Vendas Sr,Sênior,PR,Feminino,Pardo,PJ,Híbrido,2019-03-18,2022-11-25,Desligamento sem justa causa,Desligado,9340.96,27,4.1,5,Vale Transporte|Plano Odontológico|Gympass|PLR|Vale Refeição
+FUNC-0388,Comercial,Assistente Comercial,Júnior,SP,Feminino,Pardo,CLT 44h,Presencial,2024-02-04,2024-08-14,Desligamento sem justa causa,Desligado,2245.24,24,2.9,2,Vale Refeição|Vale Transporte|PLR
+FUNC-0389,Tecnologia,Desenvolvedor Backend Pl,Pleno,RS,Feminino,Branco,CLT 44h,Híbrido,2020-01-11,2023-07-27,Desligamento sem justa causa,Desligado,9464.04,30,3.3,7,Plano de Saúde|PLR|Vale Transporte|Auxílio Creche
+FUNC-0390,Financeiro,Analista Financeiro Pl,Pleno,SP,Masculino,Pardo,CLT 44h,Híbrido,2018-11-26,,,Ativo,6385.07,19,2.5,3,Vale Transporte|Home Office|Auxílio Creche|Gympass
+FUNC-0391,Financeiro,Analista Financeiro Pl,Pleno,MG,Masculino,Branco,CLT 44h,Híbrido,2023-08-17,,,Ativo,7438.29,9,4.2,0,Seguro de Vida|PLR|Vale Transporte|Gympass
+FUNC-0392,Operações,Supervisor de Operações,Especialista,PE,Feminino,Branco,CLT 40h,Híbrido,2021-04-15,,,Ativo,10343.86,8,4.0,0,Auxílio Creche|Home Office|Plano de Saúde|Vale Transporte|Stock Options|Gympass
+FUNC-0393,Jurídico,Advogado Jr,Júnior,CE,Masculino,Preto,PJ,Híbrido,2024-05-27,,,Ativo,5287.17,15,3.1,6,Vale Transporte|Auxílio Creche|Plano Odontológico
+FUNC-0394,Comercial,Assistente Comercial,Júnior,RJ,Feminino,Pardo,CLT 44h,Híbrido,2021-06-13,2022-01-29,Desligamento por baixa performance,Desligado,2637.45,42,3.3,2,PLR|Seguro de Vida|Auxílio Creche
+FUNC-0395,Operações,Operador de Produção,Júnior,RS,Masculino,Não Informado,CLT 44h,Híbrido,2019-05-16,,,Ativo,2039.91,23,3.9,2,Plano de Saúde|Vale Refeição|Seguro de Vida
+FUNC-0396,Comercial,Assistente Comercial,Júnior,SP,Masculino,Branco,CLT 44h,Presencial,2024-05-03,2024-08-17,Desligamento por baixa performance,Desligado,2309.56,26,3.4,13,Plano de Saúde|Stock Options|Gympass
+FUNC-0397,Comercial,Assistente Comercial,Júnior,RJ,Masculino,Branco,CLT 44h,Presencial,2016-04-28,,,Ativo,2853.33,41,2.9,3,Plano de Saúde|Home Office|Auxílio Creche
+FUNC-0398,Tecnologia,Desenvolvedor Frontend Sr,Sênior,PE,Feminino,Pardo,CLT 40h,Home Office,2017-09-26,2024-04-13,Pedido do colaborador,Desligado,14872.92,11,3.5,5,Gympass|Stock Options|Plano Odontológico|Seguro de Vida|Vale Refeição
+FUNC-0399,RH,Analista de RH Pl,Pleno,RS,Masculino,Branco,CLT 40h,Presencial,2023-06-21,,,Ativo,5773.27,11,3.4,3,Seguro de Vida|Stock Options|Home Office|Gympass
+FUNC-0400,Comercial,Consultor de Vendas Sr,Sênior,PE,Masculino,Preto,CLT 40h,Híbrido,2022-09-19,,,Ativo,7055.65,26,4.2,3,Seguro de Vida|Home Office|Plano Odontológico|Stock Options|Auxílio Creche
+FUNC-0401,RH,HRBP Sr,Sênior,MG,Masculino,Preto,CLT 40h,Híbrido,2018-06-01,,,Ativo,11715.94,21,3.6,9,Auxílio Creche|Plano Odontológico|Gympass|Home Office|Stock Options
+FUNC-0402,RH,HRBP Sr,Sênior,SP,Masculino,Branco,PJ,Presencial,2016-04-24,2018-03-16,Pedido do colaborador,Desligado,11782.39,24,4.7,9,Auxílio Creche|Plano de Saúde|Vale Transporte|Stock Options|PLR
+FUNC-0403,Marketing,Analista de Marketing Pl,Pleno,RS,Masculino,Amarelo,CLT 40h,Presencial,2023-08-18,,,Ativo,5613.04,22,2.6,1,Plano Odontológico|Seguro de Vida|Auxílio Creche|PLR
+FUNC-0404,Financeiro,Coordenador Financeiro,Especialista,SP,Feminino,Branco,CLT 40h,Presencial,2015-11-09,2020-03-13,Pedido do colaborador,Desligado,9631.19,36,2.7,1,Plano de Saúde|PLR|Gympass|Vale Refeição|Home Office|Plano Odontológico
+FUNC-0405,Financeiro,Analista Financeiro Pl,Pleno,MG,Feminino,Branco,CLT 44h,Híbrido,2020-08-09,,,Ativo,5863.55,7,3.0,2,Auxílio Creche|Vale Transporte|Plano Odontológico|Stock Options
+FUNC-0406,Jurídico,Estagiário Jurídico,Estagiário,PR,Masculino,Pardo,Estágio,Presencial,2024-05-16,,,Ativo,1709.38,16,3.1,5,Plano Odontológico|PLR
+FUNC-0407,RH,Analista de RH Pl,Pleno,SP,Masculino,Branco,CLT 44h,Híbrido,2019-06-17,,,Ativo,5253.94,12,4.0,0,PLR|Plano de Saúde|Gympass|Vale Transporte
+FUNC-0408,RH,Analista de RH Pl,Pleno,SP,Masculino,Preto,CLT 40h,Presencial,2018-09-01,,,Ativo,4530.72,83,4.4,2,Stock Options|Auxílio Creche|Vale Transporte|Seguro de Vida
+FUNC-0409,Marketing,Coordenador de Marketing,Especialista,PR,Feminino,Branco,CLT 40h,Presencial,2024-01-26,,,Ativo,10062.82,9,3.6,0,Stock Options|Vale Refeição|Gympass|Seguro de Vida|Plano Odontológico|PLR
+FUNC-0410,Financeiro,Coordenador Financeiro,Especialista,RJ,Feminino,Branco,CLT 44h,Noturno,2021-01-28,2024-08-01,Desligamento sem justa causa,Desligado,10761.59,61,3.6,2,Vale Transporte|Stock Options|Vale Refeição|Gympass|Auxílio Creche|Home Office
+FUNC-0411,RH,Analista de RH Sr,Sênior,PE,Feminino,Branco,CLT 44h,Híbrido,2024-05-19,,,Ativo,11000.0,26,4.1,11,Plano Odontológico|Auxílio Creche|Plano de Saúde|Vale Refeição|Seguro de Vida
+FUNC-0412,Operações,Técnico de Operações Pl,Pleno,SP,Masculino,Não Informado,PJ,Home Office,2015-05-02,,,Ativo,,56,3.6,2,Auxílio Creche|Vale Refeição|PLR|Seguro de Vida
+FUNC-0413,Tecnologia,Analista de Dados Pl,Pleno,SP,Feminino,Branco,PJ,Home Office,2024-07-14,,,Ativo,5500.0,41,3.8,0,Vale Transporte|Stock Options|Plano de Saúde|Gympass
+FUNC-0414,Comercial,Assistente Comercial,Júnior,RJ,Masculino,Branco,CLT 40h,Híbrido,2020-01-16,,,Ativo,1883.03,23,3.4,3,Plano Odontológico|PLR|Gympass
+FUNC-0415,Marketing,Designer Sr,Sênior,SP,Feminino,Pardo,CLT 40h,Presencial,2021-01-18,,,Ativo,9247.97,23,4.4,4,Vale Transporte|Auxílio Creche|Seguro de Vida|Home Office|Gympass
+FUNC-0416,Marketing,Analista de Marketing Pl,Pleno,MG,Feminino,Pardo,CLT 44h,Presencial,2022-07-16,,,Ativo,6089.6,8,1.9,0,Seguro de Vida|PLR|Stock Options|Vale Refeição
+FUNC-0417,Financeiro,Analista Financeiro Sr,Sênior,RJ,Masculino,Branco,CLT 40h,Presencial,2020-12-03,,,Ativo,10133.01,18,3.7,2,Vale Transporte|Seguro de Vida|Vale Refeição|Auxílio Creche|Gympass
+FUNC-0418,Tecnologia,Analista de Dados Sr,Sênior,PE,Masculino,Pardo,CLT 40h,Presencial,2019-01-08,,,Ativo,12286.43,61,4.1,0,Home Office|Auxílio Creche|PLR|Vale Refeição|Vale Transporte
+FUNC-0419,Tecnologia,Analista de Dados Pl,Pleno,BA,Masculino,Branco,CLT 40h,Presencial,2024-09-26,,,Ativo,6682.64,20,3.6,3,Home Office|Auxílio Creche|Plano de Saúde|Vale Refeição
+FUNC-0420,Operações,Operador de Produção,Júnior,RJ,Masculino,Pardo,CLT 44h,Presencial,2024-07-15,,,Ativo,2642.85,23,3.4,3,Home Office|Plano de Saúde|Seguro de Vida
+FUNC-0421,Logística,Coordenador de Logística,Especialista,SP,Feminino,Branco,CLT 40h,Híbrido,2018-12-06,,,Ativo,9111.31,19,3.9,5,Plano de Saúde|Gympass|Auxílio Creche|Stock Options|Home Office|Seguro de Vida
+FUNC-0422,Jurídico,Advogado Pl,Pleno,RJ,Feminino,Branco,CLT 40h,Híbrido,2023-03-20,2023-12-31,Desligamento sem justa causa,Desligado,7417.05,22,3.6,4,Plano de Saúde|PLR|Gympass|Plano Odontológico
+FUNC-0423,Jurídico,Gerente Jurídico,Gestão,SP,Masculino,Branco,CLT 40h,Presencial,2024-08-06,,,Ativo,26283.72,8,3.2,2,Plano de Saúde|Auxílio Creche|Seguro de Vida|Home Office|Plano Odontológico|Gympass|Vale Transporte
+FUNC-0424,Tecnologia,Desenvolvedor Frontend Pl,Pleno,CE,Feminino,Branco,CLT 44h,Presencial,2022-09-06,2023-08-28,Pedido do colaborador,Desligado,8106.37,18,3.4,3,Home Office|Seguro de Vida|Plano Odontológico|Plano de Saúde
+FUNC-0425,Marketing,Coordenador de Marketing,Especialista,RS,Feminino,Branco,CLT 40h,Híbrido,2023-07-22,2023-11-11,Pedido do colaborador,Desligado,10498.95,8,2.9,1,PLR|Plano Odontológico|Stock Options|Home Office|Gympass|Plano de Saúde
+FUNC-0426,Financeiro,Coordenador Financeiro,Especialista,RJ,Não Informado,Pardo,CLT 40h,Presencial,2020-09-26,,,Ativo,13361.7,26,3.5,8,Plano Odontológico|Seguro de Vida|Gympass|Plano de Saúde|PLR|Home Office
+FUNC-0427,Tecnologia,Gerente de Tecnologia,Gestão,SP,Feminino,Branco,CLT 40h,Híbrido,2018-06-09,2020-07-12,Desligamento sem justa causa,Desligado,31173.36,29,4.8,1,Vale Transporte|Stock Options|Plano de Saúde|Vale Refeição|Auxílio Creche|Home Office|Plano Odontológico
+FUNC-0428,Tecnologia,Tech Lead,Especialista,RJ,Feminino,Branco,CLT 40h,Presencial,2020-01-21,2021-02-07,Pedido do colaborador,Desligado,18734.15,34,3.8,5,Gympass|Auxílio Creche|Vale Transporte|Stock Options|Seguro de Vida|Home Office
+FUNC-0429,Marketing,Analista de Marketing Pl,Pleno,SP,Feminino,Branco,CLT 44h,Híbrido,2017-02-13,2020-10-06,Desligamento sem justa causa,Desligado,5874.37,61,2.8,0,Vale Transporte|Stock Options|Seguro de Vida|Gympass
+FUNC-0430,Logística,Coordenador de Logística,Especialista,PE,Feminino,Pardo,PJ,Presencial,,,,Ativo,12823.1,44,3.8,3,Seguro de Vida|Auxílio Creche|PLR|Vale Refeição|Gympass|Home Office
+FUNC-0431,Tecnologia,Desenvolvedor Frontend Sr,Sênior,BA,Feminino,Amarelo,CLT 44h,Home Office,2019-02-25,2020-02-05,Pedido do colaborador,Desligado,17798.63,22,3.6,0,Vale Refeição|Seguro de Vida|Gympass|Plano de Saúde|Stock Options
+FUNC-0432,RH,HRBP Sr,Sênior,GO,Masculino,Pardo,PJ,Home Office,2020-11-25,,,Ativo,12450.19,15,4.1,1,Plano de Saúde|Vale Transporte|Gympass|Seguro de Vida|Vale Refeição
+FUNC-0433,Operações,Supervisor de Operações,Especialista,RJ,Masculino,Amarelo,CLT 44h,Presencial,2019-11-06,2024-06-15,Pedido do colaborador,Ativo,8043.08,15,,1,Plano de Saúde|Home Office|Vale Refeição|Vale Transporte|Stock Options|PLR
+FUNC-0434,Tecnologia,Desenvolvedor Backend Pl,Pleno,BA,Masculino,Pardo,CLT 40h,Híbrido,2023-02-17,,,Ativo,6259.63,13,3.4,6,Home Office|Gympass|Vale Refeição|PLR
+FUNC-0435,Marketing,Designer Sr,Sênior,RJ,Feminino,Pardo,CLT 44h,Home Office,2023-05-05,,,Ativo,8938.62,27,3.1,1,Vale Refeição|Home Office|Plano de Saúde|Auxílio Creche|Stock Options
+FUNC-0436,Financeiro,Coordenador Financeiro,Especialista,RJ,Feminino,Branco,CLT 40h,Home Office,2021-11-16,2024-05-13,Pedido do colaborador,Desligado,10343.82,54,4.2,6,Vale Transporte|Home Office|Stock Options|Gympass|Plano de Saúde|PLR
+FUNC-0437,Operações,Operador de Produção,Júnior,CE,Feminino,Pardo,PJ,Híbrido,2024-01-04,,,Ativo,1984.87,15,3.0,0,Plano Odontológico|Auxílio Creche|Stock Options
+FUNC-0438,Comercial,Analista Comercial Pl,Pleno,RJ,Masculino,Branco,CLT 44h,Presencial,2020-11-26,,,Ativo,5202.64,28,2.8,2,Auxílio Creche|Plano de Saúde|Home Office|Plano Odontológico
+FUNC-0439,Financeiro,Analista Financeiro Pl,Pleno,SP,Masculino,Pardo,CLT 44h,Presencial,2018-11-01,,,Ativo,6645.83,28,3.8,3,Auxílio Creche|Vale Transporte|Seguro de Vida|Vale Refeição
+FUNC-0440,RH,Coordenador de RH,Especialista,RJ,Feminino,Não Informado,CLT 40h,Presencial,2024-04-23,,,Ativo,10215.9,12,3.4,2,Vale Refeição|Vale Transporte|Home Office|Gympass|Seguro de Vida|Plano de Saúde
+FUNC-0441,Logística,Gerente de Logística,Gestão,SP,Masculino,Não Informado,PJ,Híbrido,2021-12-09,,,Ativo,15741.13,32,4.8,1,Vale Transporte|Stock Options|PLR|Gympass|Plano de Saúde|Vale Refeição|Seguro de Vida
+FUNC-0442,Financeiro,Gerente Financeiro,Gestão,SP,Masculino,Pardo,PJ,Presencial,2018-09-21,,,Ativo,18982.56,10,4.4,2,Stock Options|Gympass|Seguro de Vida|Vale Refeição|Vale Transporte|PLR|Plano Odontológico
+FUNC-0443,Financeiro,Analista Financeiro Pl,Pleno,SP,Feminino,Preto,CLT 44h,Híbrido,2024-04-27,,,Ativo,6124.54,20,2.9,0,Plano Odontológico|Vale Transporte|Vale Refeição|Gympass
+FUNC-0444,RH,Analista de RH Sr,Sênior,SP,Feminino,Pardo,CLT 40h,Híbrido,2018-05-19,2020-10-13,Pedido do colaborador,Desligado,9291.6,22,2.8,0,Plano de Saúde|Auxílio Creche|Gympass|Plano Odontológico|Home Office
+FUNC-0445,Jurídico,Advogado Sr,Sênior,SP,Masculino,Pardo,CLT 40h,Presencial,2022-05-01,2023-04-25,Pedido do colaborador,Desligado,20078.31,24,2.4,3,Plano Odontológico|Vale Transporte|Auxílio Creche|Stock Options|Vale Refeição
+FUNC-0446,Financeiro,Gerente Financeiro,Gestão,RJ,Masculino,Pardo,CLT 40h,Presencial,2017-05-23,2021-11-26,Desligamento por justa causa,Desligado,24723.45,25,3.2,4,Vale Transporte|Home Office|Stock Options|Vale Refeição|PLR|Auxílio Creche|Plano de Saúde
+FUNC-0447,Jurídico,Estagiário Jurídico,Estagiário,RS,Masculino,Não Informado,Estágio,Home Office,2020-02-28,,,Ativo,1155.52,8,3.3,10,Auxílio Creche|Stock Options
+FUNC-0448,Tecnologia,Desenvolvedor Backend Sr,Sênior,MG,Feminino,Branco,PJ,Híbrido,2020-10-28,2023-11-04,Pedido do colaborador,Desligado,14330.23,8,4.4,0,Plano Odontológico|Auxílio Creche|Seguro de Vida|PLR|Plano de Saúde
+FUNC-0449,Tecnologia,Desenvolvedor Backend Sr,Sênior,RJ,Feminino,Pardo,CLT 40h,Noturno,2024-08-01,,,Ativo,18404.12,6,3.2,0,Plano de Saúde|Plano Odontológico|Seguro de Vida|Stock Options|Auxílio Creche
+FUNC-0450,Logística,Analista de Logística Pl,Pleno,RS,Feminino,Branco,CLT 40h,Híbrido,2023-01-08,,,Ativo,6657.88,9,3.2,1,Vale Refeição|Auxílio Creche|Gympass|Stock Options
+FUNC-0451,Operações,Supervisor de Operações,Especialista,SP,Feminino,Branco,CLT 40h,Presencial,2021-06-15,2021-10-16,Término de contrato,Desligado,8626.56,53,3.9,1,Home Office|Seguro de Vida|Gympass|PLR|Auxílio Creche|Plano Odontológico
+FUNC-0452,Tecnologia,Desenvolvedor Backend Sr,Sênior,RJ,Masculino,Não Informado,CLT 44h,Híbrido,2024-10-01,,,Ativo,17015.45,55,2.9,1,Home Office|Vale Transporte|Stock Options|Plano de Saúde|Vale Refeição
+FUNC-0453,Financeiro,Coordenador Financeiro,Especialista,MG,Feminino,Não Informado,CLT 44h,Híbrido,2020-03-22,2020-06-23,Desligamento sem justa causa,Desligado,12233.72,10,3.1,2,Plano de Saúde|Stock Options|Vale Refeição|Home Office|Vale Transporte|Seguro de Vida
+FUNC-0454,Comercial,Analista Comercial Pl,Pleno,RJ,Não Informado,Branco,CLT 40h,Home Office,2020-01-27,,,Ativo,4865.09,25,3.4,0,Plano Odontológico|Seguro de Vida|PLR|Vale Transporte
+FUNC-0455,Operações,Supervisor de Operações,Especialista,GO,Masculino,Preto,CLT 40h,Home Office,2023-07-14,,,Ativo,8708.2,20,3.8,1,Home Office|Vale Refeição|Vale Transporte|Seguro de Vida|PLR|Gympass
+FUNC-0456,Tecnologia,Desenvolvedor Backend Jr,Júnior,SP,Feminino,Pardo,CLT 44h,Home Office,2022-06-08,2023-02-05,Proposta externa,Desligado,5021.34,24,3.4,0,Plano de Saúde|Home Office|Gympass
+FUNC-0457,Logística,Analista de Logística Pl,Pleno,SC,Masculino,Branco,CLT 44h,Presencial,2019-11-22,,,Ativo,5240.31,38,2.6,1,Stock Options|Plano de Saúde|Vale Transporte|Vale Refeição
+FUNC-0458,Logística,Coordenador de Logística,Especialista,RS,Feminino,Branco,CLT 44h,Híbrido,2017-07-12,2020-01-28,Desligamento sem justa causa,Desligado,10177.89,16,3.5,1,Seguro de Vida|Plano de Saúde|PLR|Stock Options|Home Office|Auxílio Creche
+FUNC-0459,Comercial,Assistente Comercial,Júnior,SC,Feminino,Pardo,CLT 40h,Presencial,2015-03-16,,,Ativo,1947.22,22,3.5,0,Stock Options|Home Office|Vale Transporte
+FUNC-0460,Tecnologia,Desenvolvedor Backend Pl,Pleno,MG,Masculino,Pardo,CLT 40h,Presencial,2023-07-22,2024-12-21,Proposta externa,Desligado,8840.77,12,4.6,0,Vale Transporte|Plano de Saúde|Home Office|Stock Options
+FUNC-0461,Tecnologia,Desenvolvedor Frontend Pl,Pleno,CE,Feminino,Não Informado,CLT 44h,Presencial,2019-02-13,,,Ativo,8945.02,7,3.3,0,Stock Options|Plano de Saúde|Auxílio Creche|Vale Transporte
+FUNC-0462,Jurídico,Advogado Jr,Júnior,RS,Masculino,Preto,CLT 44h,Presencial,2023-12-16,,,Ativo,4131.63,12,2.8,4,Plano de Saúde|PLR|Vale Transporte
+FUNC-0463,Financeiro,Analista Financeiro Sr,Sênior,RJ,Feminino,Não Informado,CLT 40h,Home Office,2016-11-01,2018-02-18,Desligamento sem justa causa,Desligado,8683.42,13,4.8,12,Auxílio Creche|PLR|Seguro de Vida|Plano de Saúde|Home Office
+FUNC-0464,Financeiro,Analista Financeiro Pl,Pleno,MG,Feminino,Não Informado,PJ,Presencial,2023-07-23,,,Ativo,6963.75,10,3.2,2,Gympass|Plano Odontológico|Stock Options|Vale Transporte
+FUNC-0465,RH,Analista de RH Pl,Pleno,SP,Feminino,Branco,PJ,Home Office,2023-06-14,,,Ativo,6049.83,12,3.4,4,Gympass|Home Office|Vale Refeição|Plano Odontológico
+FUNC-0466,Financeiro,Analista Financeiro Pl,Pleno,RS,Masculino,Preto,PJ,Home Office,2019-06-03,2020-08-17,Desligamento sem justa causa,Desligado,4806.75,17,4.0,0,Gympass|Stock Options|Seguro de Vida|Plano Odontológico
+FUNC-0467,Operações,Técnico de Operações Pl,Pleno,RS,Masculino,Branco,CLT 44h,Presencial,2017-09-11,,,Ativo,3900.09,9,2.4,3,Plano Odontológico|Seguro de Vida|Auxílio Creche|Home Office
+FUNC-0468,Comercial,Assistente Comercial,Júnior,MG,Feminino,Pardo,CLT 44h,Presencial,2015-07-27,,,Ativo,2601.34,26,3.2,4,Plano de Saúde|Stock Options|Vale Transporte
+FUNC-0469,Jurídico,Advogado Jr,Júnior,RJ,Masculino,Branco,CLT 44h,Noturno,,,,Ativo,6993.33,49,3.3,0,Vale Transporte|Plano Odontológico|Home Office
+FUNC-0470,Marketing,Assistente de Marketing,Júnior,RJ,Feminino,Pardo,CLT 40h,Home Office,2023-01-04,,,Ativo,3704.79,19,3.7,1,Home Office|Seguro de Vida|Gympass
+FUNC-0471,Jurídico,Gerente Jurídico,Gestão,SP,Feminino,Pardo,PJ,Híbrido,2018-07-20,2024-03-07,Pedido do colaborador,Desligado,24067.26,8,4.7,2,Plano Odontológico|Stock Options|Gympass|PLR|Vale Refeição|Plano de Saúde|Seguro de Vida
+FUNC-0472,Comercial,Consultor de Vendas Sr,Sênior,GO,Feminino,Pardo,CLT 40h,Híbrido,2024-12-05,,,Ativo,6917.3,31,3.8,0,Stock Options|Seguro de Vida|Gympass|Plano de Saúde|Vale Refeição
+FUNC-0473,Logística,Gerente de Logística,Gestão,SP,Masculino,Pardo,CLT 40h,Presencial,2018-09-04,2024-08-06,Término de contrato,Desligado,16183.52,9,4.4,9,Seguro de Vida|Stock Options|PLR|Home Office|Vale Transporte|Auxílio Creche|Gympass
+FUNC-0474,Comercial,Diretor Comercial,Diretoria,SP,Feminino,Branco,CLT 40h,Presencial,2023-06-06,2024-11-26,Desligamento por baixa performance,Desligado,38839.36,18,5.0,0,Vale Transporte|PLR|Seguro de Vida|Vale Refeição|Home Office|Stock Options|Auxílio Creche|Plano de Saúde
+FUNC-0475,RH,Analista de RH Pl,Pleno,PR,Feminino,Branco,CLT 44h,Presencial,2019-01-13,2019-11-13,Pedido do colaborador,Desligado,5032.3,7,2.9,0,Seguro de Vida|Vale Transporte|Home Office|Stock Options
+FUNC-0476,RH,Assistente de RH,Júnior,SP,Masculino,Pardo,CLT 44h,Presencial,2022-11-01,,,Ativo,2627.09,12,2.8,1,Auxílio Creche|Gympass|Plano Odontológico
+FUNC-0477,Jurídico,Estagiário Jurídico,Estagiário,BA,Feminino,Pardo,Estágio,Presencial,2022-01-20,2023-06-25,Desligamento por justa causa,Desligado,1288.48,31,2.7,1,Vale Refeição|Vale Transporte
+FUNC-0478,Operações,Operador de Produção,Júnior,PR,Masculino,Branco,CLT 44h,Home Office,2021-01-08,2023-10-19,Término de contrato,Desligado,2262.54,34,3.2,0,Auxílio Creche|PLR|Stock Options
+FUNC-0479,Tecnologia,Desenvolvedor Frontend Pl,Pleno,RJ,Masculino,Pardo,PJ,Presencial,2015-07-11,,,Ativo,7004.29,18,2.3,0,Vale Transporte|Gympass|Plano de Saúde|Stock Options
+FUNC-0480,Tecnologia,Analista de Dados Pl,Pleno,RJ,Feminino,Branco,PJ,Presencial,2019-02-10,,,Ativo,6488.7,22,3.5,0,Vale Transporte|Vale Refeição|Stock Options|PLR
+FUNC-0481,Jurídico,Advogado Jr,Júnior,RS,Masculino,Branco,CLT 44h,Presencial,,,,Ativo,4985.01,17,3.0,1,Vale Refeição|Gympass|Home Office
+FUNC-0482,Logística,Analista de Logística Pl,Pleno,GO,Masculino,Pardo,CLT 44h,Híbrido,,2021-07-03,Desligamento sem justa causa,Desligado,4089.25,16,3.4,0,Stock Options|Auxílio Creche|Home Office|Plano de Saúde
+FUNC-0483,Logística,Coordenador de Logística,Especialista,SP,Masculino,Pardo,CLT 40h,Presencial,2022-08-17,2023-12-12,Desligamento sem justa causa,Desligado,9132.6,5,4.4,4,Vale Transporte|Stock Options|Plano de Saúde|Auxílio Creche|Seguro de Vida|Vale Refeição
+FUNC-0484,Comercial,Gerente Comercial,Gestão,RJ,Feminino,Branco,PJ,Home Office,,2024-02-23,Desligamento sem justa causa,Desligado,19930.93,36,3.4,6,Vale Transporte|Seguro de Vida|Plano de Saúde|PLR|Home Office|Auxílio Creche|Plano Odontológico
+FUNC-0485,Operações,Coordenador de Operações,Especialista,SC,Masculino,Branco,CLT 40h,Híbrido,2016-10-19,,,Ativo,9109.95,21,4.6,2,Plano de Saúde|Stock Options|Auxílio Creche|Plano Odontológico|Gympass|Home Office
+FUNC-0486,Comercial,Analista Comercial Pl,Pleno,SP,Feminino,Amarelo,CLT 44h,Híbrido,2019-07-06,2022-06-21,Desligamento por baixa performance,Desligado,6041.94,18,3.2,0,Home Office|Vale Refeição|Gympass|PLR
+FUNC-0487,Operações,Operador de Produção,Júnior,SP,Masculino,Não Informado,CLT 44h,Presencial,2019-12-20,,,Ativo,1742.96,9,3.3,0,Home Office|Plano de Saúde|Gympass
+FUNC-0488,Comercial,Assistente Comercial,Júnior,BA,Feminino,Pardo,CLT 44h,Home Office,2017-12-21,2022-02-27,Desligamento por baixa performance,Desligado,2557.04,25,2.8,0,Vale Transporte|Seguro de Vida|Plano de Saúde
+FUNC-0489,Financeiro,Analista Financeiro Pl,Pleno,RJ,Masculino,Branco,CLT 40h,Presencial,2024-08-10,,,Ativo,7056.5,23,2.5,2,PLR|Seguro de Vida|Stock Options|Gympass
+FUNC-0490,Tecnologia,Analista de Dados Sr,Sênior,PR,Masculino,Pardo,CLT 40h,Presencial,2024-01-12,2024-06-24,Proposta externa,Desligado,16163.3,10,3.5,1,Plano Odontológico|Vale Refeição|Seguro de Vida|Stock Options|Gympass
+FUNC-0491,Jurídico,Gerente Jurídico,Gestão,SP,Feminino,Branco,CLT 44h,Presencial,2020-01-17,2022-11-21,Desligamento por justa causa,Desligado,34398.83,32,3.8,1,Auxílio Creche|Plano Odontológico|Vale Transporte|Seguro de Vida|PLR|Home Office|Stock Options
+FUNC-0492,Logística,Analista de Logística Pl,Pleno,RJ,Feminino,Branco,CLT 40h,Híbrido,2021-03-26,,,Ativo,5077.51,71,3.9,2,Vale Transporte|Home Office|Auxílio Creche|Stock Options
+FUNC-0493,Jurídico,Advogado Jr,Júnior,RJ,Não Informado,Branco,CLT 40h,Home Office,2022-01-18,,,Ativo,6970.78,12,2.9,0,Plano de Saúde|Seguro de Vida|Plano Odontológico
+FUNC-0494,RH,Coordenador de RH,Especialista,BA,Feminino,Pardo,PJ,Presencial,2017-04-11,,,Ativo,15000.0,7,4.0,0,Home Office|Stock Options|Vale Refeição|Auxílio Creche|PLR|Plano Odontológico
+FUNC-0495,Comercial,Assistente Comercial,Júnior,PE,Masculino,Branco,CLT 44h,Híbrido,2024-07-21,,,Ativo,2493.88,46,2.1,0,Home Office|Plano de Saúde|Plano Odontológico
+FUNC-0496,Tecnologia,Desenvolvedor Frontend Jr,Júnior,BA,Masculino,Branco,CLT 40h,Home Office,2024-02-23,2024-11-05,Proposta externa,Desligado,4505.03,31,2.9,7,Vale Transporte|Home Office|PLR
+FUNC-0497,Operações,Operador de Produção,Júnior,BA,Feminino,Branco,CLT 44h,Híbrido,2021-09-25,,,Ativo,2212.76,67,2.6,4,Seguro de Vida|Plano de Saúde|Gympass
+FUNC-0498,Jurídico,Advogado Jr,Júnior,MG,Masculino,Amarelo,CLT 44h,Híbrido,2021-08-11,2024-06-01,Desligamento sem justa causa,Desligado,5246.04,6,4.0,1,PLR|Auxílio Creche|Vale Transporte
+FUNC-0499,Comercial,Analista Comercial Pl,Pleno,RJ,Feminino,Amarelo,CLT 40h,Híbrido,2023-03-27,2024-03-02,Desligamento sem justa causa,Desligado,5317.55,18,2.6,2,Vale Transporte|Auxílio Creche|Home Office|Plano Odontológico
+FUNC-0500,Jurídico,Advogado Sr,Sênior,MG,Feminino,Preto,CLT 40h,Híbrido,2021-12-04,,,Ativo,12000.0,21,4.0,1,Seguro de Vida|Gympass|Auxílio Creche|Stock Options|Plano de Saúde
+FUNC-0501,Tecnologia,Analista de Dados Pl,Pleno,SP,Feminino,Branco,CLT 44h,Noturno,2020-12-15,,,Ativo,7341.89,57,3.6,2,Gympass|Auxílio Creche|Seguro de Vida|Plano Odontológico
+FUNC-0502,Tecnologia,Desenvolvedor Frontend Pl,Pleno,RS,Masculino,Branco,CLT 44h,Híbrido,2019-06-19,,,Ativo,7527.12,37,3.4,0,Gympass|Vale Refeição|Vale Transporte|Home Office
+FUNC-0503,Marketing,Assistente de Marketing,Júnior,BA,Masculino,Branco,CLT 40h,Presencial,2024-09-21,,,Ativo,2000.0,7,3.4,5,Plano de Saúde|Vale Refeição|Vale Transporte
+FUNC-0504,Logística,Analista de Logística Pl,Pleno,RJ,Feminino,Branco,CLT 44h,Presencial,,,,Ativo,5210.61,63,4.0,0,Auxílio Creche|Seguro de Vida|Vale Refeição|Plano de Saúde
+FUNC-0505,Logística,Coordenador de Logística,Especialista,RS,Feminino,Indígena,CLT 44h,Presencial,2016-08-18,2018-09-13,Término de contrato,Desligado,12770.18,22,3.4,6,Auxílio Creche|Vale Transporte|PLR|Gympass|Stock Options|Vale Refeição
+FUNC-0506,Financeiro,Coordenador Financeiro,Especialista,SC,Não Informado,Branco,CLT 40h,Híbrido,2024-01-04,,,Ativo,14352.16,7,4.0,9,Plano Odontológico|Vale Refeição|Home Office|Vale Transporte|Auxílio Creche|Seguro de Vida
+FUNC-0507,Operações,Supervisor de Operações,Especialista,PE,Masculino,Pardo,CLT 40h,Presencial,2020-11-27,,,Ativo,7849.94,15,3.6,8,Vale Transporte|Plano de Saúde|Seguro de Vida|Gympass|Vale Refeição|Plano Odontológico
+FUNC-0508,Marketing,Coordenador de Marketing,Especialista,RJ,Masculino,Preto,PJ,Home Office,2022-07-28,2022-11-08,Pedido do colaborador,Desligado,14495.84,36,3.8,3,Plano de Saúde|Vale Transporte|Vale Refeição|Gympass|Stock Options|Home Office
+FUNC-0509,Tecnologia,Desenvolvedor Frontend Sr,Sênior,RS,Masculino,Pardo,CLT 40h,Híbrido,2021-12-17,2023-05-17,Proposta externa,Desligado,17672.02,68,3.0,2,Vale Transporte|Stock Options|Home Office|Plano de Saúde|PLR
+FUNC-0510,Tecnologia,Desenvolvedor Backend Jr,Júnior,MG,Feminino,Preto,CLT 44h,Presencial,2018-09-26,2020-08-08,Desligamento sem justa causa,Desligado,4006.63,23,3.7,0,Stock Options|Plano Odontológico|Home Office
+FUNC-0511,Financeiro,Coordenador Financeiro,Especialista,MG,Masculino,Branco,CLT 40h,Noturno,2024-06-16,,,Ativo,13754.51,17,3.6,1,Gympass|Stock Options|Auxílio Creche|Vale Transporte|PLR|Vale Refeição
+FUNC-0512,Tecnologia,Desenvolvedor Backend Sr,Sênior,PE,Masculino,Branco,CLT 44h,Híbrido,2022-11-11,2023-12-19,Pedido do colaborador,Desligado,16918.28,21,3.2,0,Auxílio Creche|Vale Transporte|Stock Options|Seguro de Vida|Gympass
+FUNC-0513,Tecnologia,Desenvolvedor Frontend Pl,Pleno,BA,Masculino,Pardo,CLT 40h,Híbrido,2024-02-25,,,Ativo,7295.06,11,3.7,7,Vale Transporte|Stock Options|PLR|Vale Refeição
+FUNC-0514,Comercial,Analista Comercial Pl,Pleno,SC,Feminino,Pardo,CLT 44h,Presencial,2023-03-20,,,Ativo,4519.09,25,3.9,0,Plano de Saúde|Auxílio Creche|Home Office|PLR
+FUNC-0515,Marketing,Assistente de Marketing,Júnior,PR,Feminino,Pardo,CLT 40h,Presencial,2024-07-26,,,Ativo,3269.82,17,3.2,5,Gympass|Vale Refeição|Vale Transporte
+FUNC-0516,Comercial,Analista Comercial Pl,Pleno,MG,Masculino,Pardo,CLT 44h,Híbrido,2017-10-17,,,Ativo,5034.72,27,3.7,0,Plano Odontológico|Stock Options|Plano de Saúde|Vale Transporte
+FUNC-0517,Comercial,Assistente Comercial,Júnior,PR,Masculino,Branco,CLT 44h,Híbrido,2016-05-27,2020-09-07,Desligamento sem justa causa,Desligado,2779.25,20,2.4,8,PLR|Gympass|Plano de Saúde
+FUNC-0518,Comercial,Coordenador Comercial,Especialista,SC,Masculino,Preto,CLT 40h,Híbrido,2019-01-01,,,Ativo,9540.37,4,4.0,4,Vale Transporte|Stock Options|Plano de Saúde|Home Office|Gympass|PLR
+FUNC-0519,Financeiro,Assistente Financeiro,Júnior,RJ,Feminino,Pardo,CLT 40h,Presencial,2015-12-09,,,Ativo,2264.14,14,4.6,0,Stock Options|Home Office|Auxílio Creche
+FUNC-0520,Operações,Operador de Produção,Júnior,GO,Feminino,Branco,CLT 44h,Home Office,2024-11-10,,,Ativo,1730.24,18,3.3,4,Vale Refeição|Vale Transporte|Gympass
+FUNC-0521,Comercial,Coordenador Comercial,Especialista,PR,Masculino,Amarelo,CLT 40h,Home Office,2023-12-11,,,Ativo,10796.74,22,3.9,4,Stock Options|Auxílio Creche|Plano Odontológico|Plano de Saúde|Home Office|Vale Transporte
+FUNC-0522,Marketing,Designer Sr,Sênior,PR,Feminino,Pardo,CLT 40h,Presencial,2022-01-15,2023-07-06,Pedido do colaborador,Desligado,7385.22,17,2.9,0,Gympass|Home Office|Plano de Saúde|Vale Refeição|Stock Options
+FUNC-0523,Marketing,Coordenador de Marketing,Especialista,SC,Masculino,Indígena,CLT 40h,Híbrido,2020-06-18,2020-10-07,Pedido do colaborador,Desligado,11497.35,33,4.5,0,Plano Odontológico|Stock Options|Auxílio Creche|PLR|Seguro de Vida|Plano de Saúde
+FUNC-0524,Marketing,Gerente de Marketing,Gestão,PR,Masculino,Branco,CLT 40h,Presencial,2018-11-08,2022-09-29,Aposentadoria,Desligado,25378.31,20,4.1,4,Vale Transporte|Plano Odontológico|Home Office|Vale Refeição|PLR|Gympass|Seguro de Vida
+FUNC-0525,Tecnologia,Desenvolvedor Frontend Pl,Pleno,SP,Feminino,Branco,CLT 44h,Noturno,2023-11-25,,,Ativo,10922.73,17,4.3,0,Gympass|Auxílio Creche|Stock Options|Seguro de Vida
+FUNC-0526,Financeiro,Analista Financeiro Pl,Pleno,RS,Feminino,Pardo,PJ,Híbrido,2018-12-24,,,Ativo,6689.2,71,3.5,0,Gympass|Seguro de Vida|Stock Options|Home Office
+FUNC-0527,Marketing,Assistente de Marketing,Júnior,GO,Feminino,Não Informado,CLT 44h,Presencial,2019-02-26,,,Ativo,3181.38,10,3.6,0,Vale Transporte|Stock Options|Vale Refeição
+FUNC-0528,Jurídico,Estagiário Jurídico,Estagiário,RJ,Feminino,Preto,Estágio,Híbrido,2024-12-10,,,Ativo,1256.6,8,2.7,4,Plano Odontológico|Stock Options
+FUNC-0529,Logística,Analista de Logística Pl,Pleno,SC,Feminino,Pardo,CLT 40h,Híbrido,2024-07-03,,,Ativo,5454.69,11,3.1,0,Auxílio Creche|Home Office|Plano Odontológico|Seguro de Vida
+FUNC-0530,Operações,Operador de Produção,Júnior,RJ,Masculino,Branco,CLT 44h,Presencial,2020-01-26,,,Ativo,2276.56,119,2.0,1,Plano de Saúde|Gympass|Home Office
+FUNC-0531,Comercial,Analista Comercial Pl,Pleno,SP,Feminino,Pardo,CLT 44h,Híbrido,2023-08-02,2024-09-12,Desligamento sem justa causa,Desligado,5411.93,5,2.7,0,Stock Options|Gympass|Auxílio Creche|Vale Transporte
+FUNC-0532,RH,Analista de RH Pl,Pleno,SP,Feminino,Preto,CLT 40h,Presencial,2023-03-17,,,Ativo,4417.39,7,3.4,0,Stock Options|Home Office|Vale Refeição|Gympass
+FUNC-0533,Tecnologia,Desenvolvedor Backend Jr,Júnior,RJ,Feminino,Branco,CLT 44h,Home Office,2019-03-10,,,Ativo,3500.0,23,3.2,0,Seguro de Vida|Plano de Saúde|Gympass
+FUNC-0534,Logística,Analista de Logística Pl,Pleno,SC,Feminino,Branco,CLT 44h,Híbrido,2017-10-14,,,Ativo,4726.74,12,4.0,3,PLR|Auxílio Creche|Seguro de Vida|Vale Transporte
+FUNC-0535,Jurídico,Estagiário Jurídico,Estagiário,SP,Masculino,Amarelo,Estágio,Híbrido,2022-07-23,,,Ativo,1485.35,47,2.6,0,Seguro de Vida|Gympass
+FUNC-0536,Tecnologia,Analista de Dados Pl,Pleno,PR,Feminino,Branco,CLT 44h,Presencial,2019-08-05,2024-10-23,Proposta externa,Desligado,8471.26,22,3.7,0,Gympass|PLR|Plano de Saúde|Auxílio Creche
+FUNC-0537,RH,Assistente de RH,Júnior,CE,Feminino,Preto,CLT 44h,Noturno,2023-02-08,2024-11-23,Desligamento por justa causa,Desligado,2180.83,22,3.5,8,Vale Transporte|Gympass|Plano de Saúde
+FUNC-0538,Logística,Assistente de Logística,Júnior,SP,Masculino,Preto,CLT 44h,Híbrido,2016-10-18,2020-10-25,Desligamento por justa causa,Desligado,3241.55,9,4.3,1,Plano de Saúde|Stock Options|Plano Odontológico
+FUNC-0539,Comercial,Consultor de Vendas Sr,Sênior,BA,Feminino,Branco,PJ,Híbrido,2017-09-19,,,Ativo,7530.07,29,3.8,0,Plano Odontológico|Gympass|Vale Refeição|Auxílio Creche|Seguro de Vida
+FUNC-0540,Comercial,Analista Comercial Pl,Pleno,SP,Feminino,Pardo,CLT 40h,Home Office,2024-01-14,,,Ativo,4232.24,14,4.5,1,Home Office|Vale Refeição|Plano Odontológico|Gympass
+FUNC-0541,Financeiro,Assistente Financeiro,Júnior,BA,Masculino,Preto,CLT 44h,Híbrido,2023-03-22,,,Ativo,2646.98,29,3.4,5,PLR|Home Office|Plano de Saúde
+FUNC-0542,Jurídico,Advogado Pl,Pleno,MG,Masculino,Preto,CLT 40h,Híbrido,2015-02-28,,,Ativo,10115.96,14,3.2,5,Auxílio Creche|Plano de Saúde|Stock Options|Gympass
+FUNC-0543,RH,Assistente de RH,Júnior,PE,Masculino,Preto,PJ,Presencial,2023-07-16,,,Ativo,2305.31,15,3.0,4,Vale Refeição|Auxílio Creche|Seguro de Vida
+FUNC-0544,RH,Assistente de RH,Júnior,RJ,Feminino,Preto,CLT 40h,Híbrido,2016-07-26,,,Ativo,2541.84,20,3.8,0,Stock Options|Seguro de Vida|Plano Odontológico
+FUNC-0545,Marketing,Assistente de Marketing,Júnior,SC,Masculino,Branco,CLT 44h,Presencial,2024-02-13,2024-06-15,Pedido do colaborador,Ativo,2667.55,18,3.2,2,Plano de Saúde|Auxílio Creche|Vale Transporte
+FUNC-0546,Logística,Analista de Logística Pl,Pleno,RJ,Masculino,Pardo,CLT 40h,Híbrido,2018-02-02,2023-09-14,Desligamento por justa causa,Desligado,4930.14,12,3.5,2,Auxílio Creche|Plano de Saúde|Vale Transporte|Vale Refeição
+FUNC-0547,RH,Analista de RH Sr,Sênior,SP,Masculino,Branco,CLT 40h,Home Office,2021-12-09,,,Ativo,8832.05,14,3.4,13,PLR|Vale Refeição|Auxílio Creche|Stock Options|Plano Odontológico
+FUNC-0548,Tecnologia,Desenvolvedor Backend Jr,Júnior,BA,Feminino,Branco,CLT 44h,Híbrido,2020-01-02,,,Ativo,4754.79,4,2.9,1,Vale Refeição|Plano Odontológico|Plano de Saúde
+FUNC-0549,Comercial,Gerente Comercial,Gestão,SP,Feminino,Não Informado,CLT 44h,Presencial,2016-05-20,,,Ativo,17759.94,25,4.8,1,Plano Odontológico|Seguro de Vida|Stock Options|Vale Transporte|Vale Refeição|Home Office|Gympass
+FUNC-0550,RH,Analista de RH Sr,Sênior,PR,Masculino,Pardo,PJ,Híbrido,2024-03-27,,,Ativo,8627.55,27,4.1,1,PLR|Home Office|Vale Transporte|Stock Options|Vale Refeição
+FUNC-0551,RH,HRBP Sr,Sênior,PE,Masculino,Pardo,CLT 40h,Híbrido,2021-09-27,,,Ativo,12200.86,16,3.6,2,Gympass|Plano Odontológico|Vale Refeição|Stock Options|Seguro de Vida
+FUNC-0552,Logística,Assistente de Logística,Júnior,PR,Masculino,Preto,CLT 44h,Híbrido,2021-05-17,,,Ativo,2867.77,33,2.6,3,Plano Odontológico|Home Office|Seguro de Vida
+FUNC-0553,Marketing,Gerente de Marketing,Gestão,RS,Feminino,Pardo,CLT 44h,Presencial,,2021-12-05,Desligamento por justa causa,Desligado,14658.09,54,4.4,4,Auxílio Creche|Plano Odontológico|Stock Options|Seguro de Vida|Plano de Saúde|Vale Refeição|Gympass
+FUNC-0554,Financeiro,Analista Financeiro Pl,Pleno,SP,Masculino,Pardo,CLT 44h,Presencial,2019-12-11,,,Ativo,6116.42,13,3.0,4,Seguro de Vida|Home Office|Auxílio Creche|Plano Odontológico
+FUNC-0555,Logística,Gerente de Logística,Gestão,RJ,Feminino,Pardo,CLT 40h,Híbrido,2017-08-20,,,Ativo,17830.3,31,3.5,0,Stock Options|Plano de Saúde|Vale Refeição|Plano Odontológico|Vale Transporte|Auxílio Creche|PLR
+FUNC-0556,Comercial,Assistente Comercial,Júnior,BA,Feminino,Branco,CLT 44h,Híbrido,2022-04-08,2024-06-01,Desligamento sem justa causa,Desligado,,12,3.6,1,Plano Odontológico|Vale Refeição|Home Office
+FUNC-0557,Financeiro,Assistente Financeiro,Júnior,RJ,Masculino,Preto,CLT 44h,Home Office,2022-01-05,2024-11-08,Término de contrato,Desligado,2356.3,25,3.2,0,Gympass|Plano Odontológico|Auxílio Creche
+FUNC-0558,Operações,Técnico de Operações Pl,Pleno,MG,Feminino,Pardo,CLT 40h,Presencial,2019-08-01,2022-07-21,Pedido do colaborador,Desligado,4500.39,23,3.4,2,Vale Refeição|Auxílio Creche|Gympass|Vale Transporte
+FUNC-0559,RH,Analista de RH Sr,Sênior,CE,Feminino,Branco,PJ,Home Office,2016-11-03,,,Ativo,8313.54,19,,0,Plano Odontológico|Vale Refeição|Seguro de Vida|Vale Transporte|PLR
+FUNC-0560,Tecnologia,Desenvolvedor Frontend Sr,Sênior,RJ,Masculino,Pardo,PJ,Híbrido,2019-03-12,,,Ativo,15325.69,16,3.6,4,PLR|Gympass|Home Office|Seguro de Vida|Plano Odontológico
+FUNC-0561,Comercial,Analista Comercial Pl,Pleno,SP,Masculino,Pardo,PJ,Híbrido,2022-03-06,,,Ativo,4209.83,36,3.6,7,Seguro de Vida|Plano de Saúde|Home Office|Vale Transporte
+FUNC-0562,Financeiro,Analista Financeiro Pl,Pleno,RJ,Feminino,Pardo,PJ,Presencial,2019-01-21,,,Ativo,4500.0,14,3.0,1,Home Office|Vale Refeição|Plano de Saúde|Vale Transporte
+FUNC-0563,Logística,Assistente de Logística,Júnior,SP,Masculino,Não Informado,CLT 40h,Home Office,2021-06-16,,,Ativo,2734.14,6,3.4,0,Stock Options|Plano Odontológico|Plano de Saúde
+FUNC-0564,Operações,Coordenador de Operações,Especialista,SP,Feminino,Branco,CLT 40h,Home Office,2024-10-23,,,Ativo,12112.96,23,3.9,4,Vale Refeição|Seguro de Vida|Auxílio Creche|Stock Options|Plano de Saúde|Gympass
+FUNC-0565,Operações,Supervisor de Operações,Especialista,RJ,Feminino,Amarelo,CLT 40h,Presencial,,2022-04-19,Desligamento por justa causa,Desligado,7997.46,19,3.3,2,Plano Odontológico|Stock Options|Vale Transporte|Seguro de Vida|Home Office|Auxílio Creche
+FUNC-0566,Logística,Assistente de Logística,Júnior,RS,Feminino,Branco,PJ,Presencial,2018-11-11,2021-11-14,Desligamento sem justa causa,Desligado,3222.12,23,3.7,6,Plano Odontológico|Home Office|Plano de Saúde
+FUNC-0567,Comercial,Consultor de Vendas Sr,Sênior,PR,Feminino,Pardo,CLT 40h,Híbrido,2022-01-22,,,Ativo,7172.87,23,3.3,0,Vale Refeição|Plano Odontológico|Home Office|Seguro de Vida|Gympass
+FUNC-0568,Tecnologia,Analista de Dados Pl,Pleno,RJ,Masculino,Pardo,CLT 44h,Noturno,2020-03-23,2022-04-30,Pedido do colaborador,Desligado,6774.84,18,3.4,0,Gympass|Home Office|Auxílio Creche|Vale Refeição
+FUNC-0569,RH,Analista de RH Pl,Pleno,PE,Não Informado,Branco,PJ,Híbrido,2018-02-15,,,Ativo,4358.68,4,2.9,5,Vale Refeição|Vale Transporte|PLR|Plano de Saúde
+FUNC-0570,Financeiro,Assistente Financeiro,Júnior,SP,Masculino,Pardo,CLT 44h,Híbrido,2023-01-23,,,Ativo,2887.39,7,2.8,2,Vale Refeição|Gympass|Plano de Saúde
+FUNC-0571,Jurídico,Advogado Jr,Júnior,CE,Masculino,Preto,CLT 44h,Híbrido,,,,Ativo,5180.88,17,3.3,1,Auxílio Creche|Gympass|Seguro de Vida
+FUNC-0572,RH,Analista de RH Pl,Pleno,BA,Masculino,Preto,CLT 44h,Híbrido,2018-09-19,,,Ativo,4755.77,13,3.0,1,Home Office|Plano Odontológico|Vale Transporte|Stock Options
+FUNC-0573,Comercial,Consultor de Vendas Sr,Sênior,SC,Masculino,Branco,PJ,Home Office,2024-02-24,,,Ativo,8551.69,22,3.7,8,Vale Refeição|Plano de Saúde|Auxílio Creche|Stock Options|Plano Odontológico
+FUNC-0574,Logística,Assistente de Logística,Júnior,RJ,Feminino,Pardo,CLT 44h,Híbrido,2022-06-03,2024-04-04,Desligamento por justa causa,Desligado,2235.72,15,3.2,14,PLR|Home Office|Seguro de Vida
+FUNC-0575,Financeiro,Analista Financeiro Pl,Pleno,PR,Feminino,Branco,CLT 40h,Presencial,2023-05-22,,,Ativo,8818.04,21,4.4,6,Seguro de Vida|PLR|Vale Refeição|Stock Options
+FUNC-0576,RH,Gerente de RH,Gestão,SP,Feminino,Pardo,CLT 40h,Híbrido,2024-09-24,,,Ativo,23223.39,7,4.1,1,Plano Odontológico|Stock Options|Plano de Saúde|Seguro de Vida|Vale Transporte|Gympass|Auxílio Creche
+FUNC-0577,Financeiro,Gerente Financeiro,Gestão,BA,Feminino,Branco,CLT 40h,Híbrido,2021-03-24,,,Ativo,19586.85,12,4.6,4,Auxílio Creche|Seguro de Vida|Gympass|Home Office|Stock Options|Vale Transporte|Plano de Saúde
+FUNC-0578,Marketing,Coordenador de Marketing,Especialista,MG,Feminino,Branco,PJ,Híbrido,2018-04-01,,,Ativo,13879.58,21,4.9,1,PLR|Home Office|Auxílio Creche|Plano Odontológico|Stock Options|Vale Transporte
+FUNC-0579,Comercial,Analista Comercial Pl,Pleno,RJ,Masculino,Branco,CLT 44h,Híbrido,2024-01-03,,,Ativo,5291.55,8,2.7,0,PLR|Home Office|Plano Odontológico|Auxílio Creche
+FUNC-0580,Comercial,Coordenador Comercial,Especialista,RS,Masculino,Pardo,CLT 40h,Presencial,2018-01-12,,,Ativo,9081.29,46,3.7,0,Vale Refeição|Seguro de Vida|Gympass|Home Office|Stock Options|Plano de Saúde
+FUNC-0581,Logística,Assistente de Logística,Júnior,RS,Masculino,Pardo,CLT 44h,Noturno,2016-08-14,,,Ativo,2241.69,28,2.0,3,Auxílio Creche|PLR|Seguro de Vida
+FUNC-0582,Jurídico,Advogado Sr,Sênior,MG,Masculino,Pardo,CLT 40h,Presencial,2020-07-27,,,Ativo,15180.09,17,3.4,2,Plano Odontológico|Gympass|Vale Transporte|Vale Refeição|PLR
+FUNC-0583,Comercial,Analista Comercial Pl,Pleno,SC,Feminino,Pardo,CLT 44h,Presencial,2016-01-11,2023-10-14,Pedido do colaborador,Desligado,4411.74,23,3.3,1,Vale Refeição|Seguro de Vida|Stock Options|Auxílio Creche
+FUNC-0584,Comercial,Assistente Comercial,Júnior,SP,Masculino,Pardo,CLT 40h,Híbrido,2024-11-02,,,Ativo,3139.39,16,3.8,0,Auxílio Creche|Seguro de Vida|Home Office
+FUNC-0585,Logística,Gerente de Logística,Gestão,BA,Feminino,Pardo,CLT 40h,Híbrido,2021-04-11,,,Ativo,,20,3.8,0,Plano Odontológico|Home Office|Auxílio Creche|Plano de Saúde|Vale Refeição|Gympass|Vale Transporte
+FUNC-0586,Tecnologia,Desenvolvedor Frontend Jr,Júnior,SP,Feminino,Pardo,PJ,Híbrido,2018-03-10,,,Ativo,3662.94,44,3.4,1,Gympass|PLR|Home Office
+FUNC-0587,Operações,Supervisor de Operações,Especialista,RS,Masculino,Preto,CLT 40h,Noturno,2021-09-23,2024-09-15,Desligamento sem justa causa,Desligado,8095.33,6,4.3,2,Home Office|Gympass|Auxílio Creche|Plano de Saúde|PLR|Stock Options
+FUNC-0588,Operações,Gerente de Operações,Gestão,PE,Masculino,Preto,PJ,Noturno,2024-12-25,,,Ativo,24446.8,14,4.9,6,Home Office|Auxílio Creche|PLR|Vale Refeição|Gympass|Plano de Saúde|Vale Transporte
+FUNC-0589,RH,Analista de RH Sr,Sênior,RJ,Feminino,Pardo,CLT 40h,Presencial,2024-03-17,2024-12-03,Desligamento sem justa causa,Desligado,8955.37,14,4.9,2,Vale Transporte|Stock Options|Auxílio Creche|Seguro de Vida|Home Office
+FUNC-0590,Operações,Coordenador de Operações,Especialista,SP,Masculino,Branco,PJ,Home Office,2022-03-01,2024-10-22,Pedido do colaborador,Desligado,11889.25,9,4.1,3,Home Office|Stock Options|Vale Refeição|PLR|Gympass|Plano de Saúde
+FUNC-0591,Comercial,Coordenador Comercial,Especialista,SP,Feminino,Não Informado,CLT 40h,Noturno,2024-10-04,,,Ativo,9683.8,29,4.4,4,Vale Transporte|Plano de Saúde|Home Office|Auxílio Creche|Gympass|Seguro de Vida
+FUNC-0592,Jurídico,Advogado Sr,Sênior,SC,Masculino,Pardo,CLT 40h,Home Office,2024-05-09,,,Ativo,17846.92,10,3.4,0,Plano de Saúde|Gympass|Plano Odontológico|Auxílio Creche|Seguro de Vida
+FUNC-0593,Logística,Coordenador de Logística,Especialista,RJ,Masculino,Branco,PJ,Presencial,2019-12-14,,,Ativo,13503.88,31,3.2,1,Plano de Saúde|Vale Refeição|Gympass|Auxílio Creche|Plano Odontológico|Stock Options
+FUNC-0594,Logística,Analista de Logística Pl,Pleno,PE,Feminino,Branco,CLT 40h,Home Office,2023-09-21,,,Ativo,4844.11,59,3.5,0,Plano de Saúde|Plano Odontológico|Vale Transporte|Stock Options
+FUNC-0595,Tecnologia,Desenvolvedor Frontend Pl,Pleno,SP,Feminino,Branco,CLT 40h,Presencial,2024-09-14,2024-12-26,Reestruturação,Desligado,8696.79,17,3.0,1,Gympass|Vale Refeição|Plano de Saúde|Seguro de Vida
+FUNC-0596,Logística,Assistente de Logística,Júnior,MG,Feminino,Preto,CLT 44h,Home Office,2019-11-03,2023-07-24,Pedido do colaborador,Desligado,2696.54,38,3.0,3,Vale Refeição|Gympass|Home Office
+FUNC-0597,RH,Gerente de RH,Gestão,GO,Feminino,Pardo,CLT 40h,Presencial,2015-03-21,,,Ativo,16917.73,28,5.0,6,PLR|Vale Transporte|Home Office|Gympass|Auxílio Creche|Vale Refeição|Seguro de Vida
+FUNC-0598,RH,HRBP Sr,Sênior,PR,Feminino,Branco,PJ,Híbrido,2023-06-04,2024-12-10,Término de contrato,Desligado,13303.06,18,5.0,0,Gympass|Home Office|PLR|Seguro de Vida|Stock Options
+FUNC-0599,Tecnologia,Desenvolvedor Backend Sr,Sênior,PR,Masculino,Branco,CLT 40h,Híbrido,2021-02-16,2024-06-15,Pedido do colaborador,Ativo,14760.49,24,3.7,1,Plano de Saúde|Stock Options|Plano Odontológico|Vale Transporte|Seguro de Vida
+FUNC-0600,RH,Analista de RH Pl,Pleno,BA,Feminino,Branco,CLT 40h,Presencial,2024-08-26,,,Ativo,7000.0,90,3.6,1,Home Office|Stock Options|PLR|Vale Refeição
+FUNC-0601,Logística,Analista de Logística Pl,Pleno,BA,Feminino,Branco,CLT 44h,Home Office,2021-06-27,2023-07-16,Pedido do colaborador,Desligado,4906.08,36,3.4,0,Stock Options|Auxílio Creche|Plano Odontológico|PLR
+FUNC-0602,Comercial,Consultor de Vendas Sr,Sênior,BA,Feminino,Pardo,CLT 40h,Presencial,2021-05-25,2021-12-14,Desligamento sem justa causa,Desligado,6908.69,21,4.0,3,Stock Options|Gympass|Vale Transporte|Vale Refeição|Plano de Saúde
+FUNC-0603,Tecnologia,Desenvolvedor Backend Sr,Sênior,RJ,Masculino,Branco,CLT 44h,Presencial,2024-10-09,,,Ativo,15458.31,14,3.3,0,Auxílio Creche|Home Office|Vale Transporte|Gympass|Vale Refeição
+FUNC-0604,Jurídico,Advogado Jr,Júnior,RJ,Feminino,Pardo,CLT 44h,Híbrido,2024-09-23,,,Ativo,4486.18,47,3.9,1,Vale Refeição|Plano Odontológico|Plano de Saúde
+FUNC-0605,Marketing,Analista de Marketing Pl,Pleno,GO,Masculino,Não Informado,CLT 44h,Híbrido,2022-12-21,,,Ativo,8000.0,11,3.0,0,PLR|Plano de Saúde|Stock Options|Vale Transporte
+FUNC-0606,Financeiro,Coordenador Financeiro,Especialista,CE,Masculino,Branco,PJ,Home Office,2023-10-16,,,Ativo,10939.93,12,4.5,0,Vale Transporte|Home Office|Seguro de Vida|Vale Refeição|Auxílio Creche|Gympass
+FUNC-0607,Marketing,Assistente de Marketing,Júnior,MG,Masculino,Pardo,CLT 40h,Presencial,2024-10-19,,,Ativo,3070.37,22,1.8,7,Seguro de Vida|Stock Options|Gympass
+FUNC-0608,Tecnologia,Analista de Dados Sr,Sênior,RS,Feminino,Branco,CLT 40h,Híbrido,2020-05-23,,,Ativo,12272.35,22,4.9,5,Auxílio Creche|Vale Transporte|Vale Refeição|Plano de Saúde|PLR
+FUNC-0609,Tecnologia,Analista de Dados Pl,Pleno,RJ,Masculino,Branco,CLT 44h,Home Office,2020-07-02,2023-12-21,Pedido do colaborador,Desligado,7418.0,41,4.2,13,PLR|Plano de Saúde|Gympass|Seguro de Vida
+FUNC-0610,Comercial,Analista Comercial Pl,Pleno,SP,Masculino,Pardo,CLT 44h,Híbrido,2021-01-12,,,Ativo,6978.93,6,2.8,1,Home Office|Stock Options|Vale Refeição|Plano de Saúde
+FUNC-0611,Tecnologia,Desenvolvedor Frontend Sr,Sênior,SP,Masculino,Branco,CLT 40h,Presencial,2023-12-07,,,Ativo,15591.39,43,2.9,2,Plano Odontológico|Vale Transporte|Seguro de Vida|Auxílio Creche|PLR
+FUNC-0612,Comercial,Consultor de Vendas Sr,Sênior,MG,Feminino,Branco,PJ,Presencial,2019-08-21,,,Ativo,10065.47,15,2.9,0,Seguro de Vida|Home Office|Vale Transporte|Plano de Saúde|Plano Odontológico
+FUNC-0613,Tecnologia,Desenvolvedor Backend Pl,Pleno,PR,Feminino,Amarelo,CLT 44h,Presencial,2020-01-26,2024-01-27,Desligamento sem justa causa,Desligado,7723.03,22,2.9,0,PLR|Home Office|Gympass|Auxílio Creche
+FUNC-0614,Jurídico,Advogado Pl,Pleno,MG,Masculino,Pardo,CLT 44h,Híbrido,2020-01-05,2023-07-06,Término de contrato,Desligado,10032.58,14,3.5,8,Gympass|Home Office|Plano de Saúde|Plano Odontológico
+FUNC-0615,Operações,Técnico de Operações Pl,Pleno,SP,Não Informado,Branco,CLT 44h,Presencial,2018-04-12,,,Ativo,4296.32,17,3.9,2,Gympass|Stock Options|Seguro de Vida|Vale Refeição
+FUNC-0616,Financeiro,Coordenador Financeiro,Especialista,BA,Masculino,Branco,PJ,Presencial,2020-10-14,,,Ativo,11540.68,18,3.7,6,Plano de Saúde|Vale Transporte|Plano Odontológico|Home Office|Seguro de Vida|Auxílio Creche
+FUNC-0617,Comercial,Analista Comercial Pl,Pleno,RJ,Feminino,Branco,CLT 44h,Home Office,2019-11-23,,,Ativo,6109.44,6,3.2,0,Seguro de Vida|Plano de Saúde|PLR|Gympass
+FUNC-0618,Financeiro,Gerente Financeiro,Gestão,BA,Masculino,Branco,PJ,Híbrido,2020-03-03,,,Ativo,19306.03,19,4.2,0,Auxílio Creche|PLR|Plano de Saúde|Vale Transporte|Vale Refeição|Seguro de Vida|Home Office
+FUNC-0619,Financeiro,Analista Financeiro Pl,Pleno,PR,Masculino,Pardo,PJ,Híbrido,2024-01-25,2024-06-15,Pedido do colaborador,Ativo,6203.46,11,2.4,0,PLR|Stock Options|Gympass|Vale Refeição
+FUNC-0620,Comercial,Assistente Comercial,Júnior,RJ,Feminino,Branco,CLT 40h,Presencial,2017-06-09,,,Ativo,3200.0,9,4.2,0,PLR|Auxílio Creche|Vale Refeição
+FUNC-0621,Tecnologia,Desenvolvedor Backend Jr,Júnior,SC,Masculino,Pardo,CLT 40h,Presencial,2015-01-01,,,Ativo,5471.92,24,3.2,2,Stock Options|Plano Odontológico|Gympass
+FUNC-0622,Operações,Gerente de Operações,Gestão,SP,Masculino,Branco,CLT 40h,Noturno,2019-03-01,,,Ativo,21806.36,20,3.4,1,Home Office|Plano de Saúde|Vale Refeição|Seguro de Vida|Gympass|Auxílio Creche|Plano Odontológico
+FUNC-0623,Operações,Técnico de Operações Pl,Pleno,RJ,Feminino,Pardo,CLT 44h,Presencial,2020-07-16,,,Ativo,4059.28,33,,10,Plano de Saúde|PLR|Stock Options|Home Office
+FUNC-0624,Financeiro,Coordenador Financeiro,Especialista,RJ,Feminino,Branco,CLT 40h,Híbrido,2017-10-06,2024-10-01,Pedido do colaborador,Desligado,10829.25,15,3.9,0,Stock Options|Vale Refeição|Seguro de Vida|PLR|Vale Transporte|Gympass
+FUNC-0625,Comercial,Consultor de Vendas Sr,Sênior,PR,Masculino,Não Informado,PJ,Presencial,2020-06-23,,,Ativo,8218.89,24,3.7,0,Gympass|Vale Transporte|Home Office|Stock Options|PLR
+FUNC-0626,Financeiro,Assistente Financeiro,Júnior,PR,Feminino,Pardo,CLT 44h,Presencial,2017-01-19,,,Ativo,2474.78,81,2.6,0,PLR|Vale Refeição|Auxílio Creche
+FUNC-0627,Operações,Supervisor de Operações,Especialista,MG,Masculino,Branco,CLT 44h,Presencial,2023-08-21,,,Ativo,6390.12,36,4.4,2,Gympass|Stock Options|PLR|Auxílio Creche|Vale Transporte|Plano Odontológico
+FUNC-0628,Tecnologia,Analista de Dados Pl,Pleno,PE,Masculino,Pardo,CLT 44h,Híbrido,2024-03-14,,,Ativo,8440.5,10,3.9,1,Gympass|Stock Options|PLR|Plano de Saúde
+FUNC-0629,Financeiro,Analista Financeiro Pl,Pleno,SC,Feminino,Amarelo,CLT 44h,Presencial,,,,Ativo,6843.66,7,4.5,0,Gympass|Stock Options|PLR|Vale Transporte
+FUNC-0630,Tecnologia,Desenvolvedor Backend Sr,Sênior,PR,Masculino,Branco,PJ,Presencial,2021-11-21,,,Ativo,14635.21,34,3.4,0,Plano de Saúde|Stock Options|PLR|Gympass|Plano Odontológico
+FUNC-0631,Marketing,Assistente de Marketing,Júnior,CE,Não Informado,Branco,CLT 44h,Híbrido,2021-01-24,2024-11-02,Desligamento sem justa causa,Desligado,2724.53,22,2.7,3,Auxílio Creche|PLR|Plano Odontológico
+FUNC-0632,Tecnologia,Desenvolvedor Backend Sr,Sênior,RJ,Masculino,Pardo,PJ,Presencial,2021-06-23,2024-10-30,Pedido do colaborador,Desligado,16983.85,29,4.6,8,Home Office|Stock Options|PLR|Plano de Saúde|Vale Transporte
+FUNC-0633,Financeiro,Analista Financeiro Pl,Pleno,RJ,Feminino,Pardo,PJ,Presencial,2023-12-24,,,Ativo,5783.81,8,3.0,3,Home Office|Stock Options|Vale Transporte|Seguro de Vida
+FUNC-0634,RH,Gerente de RH,Gestão,SP,Feminino,Branco,PJ,Presencial,,,,Ativo,24224.39,39,4.7,2,Plano Odontológico|Stock Options|Auxílio Creche|Plano de Saúde|PLR|Gympass|Vale Transporte
+FUNC-0635,Operações,Operador de Produção,Júnior,SP,Masculino,Pardo,CLT 44h,Presencial,2020-09-24,,,Ativo,1782.42,20,3.1,0,Gympass|Plano Odontológico|Stock Options
+FUNC-0636,Tecnologia,Tech Lead,Especialista,MG,Feminino,Pardo,CLT 40h,Híbrido,2018-09-20,,,Ativo,16836.51,26,3.6,7,Stock Options|Plano Odontológico|Seguro de Vida|Auxílio Creche|Vale Refeição|Vale Transporte
+FUNC-0637,Logística,Analista de Logística Pl,Pleno,SP,Masculino,Pardo,PJ,Home Office,2017-03-24,,,Ativo,4762.12,13,3.1,5,PLR|Home Office|Stock Options|Vale Transporte
+FUNC-0638,Tecnologia,Desenvolvedor Backend Jr,Júnior,RJ,Feminino,Não Informado,CLT 40h,Presencial,2020-05-08,2022-11-27,Desligamento sem justa causa,Desligado,3718.36,59,3.4,3,PLR|Plano Odontológico|Stock Options
+FUNC-0639,Tecnologia,Desenvolvedor Backend Pl,Pleno,RS,Feminino,Branco,CLT 44h,Híbrido,2023-03-20,,,Ativo,7192.99,16,4.3,11,Plano de Saúde|Stock Options|PLR|Plano Odontológico
+FUNC-0640,Tecnologia,Desenvolvedor Frontend Pl,Pleno,RJ,Masculino,Branco,CLT 40h,Presencial,2015-11-14,2024-08-30,Pedido do colaborador,Desligado,8467.44,28,3.8,0,Plano de Saúde|Seguro de Vida|Plano Odontológico|Vale Transporte
+FUNC-0641,Tecnologia,Desenvolvedor Frontend Pl,Pleno,BA,Masculino,Amarelo,CLT 40h,Presencial,2023-10-14,,,Ativo,7012.33,20,3.3,0,Gympass|Vale Refeição|Plano de Saúde|PLR
+FUNC-0642,Financeiro,Coordenador Financeiro,Especialista,RJ,Masculino,Branco,PJ,Presencial,2021-07-07,,,Ativo,12781.46,29,4.3,0,Vale Refeição|Home Office|Seguro de Vida|Plano Odontológico|Vale Transporte|PLR
+FUNC-0643,RH,Analista de RH Pl,Pleno,SP,Feminino,Pardo,CLT 40h,Noturno,2019-03-24,,,Ativo,5100.08,48,4.2,3,Auxílio Creche|Vale Refeição|Gympass|Seguro de Vida
+FUNC-0644,Operações,Técnico de Operações Pl,Pleno,SP,Masculino,Branco,CLT 44h,Presencial,2017-07-19,,,Ativo,4410.92,11,3.9,1,PLR|Vale Transporte|Stock Options|Auxílio Creche
+FUNC-0645,RH,Analista de RH Sr,Sênior,RJ,Masculino,Branco,PJ,Noturno,2023-07-04,,,Ativo,7454.74,14,4.1,6,Seguro de Vida|Vale Refeição|PLR|Gympass|Home Office
+FUNC-0646,Financeiro,Coordenador Financeiro,Especialista,MG,Masculino,Pardo,CLT 44h,Híbrido,2023-02-11,2024-10-26,Desligamento sem justa causa,Desligado,13849.43,52,2.8,0,PLR|Vale Refeição|Auxílio Creche|Vale Transporte|Home Office|Gympass
+FUNC-0647,Marketing,Analista de Marketing Pl,Pleno,SP,Feminino,Pardo,CLT 44h,Home Office,2019-10-21,2022-04-08,Término de contrato,Desligado,4861.12,58,3.0,0,Home Office|Gympass|Auxílio Creche|Plano de Saúde
+FUNC-0648,Tecnologia,Desenvolvedor Frontend Jr,Júnior,GO,Masculino,Pardo,CLT 40h,Presencial,2016-07-24,,,Ativo,5270.85,39,3.8,9,Vale Refeição|Seguro de Vida|Gympass
+FUNC-0649,Jurídico,Estagiário Jurídico,Estagiário,SP,Masculino,Preto,Estágio,Híbrido,2019-12-03,,,Ativo,1446.97,18,4.3,0,Home Office|Stock Options
+FUNC-0650,Jurídico,Advogado Jr,Júnior,PE,Feminino,Branco,CLT 44h,Híbrido,2023-11-07,,,Ativo,4826.52,18,3.3,0,Seguro de Vida|PLR|Auxílio Creche
+FUNC-0459,Comercial,Assistente Comercial,Júnior,SC,Feminino,Pardo,CLT 40h,Presencial,2015-03-16,,,Ativo,1947.22,22,3.5,0,Stock Options|Home Office|Vale Transporte
+FUNC-0277,Marketing,Designer Sr,Sênior,RJ,Masculino,Branco,CLT 40h,Presencial,2024-07-02,,,Ativo,8565.73,14,4.1,2,Gympass|Vale Transporte|Home Office|Vale Refeição|PLR
+FUNC-0172,Comercial,Analista Comercial Pl,Pleno,RJ,Masculino,Pardo,CLT 44h,Home Office,2018-10-24,,,Ativo,4440.62,9,3.0,5,Seguro de Vida|Auxílio Creche|Vale Refeição|Plano de Saúde
+FUNC-0381,Marketing,Designer Sr,Sênior,SP,Feminino,Preto,PJ,Presencial,2024-09-02,,,Ativo,8577.85,17,3.1,0,Home Office|Plano Odontológico|Seguro de Vida|Gympass|Stock Options
+FUNC-0281,Marketing,Analista de Marketing Pl,Pleno,SP,Masculino,Branco,CLT 44h,Home Office,2017-08-08,,,Ativo,5689.83,18,3.6,4,Seguro de Vida|Home Office|Gympass|PLR
+FUNC-0608,Tecnologia,Analista de Dados Sr,Sênior,RS,Feminino,Branco,CLT 40h,Híbrido,2020-05-23,,,Ativo,12272.35,22,4.9,5,Auxílio Creche|Vale Transporte|Vale Refeição|Plano de Saúde|PLR
+FUNC-0284,RH,Assistente de RH,Júnior,PR,Feminino,Pardo,CLT 44h,Híbrido,2015-11-22,2017-05-01,Desligamento por justa causa,Desligado,1840.57,11,2.9,2,Auxílio Creche|PLR|Plano de Saúde
+FUNC-0268,Tecnologia,Desenvolvedor Frontend Pl,Pleno,RJ,Masculino,Amarelo,CLT 44h,Híbrido,2022-11-24,2024-04-14,Pedido do colaborador,Desligado,8961.1,16,4.1,17,Vale Refeição|Gympass|Vale Transporte|Plano de Saúde
+FUNC-0180,Jurídico,Estagiário Jurídico,Estagiário,RJ,Feminino,Branco,Estágio,Presencial,2020-09-27,2021-07-05,Pedido do colaborador,Desligado,1261.18,4,3.4,4,Stock Options|Vale Transporte
+FUNC-0075,Operações,Técnico de Operações Pl,Pleno,SC,Feminino,Não Informado,CLT 44h,Híbrido,2024-07-16,,,Ativo,4262.38,32,3.1,6,Auxílio Creche|Gympass|Plano Odontológico|Home Office
+FUNC-0584,Comercial,Assistente Comercial,Júnior,SP,Masculino,Pardo,CLT 40h,Híbrido,2024-11-02,,,Ativo,3139.39,16,3.8,0,Auxílio Creche|Seguro de Vida|Home Office
+FUNC-0444,RH,Analista de RH Sr,Sênior,SP,Feminino,Pardo,CLT 40h,Híbrido,2018-05-19,2020-10-13,Pedido do colaborador,Desligado,9291.6,22,2.8,0,Plano de Saúde|Auxílio Creche|Gympass|Plano Odontológico|Home Office
+FUNC-0310,Marketing,Coordenador de Marketing,Especialista,SC,Não Informado,Pardo,CLT 40h,Híbrido,2019-09-09,,,Ativo,8741.84,10,3.4,3,Stock Options|Home Office|Gympass|PLR|Vale Refeição|Plano Odontológico
+FUNC-0328,Operações,Operador de Produção,Júnior,SP,Masculino,Preto,PJ,Híbrido,2016-01-02,,,Ativo,2192.67,28,3.6,0,Vale Transporte|PLR|Home Office
+FUNC-0002,RH,Analista de RH Pl,Pleno,CE,Masculino,Preto,CLT 44h,Híbrido,2019-02-04,,,Ativo,5070.37,137,3.6,0,Vale Transporte|Plano Odontológico|Seguro de Vida|Vale Refeição
+FUNC-0552,Logística,Assistente de Logística,Júnior,PR,Masculino,Preto,CLT 44h,Híbrido,2021-05-17,,,Ativo,2867.77,33,2.6,3,Plano Odontológico|Home Office|Seguro de Vida
+FUNC-0121,Tecnologia,Desenvolvedor Backend Jr,Júnior,RS,Masculino,Branco,CLT 44h,Híbrido,2018-07-23,,,Ativo,3639.46,13,3.4,1,Stock Options|PLR|Vale Refeição
+FUNC-0614,Jurídico,Advogado Pl,Pleno,MG,Masculino,Pardo,CLT 44h,Híbrido,2020-01-05,2023-07-06,Término de contrato,Desligado,10032.58,14,3.5,8,Gympass|Home Office|Plano de Saúde|Plano Odontológico
+FUNC-0461,Tecnologia,Desenvolvedor Frontend Pl,Pleno,CE,Feminino,Não Informado,CLT 44h,Presencial,2019-02-13,,,Ativo,8945.02,7,3.3,0,Stock Options|Plano de Saúde|Auxílio Creche|Vale Transporte
+FUNC-0296,RH,Assistente de RH,Júnior,RS,Feminino,Branco,CLT 44h,Presencial,2022-03-09,2023-01-14,Desligamento sem justa causa,Desligado,2764.61,16,3.3,1,Vale Refeição|Seguro de Vida|Plano de Saúde
+FUNC-0021,Operações,Gerente de Operações,Gestão,RJ,Masculino,Branco,CLT 40h,Híbrido,2016-05-11,,,Ativo,19717.69,41,4.0,5,Stock Options|Vale Transporte|Auxílio Creche|PLR|Home Office|Vale Refeição|Gympass
+FUNC-0287,Operações,Supervisor de Operações,Especialista,SP,Masculino,Branco,CLT 40h,Híbrido,2019-10-09,,,Ativo,7355.11,8,,2,Gympass|Seguro de Vida|Auxílio Creche|Plano de Saúde|Home Office|PLR
+FUNC-0596,Logística,Assistente de Logística,Júnior,MG,Feminino,Preto,CLT 44h,Home Office,2019-11-03,2023-07-24,Pedido do colaborador,Desligado,2696.54,38,3.0,3,Vale Refeição|Gympass|Home Office
+FUNC-0451,Operações,Supervisor de Operações,Especialista,SP,Feminino,Branco,CLT 40h,Presencial,2021-06-15,2021-10-16,Término de contrato,Desligado,8626.56,53,3.9,1,Home Office|Seguro de Vida|Gympass|PLR|Auxílio Creche|Plano Odontológico
+FUNC-0534,Logística,Analista de Logística Pl,Pleno,SC,Feminino,Branco,CLT 44h,Híbrido,2017-10-14,,,Ativo,4726.74,12,4.0,3,PLR|Auxílio Creche|Seguro de Vida|Vale Transporte
+FUNC-0377,RH,Coordenador de RH,Especialista,PR,Masculino,Branco,CLT 40h,Híbrido,2023-08-23,2024-01-29,Pedido do colaborador,Desligado,10036.32,19,3.8,0,Home Office|Vale Refeição|Plano de Saúde|PLR|Stock Options|Vale Transporte
+FUNC-0300,Financeiro,Gerente Financeiro,Gestão,RJ,Masculino,Pardo,CLT 40h,Home Office,2017-02-03,2021-08-21,Término de contrato,Desligado,22219.86,29,4.7,1,PLR|Seguro de Vida|Stock Options|Home Office|Auxílio Creche|Plano Odontológico|Vale Transporte
+FUNC-0305,Tecnologia,Tech Lead,Especialista,GO,Masculino,Branco,PJ,Híbrido,2021-12-25,,,Ativo,18322.86,41,3.6,0,PLR|Auxílio Creche|Vale Transporte|Seguro de Vida|Stock Options|Home Office

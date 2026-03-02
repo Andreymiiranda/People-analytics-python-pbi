@@ -1,0 +1,60 @@
+﻿Tabela,Campo,Tipo,Descricao,Observacoes_Qualidade
+funcionarios.csv,ID_Funcionario,Texto,Identificador único do colaborador. Formato: FUNC-XXXX,Chave Primária
+funcionarios.csv,Departamento,Texto,Área de atuação,
+funcionarios.csv,Cargo,Texto,Cargo ocupado na empresa,
+funcionarios.csv,Nivel_Hierarquico,Texto,Estagiário / Júnior / Pleno / Sênior / Especialista / Gestão / Diretoria,
+funcionarios.csv,Estado,Texto,UF de atuação,
+funcionarios.csv,Genero,Texto,Gênero autodeclarado,Dado sensível — anonimizado
+funcionarios.csv,Etnia,Texto,Etnia autodeclarada conforme IBGE,Dado sensível — anonimizado
+funcionarios.csv,Regime_Trabalho,Texto,CLT 44h / CLT 40h / PJ / Estágio,
+funcionarios.csv,Turno,Texto,Presencial / Home Office / Híbrido / Noturno,
+funcionarios.csv,Data_Admissao,Data YYYY-MM-DD,Data de entrada na empresa,⚠️ ~20 registros em branco
+funcionarios.csv,Data_Desligamento,Data YYYY-MM-DD,Data de saída. Nulo se ativo,⚠️ ~12 registros Ativos com data preenchida indevidamente
+funcionarios.csv,Motivo_Desligamento,Texto,Razão do desligamento. Nulo se ativo,
+funcionarios.csv,Status,Texto,Ativo / Desligado,
+funcionarios.csv,Salario_Bruto,Número R$,Salário bruto mensal,⚠️ ~15 registros em branco
+funcionarios.csv,Horas_Treinamento_Ano,Inteiro,Total de horas de treinamento no ano,
+funcionarios.csv,Avaliacao_Desempenho,Número 1-5,Nota da última avaliação,⚠️ ~10 registros em branco para colaboradores Ativos
+funcionarios.csv,Dias_Falta_Ano,Inteiro,Dias de ausência no ano calendário,
+funcionarios.csv,Beneficios,Texto,Lista separada por | dos benefícios ativos,Requer split no Power BI
+funcionarios.csv,⚠️ DUPLICATAS,—,~28 linhas duplicadas inseridas na tabela,Remover com Remove Duplicates no Power Query
+avaliacoes_desempenho.csv,ID_Avaliacao,Texto,Identificador único da avaliação. Formato: AV-XXXXXX,Chave Primária
+avaliacoes_desempenho.csv,ID_Funcionario,Texto,Referência ao colaborador,FK → funcionarios | ⚠️ ~15 registros em branco
+avaliacoes_desempenho.csv,Periodo,Texto,Semestre de avaliação. Ex: 2023-S2,
+avaliacoes_desempenho.csv,Nota_Geral,Número 1-5,Nota consolidada do período,
+avaliacoes_desempenho.csv,Competencia_Avaliada,Texto,Foco da avaliação do período,
+avaliacoes_desempenho.csv,Meta_Atingida_Pct,Número %,% da meta individual atingida. Pode ultrapassar 100%,
+avaliacoes_desempenho.csv,Avaliador_ID,Texto,ID do gestor avaliador,FK → funcionarios
+avaliacoes_desempenho.csv,Observacao,Texto,Comentário qualitativo. Pode ser nulo,
+avaliacoes_desempenho.csv,⚠️ DUPLICATAS,—,~40 linhas duplicadas inseridas,
+treinamentos.csv,ID_Treinamento,Texto,Identificador único do treinamento. Formato: TR-XXXXXX,Chave Primária
+treinamentos.csv,ID_Funcionario,Texto,Referência ao colaborador,FK → funcionarios
+treinamentos.csv,Nome_Treinamento,Texto,Nome do curso/treinamento,
+treinamentos.csv,Categoria,Texto,Técnico / Comportamental / Compliance / Obrigatório / Institucional / Idioma,
+treinamentos.csv,Carga_Horaria_h,Inteiro,Duração total em horas,⚠️ ~15 registros em branco
+treinamentos.csv,Data_Inicio,Data,Data de início,
+treinamentos.csv,Data_Fim,Data,Data de conclusão,
+treinamentos.csv,Status,Texto,Concluído / Não Concluído / Em Andamento,
+treinamentos.csv,Nota_Final,Número 0-10,Nota obtida. Nulo se não concluído,⚠️ ~20 registros com nota preenchida em Status 'Não Concluído'
+treinamentos.csv,Modalidade,Texto,Presencial / EAD / Híbrido,
+absenteismo.csv,ID_Ausencia,Texto,Identificador único da ausência. Formato: AUS-XXXXXX,Chave Primária
+absenteismo.csv,ID_Funcionario,Texto,Referência ao colaborador,FK → funcionarios | ⚠️ ~10 registros em branco
+absenteismo.csv,Data_Ausencia,Data,Data do evento de ausência,
+absenteismo.csv,Motivo,Texto,Motivo do afastamento,
+absenteismo.csv,Qtd_Dias,Inteiro,Quantidade de dias do evento,
+absenteismo.csv,Justificado,Texto,Sim / Não,
+absenteismo.csv,CID,Texto,Código CID quando atestado médico. Pode ser nulo,
+recrutamento_vagas.csv,ID_Vaga,Inteiro,Identificador único da vaga,Chave Primária
+recrutamento_vagas.csv,Departamento,Texto,Área da vaga,
+recrutamento_vagas.csv,Cargo,Texto,Cargo a ser preenchido,
+recrutamento_vagas.csv,Tipo_Vaga,Texto,Nova Posição / Substituição / Expansão de Time,
+recrutamento_vagas.csv,Status_Vaga,Texto,Encerrada / Cancelada / Em Andamento / Aberta,
+recrutamento_vagas.csv,Data_Abertura,Data,Data de abertura da vaga,
+recrutamento_vagas.csv,Data_Fechamento,Data,Data de encerramento. Nulo se aberta,
+recrutamento_vagas.csv,SLA_Dias,Inteiro,Dias para fechamento da vaga. Nulo se aberta,
+recrutamento_vagas.csv,Fonte_Principal,Texto,Canal de atração com mais candidatos,
+recrutamento_vagas.csv,Candidatos_Recebidos,Inteiro,Total de candidaturas,⚠️ ~8 vagas com Entrevistados > Recebidos (erro de lançamento)
+recrutamento_vagas.csv,Candidatos_Entrevistados,Inteiro,Candidatos que chegaram à entrevista,
+recrutamento_vagas.csv,Contratados,Inteiro,Número de aprovados e contratados,
+recrutamento_vagas.csv,Salario_Ofertado,Número R$,Salário ofertado para a vaga,⚠️ ~10 registros em branco
+recrutamento_vagas.csv,Responsavel_RH_ID,Texto,ID do analista responsável,FK → funcionarios
