@@ -10,18 +10,17 @@ As análises cobrem pilares fundamentais do RH, incluindo controle de absenteís
 * **Visualização de Dados:** Power BI
 * **Estrutura de Dados:** Arquivos CSV modelados em tabelas Fato e Dimensão.
 
-## ⚙️ Arquitetura dos Dados e ETL (Python)
-Todo o processo de limpeza, padronização e consolidação dos dados foi roteirizado no script `main.py`. O fluxo processa as seguintes bases brutas:
+## ⚙️ Processo de ETL (Desenvolvido 100% em Python)
+Todo o pipeline de processamento e limpeza de dados foi arquitetado e desenvolvido do zero por mim, utilizando a biblioteca **Pandas**. O script `main.py` é o núcleo do projeto, responsável por automatizar a preparação das bases de dados brutas antes de chegarem ao Power BI. 
 
-* **Tabela Dimensão:**
-  * `funcionarios.csv`: Cadastro central contendo o perfil demográfico e profissional dos colaboradores.
-* **Tabelas Fato:**
-  * `treinamentos.csv`: Histórico de capacitações, modalidade (EAD/Presencial), status e custo.
-  * `absenteismo.csv`: Registro de faltas, licenças e controle de presença.
-  * `avaliacoes_desempenho.csv`: Notas, competências avaliadas e feedbacks das avaliações periódicas.
-  * `recrutamento_vagas.csv`: Controle de vagas abertas, tempo de fechamento (SLA) e status das contratações.
-* **Documentação:**
-  * `dicionario_de_dados.csv`: Mapeamento completo detalhando o significado, tipo de dado e origem de cada coluna utilizada nas tabelas acima.
+O fluxo de engenharia de dados construído consiste em:
+1. **Extração (Extract):** * Leitura automatizada dos arquivos CSV originais: `funcionarios.csv`, `treinamentos.csv`, `absenteismo.csv`, `avaliacoes_desempenho.csv` e `recrutamento_vagas.csv`.
+2. **Transformação (Transform):** * **Sanear Dados:** Identificação e tratamento de valores nulos, remoção de duplicatas e correção de tipagem de dados (datas, valores financeiros, textos).
+   * **Regras de Negócio:** Criação de colunas calculadas e padronização de categorias (ex: consolidando o status de conclusão dos treinamentos e calculando o custo/hora).
+   * **Modelagem Relacional:** Cruzamento de tabelas (Merges/Joins) para integrar o histórico de cada funcionário com suas respectivas métricas.
+3. **Carga (Load):** * Geração de arquivos finais consolidados, estruturados perfeitamente para otimizar a performance de modelagem no Power BI. Inclui também um `dicionario_de_dados.csv` documentando as regras.
+
+> 💡 **Destaque Técnico:** A automação desse processo em Python garante escalabilidade. Quando o RH gerar novas planilhas nos meses seguintes, basta rodar o `main.py` para que os dados sejam higienizados e o dashboard seja atualizado perfeitamente.
 
 ## 📈 Dashboard e Insights (Power BI)
 O modelo estruturado pelo Python foi conectado ao Power BI para a criação do painel analítico. O relatório permite o cruzamento de dados entre diferentes áreas do RH.
@@ -36,5 +35,5 @@ O modelo estruturado pelo Python foi conectado ao Power BI para a criação do p
 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
-   ```bash
-  
+  ```bash
+   git clone https://github.com/Andreymiiranda/People-analytics-python-pbi.git
